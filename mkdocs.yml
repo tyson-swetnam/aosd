@@ -1,0 +1,150 @@
+site_name: 'The Art of Scientific Discovery'
+site_description: 'A course in problem-solving strategy and creative thinking'
+site_author: 'University of Arizona'
+site_url: https://tswetnam.github.io/aosd
+
+# Repository
+repo_name: aosd
+repo_url: https://github.com/tswetnam/aosd
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2025 University of Arizona'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Course Sections:
+    - Section 1 - Detecting Nonsense: section1.md
+    - Section 2 - Creative Blocks: section2.md
+    - Section 3 - Observations & Questions: section3.md
+    - Section 4 - Patterns & Generalizations: section4.md
+    - Section 5 - Inferences & Explanations: section5.md
+  - Methods:
+    - GamesWorth: gamesworth.md
+  - Resources:
+    - Recommended Readings: readings.md
+# Configuration
+
+theme:
+  name: 'material'
+  #custom_dir: material/overrides
+  # 404 page
+  static_templates:
+    - 404.html
+  # Don't include MkDocs' JavaScript
+  include_search_page: true
+  search_index_only: false
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: home 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Montserrat
+    code: Regular
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.code.prettify
+    - content.tooltips
+  favicon: 'assets/ua.ico'
+  logo: 'assets/ua.png'
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-6639-7181
+    - icon: simple/googlescholar  
+      link: https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en
+    - icon: fontawesome/brands/github
+      link: https://github.com/tyson-swetnam/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/tswetnam
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tyson-swetnam
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/tswetnam
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ
+  analytics:
+    provider: google
+    property: G-NYETZFD8DN
+  
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
+  - chatbot_widget.css
+
+extra_javascript:
+  - chatbot_widget.js
+ 
+plugins:
+  - mkdocstrings
+  - mkdocs-jupyter
+  - search
