@@ -21,6 +21,7 @@ A **GamesWorth (GW)** is Professor Winfree's term for a focused, uninterrupted s
 - **Quality over Quantity:** Better to do 45 minutes of focused work than 2 hours with interruptions
 
 ### The Sacred Hour
+
 Professor Winfree emphasized that interruptions destroy the value of thinking sessions:
 
 > "An hour's work punctuated with three 5-minute interruptions has lost you not 15 minutes... it has instead prevented you getting warmed up to 60-minute heat, replacing that experience by 3 times getting up to 15-minute heat."
@@ -141,6 +142,7 @@ This is the most valuable use of left-hand pages:
 ## Common Challenges and Solutions
 
 ### "I Don't Have Time"
+
 - Start with shorter, more focused sessions
 - Protect the time as rigorously as you would a medical appointment
 - Remember that quality matters more than quantity
@@ -153,12 +155,14 @@ This is the most valuable use of left-hand pages:
 - Practice explaining solutions to imaginary students
 
 ### "I Get Stuck Too Easily"
+
 - Record your stuck points rather than abandoning them
 - Try approaching from completely different angles
 - Take breaks within the session to reset your thinking
 - Remember that getting stuck is part of the learning process
 
 ### "My Work Isn't Good Enough"
+
 - Focus on effort and process rather than correct answers
 - Document your reasoning process thoroughly
 - Learn from mistakes rather than hiding them
@@ -167,12 +171,14 @@ This is the most valuable use of left-hand pages:
 ## The Long-Term Benefits
 
 ### Immediate Course Benefits
+
 - **Better problem-solving** performance in class
 - **Deeper understanding** of course concepts
 - **More effective collaboration** with classmates
 - **Greater confidence** in tackling difficult problems
 
 ### Lifelong Benefits
+
 - **Enhanced creativity** and innovation ability
 - **Better analytical** thinking skills
 - **Increased tolerance** for ambiguity and confusion
@@ -189,7 +195,7 @@ Your GamesWorth notebook will be evaluated on:
 - **Thoughtfulness** of morning-after reconsiderations
 - **Collaboration** quality in exchanges with peers
 
-Remember: The goal is not to produce perfect solutions, but to develop the habits and skills of sustained, creative thinking that will benefit you throughout your life.
+> **Remember**: The goal is not to produce perfect solutions, but to develop the habits and skills of sustained, creative thinking that will benefit you throughout your life.
 
 ---
 
