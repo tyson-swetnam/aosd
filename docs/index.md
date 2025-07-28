@@ -14,7 +14,7 @@
 Welcome to **The Art of Scientific Discovery**, a unique 3-credit course originally designed by the renowned scientist and educator [**Professor Arthur T. Winfree**](https://en.wikipedia.org/wiki/Arthur_Winfree){target=_blank} at the University of Arizona. This course represents a revolutionary approach to developing your ability to solve problems like those encountered in scientific investigations.
 
 !!! info "Original Course Materials"
-    This website is based on Professor Winfree's original syllabus and course materials. You can view the [original PDF syllabus](assets/Art_of_Scientific_Discovery_Syllabus.pdf) that forms the foundation of this course.
+    This website is based on Professor Winfree's original syllabus and course materials. You can view the [original PDF syllabus](./assets/aosd_syllabus.pdf) that forms the foundation of this course.
 
 Unlike traditional lecture courses, this is an active learning experience focused on developing your problem-solving skills and creative thinking abilities through hands-on practice and collaborative learning.
 

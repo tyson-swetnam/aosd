@@ -96,6 +96,7 @@
 
 ## Professor Arthur T. Winfree's Major Works
 
+[Editorial Arthur T. Winfree (1942–2002) Journal of Theoretical Biology 230 (2004) 433–439](https://www.medicine.mcgill.ca/physio/glasslab/pub_pdf/winfree_2004.pdf){target=_blank}
 ### Books
 
 **["The Geometry of Biological Time"](https://link.springer.com/book/10.1007/978-1-4757-3484-3){target=_blank} (1980, 2001)**
