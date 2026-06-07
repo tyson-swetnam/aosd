@@ -145,7 +145,7 @@ A genetics problem involving:
 - **Existence** - prediction of new phenomena or entities
 - **Conditional** - what will happen under specific circumstances
 
-## GameWorth Practice for Theory Building
+## GamesWorth Practice for Theory Building
 
 Focus your daily sessions on:
 
@@ -180,18 +180,19 @@ Focus your daily sessions on:
 
 Your work will be evaluated on:
 - **Quality of explanations** you construct
-- **Sophistication of reasoning** in your GameWorth notebook
+- **Sophistication of reasoning** in your GamesWorth notebook
 - **Ability to generate testable predictions** from your theories
 - **Effectiveness in collaborative** theory-building exercises
 - **Growth in explanatory power** and theoretical thinking
 
 ## Readings and Resources
 
-- **Chamberlin:** "Multiple Working Hypotheses" - the classic paper on avoiding theoretical bias
-- **Platt:** "Strong Inference" - systematic approach to theory testing
-- **Judson, Chapter 7:** "Strong Predictions" - the role of prediction in science
-- **Judson, Chapter 9:** "Theory" - how scientific theories develop and change
-- **Feynman:** "The Character of Physical Law" - insights into theoretical reasoning
+- **T.C. Chamberlin**, ["The Method of Multiple Working Hypotheses"](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓 — the classic paper on avoiding theoretical bias
+- **John R. Platt**, ["Strong Inference"](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓 — systematic approach to theory testing
+- **Horace Freeland Judson**, *The Search for Solutions* — Chapter 7 "Strong Predictions" and Chapter 9 "Theory" ([Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*)
+- **Richard P. Feynman**, ["The Character of Physical Law"](https://archive.org/details/the-messenger-lectures){target=_blank} 🔓 — insights into theoretical reasoning
+
+See the full [Recommended Readings](readings.md) for complete citations.
 
 ## Culminating Experience
 
@@ -200,6 +201,18 @@ This section concludes with comprehensive exercises that integrate all course sk
 - **Theory construction** and testing
 - **Collaborative discovery** of fundamental principles
 - **Reflection on learning** and skill development throughout the course
+
+## Problem Sources
+
+- **Multiple Working Hypotheses (Chamberlin Method)** — T.C. Chamberlin, ["The Method of Multiple Working Hypotheses"](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓 (1890)
+- **Strong Inference (Platt Method)** — John R. Platt, ["Strong Inference"](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓 (*Science*, 1964)
+- **Stacked Cantilevers Laboratory** — the block-stacking / maximum-overhang problem; Paterson, Peres, Thorup, Winkler & Zwick, ["Maximum Overhang"](https://arxiv.org/abs/0707.0093){target=_blank} 🔓 (2009)
+- **LoShu (Magic Squares)** — the [Lo Shu square](https://en.wikipedia.org/wiki/Luoshu_Square){target=_blank} 🔓, the unique order-3 magic square
+- **Laws of Toy Universe Discovery** — original Winfree inductive-discovery lab (no external source)
+- **The Miracle of FujiYama** — original course puzzle (no published external source identified)
+- **Antigen Invasions** — original Winfree dynamic-systems modeling exercise (no external source)
+- **Martian DNA** — original Winfree astrobiology thought experiment (no external source)
+- **Bacterial Hybrids** — original Winfree genetics inference problem (no external source)
 
 ---
 

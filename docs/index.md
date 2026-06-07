@@ -4,7 +4,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
-> **All materials originally developed by [Professor Arthur T. Winfree](https://web.archive.org/web/20040801000000*/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm){target=_blank}**  
+> **All materials originally developed by [Professor Arthur T. Winfree](https://web.archive.org/web/20070214070741/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm){target=_blank}**  
 *Department of Ecology and Evolutionary Biology, The University of Arizona, Arizona Board of Regents*
 
 ---
@@ -41,7 +41,7 @@ This course operates on the principle that **problem-solving can be taught and i
 
 ### [The GamesWorth Method](gamesworth.md)
 
-Central to the course is developing a daily **"Game's-Worth" (GW)** practice - focused, uninterrupted thinking sessions where you:
+Central to the course is developing a daily **GamesWorth (GW)** practice - focused, uninterrupted thinking sessions where you:
 
 - Log your problem-solving approaches
 - Document insights and blind alleys  

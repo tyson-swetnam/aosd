@@ -103,7 +103,7 @@ This section emphasizes that creative thinking benefits from:
 - **Constructive criticism** that builds rather than destroys
 - **Group brainstorming** sessions with specific rules and structures
 
-## GameWorth Practice for This Section
+## GamesWorth Practice for This Section
 
 Focus your daily practice sessions on:
 
@@ -125,12 +125,21 @@ Your work will be evaluated on:
 
 ## Resources and Readings
 
-- **Adams, Chapter 2:** Perceptual Blocks
-- **Adams, Chapter 3:** Emotional Blocks  
-- **Adams, Chapter 4:** Cultural Blocks
-- **Adams, Chapter 5:** Intellectual Blocks
-- **Adams, Chapter 7:** Blockbusters (techniques for overcoming blocks)
-- **Platt:** "Diversity" - the value of multiple approaches
+- **James L. Adams**, *Conceptual Blockbusting* — Chapters 2–5 (Perceptual, Emotional, Cultural, Intellectual blocks) and Chapter 7 (Blockbusters) ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
+- **John R. Platt**, ["Diversity"](https://doi.org/10.1126/science.154.3753.1132){target=_blank} 🔒 — the value of multiple approaches
+
+See the full [Recommended Readings](readings.md) for complete citations.
+
+## Problem Sources
+
+- **Weird Organism** — a perceptual-block exercise in the spirit of Adams' *Conceptual Blockbusting* ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
+- **Rearranged Triangle** — the [missing-square paradox](https://en.wikipedia.org/wiki/Missing_square_puzzle){target=_blank} 🔓 (Martin Gardner, *Mathematics, Magic and Mystery*, 1956)
+- **The Barometer Story** — Alexander Calandra, ["Angels on the Head of a Pin"](https://www.stephenhicks.org/2022/07/10/angels-on-the-head-of-a-pin-by-alexander-calandra/){target=_blank} 🔓 (*Saturday Review*, 1968)
+- **Dominoes Lab** — the mutilated-chessboard problem; Max Black, [*Critical Thinking*](https://archive.org/details/criticalthinking0000maxb){target=_blank} 🔓 *(borrow)* (1946)
+- **Collective Reproduction** — original Winfree group lab (no external source)
+- **Telltale Number** — an assumption-questioning exercise from Adams' *Conceptual Blockbusting* ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
+- **Mercury's Hidden Hemisphere** — the pre-1965 belief that Mercury kept one face to the Sun, overturned by radar; see [Mercury (planet)](https://en.wikipedia.org/wiki/Mercury_%28planet%29){target=_blank} 🔓 (Pettengill & Dyce, *Nature* 206, 1240, 1965 🔒)
+- **Walking Through Walls** — original Winfree creative-reframing exercise (no external source)
 
 ---
 

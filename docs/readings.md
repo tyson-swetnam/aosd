@@ -4,147 +4,150 @@
 
 *Essential readings for developing scientific problem-solving skills*
 
+!!! note "About the links"
+    🔓 = open access (free full text) · 🔓 *(borrow)* = free to read via Internet Archive controlled lending · 🔒 = paywalled (subscription or purchase). Where a free copy exists alongside the publisher version, the open link is given first and the canonical DOI noted in the annotation.
+
 ## Required Course Books
 
 ### Primary Texts
 
-**James L. Adams** - [*Conceptual Blockbusting: A Guide to Better Ideas, 5th edition*](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/1541674049){target=_blank}
+**James L. Adams** — [*Conceptual Blockbusting: A Guide to Better Ideas*, 5th edition](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒
 
-[Online, 3rd Edition](https://muqithfiles.wordpress.com/wp-content/uploads/2020/07/conceptual-blockbusting-a-guide-to-better-ideas-by-james-l.-adams.pdf){target=_blank}
+: A consulting engineer's practical approach to overcoming mental barriers to creative problem-solving. This book forms the foundation for understanding the four types of creative blocks: perceptual, emotional, cultural, and intellectual. *Basic Books, 2019.* (No legitimate open-access edition exists; earlier editions can be borrowed through library systems.)
 
-: A consulting engineer's practical approach to overcoming mental barriers to creative problem-solving. This book forms the foundation for understanding the four types of creative blocks: perceptual, emotional, cultural, and intellectual.
+**Robert Ehrlich** — [*Nine Crazy Ideas in Science: A Few Might Even Be True*](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒
 
-**Robert Ehrlich** - [*Nine Crazy Ideas in Science: A Few Might Even Be True*](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank}
-
-[JSTOR link](https://www.jstor.org/stable/j.ctv36zqj8){target=_blank}
-
-: A physicist's exploration of unconventional scientific ideas and the process of evaluating extraordinary claims. Demonstrates how to maintain scientific skepticism while remaining open to revolutionary possibilities.
+: A physicist's exploration of unconventional scientific ideas and the process of evaluating extraordinary claims. Demonstrates how to maintain scientific skepticism while remaining open to revolutionary possibilities. *Princeton University Press, 2001.*
 
 ### Additional Core Reading
 
-**Horace Freeland Judson** - [*The Search for Solutions*](https://archive.org/details/searchforsolutio00juds/mode/2up){target=_blank}
+**Horace Freeland Judson** — [*The Search for Solutions*](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*
 
-[Amazon](https://www.amazon.com/Search-Solutions-Horace-Freeland-Judson/dp/0030437717){target=_blank}
+: A historian's perspective on how scientific discoveries actually happen, with detailed case studies of breakthrough moments in various fields. *Holt, Rinehart and Winston, 1980; abridged edition Johns Hopkins University Press, 1987.* Out of print; free to read via Internet Archive with a free account.
 
-: A historian's perspective on how scientific discoveries actually happen, with detailed case studies of breakthrough moments in various fields. *Note: Out of print - available as xerox copies or PDF files.*
+### Highly Recommended
 
-### Highly Recommended (On Reserve)
+**W.I.B. Beveridge** — [*The Art of Scientific Investigation*](https://archive.org/details/artofscientifici00beve){target=_blank} 🔓
 
-**W.I.B. Beveridge** - [*The Art of Scientific Investigation* (1950)](https://www.google.com/books/edition/The_Art_of_Scientific_Investigation/ckM3DwAAQBAJ?hl=en&gbpv=0){target=_blank}
-
-: Professor Winfree considered this "the best of the lot" despite some archaic attitudes. A British physician's classic analysis of scientific method and discovery. Available on Main Library Reserve and as PDF files on course website.
+: Professor Winfree considered this "the best of the lot" despite some archaic attitudes. A British physician's classic analysis of scientific method and discovery. *W.W. Norton, 1957 (first published 1950).* Free full text on the Internet Archive (no known copyright restrictions).
 
 ## Essential Articles and Papers
 
 ### On Scientific Method and Discovery
 
-**John R. Platt** - ["The Art of Creative Thinking"]()
+**John R. Platt** — "The Art of Creative Thinking"
 
-[Blog about Platt's Gamewsworth](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank}
+: The source of the "GamesWorth" concept — emphasizes the importance of sustained, focused mental effort in problem-solving. A chapter in Platt's *The Excitement of Science* (Houghton Mifflin, 1962); no open-access copy is currently available. For a short explainer of the idea, see [a "GamesWorth" of reasoning](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank} 🔓.
 
-: The source of the "GamesWorth" concept - emphasizes the importance of sustained, focused mental effort in problem-solving.
+**John R. Platt** — [*Strong Inference*](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓
 
-**John R. Platt** - ["Strong Inference"](https://doi.org/10.1126/science.146.3642.347){target=_blank}
+: A systematic approach to scientific reasoning through crucial experiments that can eliminate alternative hypotheses. *Science* 146, 347–353 (1964). Canonical version: [doi:10.1126/science.146.3642.347](https://doi.org/10.1126/science.146.3642.347){target=_blank} 🔒.
 
-: A systematic approach to scientific reasoning through crucial experiments that can eliminate alternative hypotheses. *Science* 146, 347-353 (1964).
+**John R. Platt** — [*Diversity*](https://doi.org/10.1126/science.154.3753.1132){target=_blank} 🔒
 
-**John R. Platt** - "Diversity"
+: On the value of multiple approaches and perspectives in scientific investigation. *Science* 154, 1132–1139 (1966).
 
-: On the value of multiple approaches and perspectives in scientific investigation.
+**Richard P. Feynman** — [*Cargo Cult Science*](https://resolver.caltech.edu/CaltechES:37.7.CargoCult){target=_blank} 🔓
 
-**Richard P. Feynman** - ["Cargo Cult Science"](https://resolver.caltech.edu/CaltechES:37.7.CargoCult){target=_blank}
+: A Nobel laureate's warning about the dangers of pseudo-scientific thinking and the importance of intellectual honesty. *Caltech commencement address; Engineering and Science* 37(7), 10–13 (1974).
 
-: A Nobel laureate's warning about the dangers of pseudo-scientific thinking and the importance of intellectual honesty. Caltech Commencement Address (1974).
+**Richard P. Feynman** — [*The Character of Physical Law*](https://archive.org/details/the-messenger-lectures){target=_blank} 🔓
 
-**Richard P. Feynman** - "The Character of Physical Law"
-
-: Insights into the nature of physical laws and theoretical reasoning in science.
+: Insights into the nature of physical laws and theoretical reasoning in science. The 1964 Cornell Messenger Lectures are freely streamable on the Internet Archive; the book is *MIT Press, 1965* ([publisher](https://mitpress.mit.edu/9780262060165/the-character-of-physical-law/){target=_blank} 🔒).
 
 ### On Multiple Hypotheses and Objectivity
 
-**T.C. Chamberlin** - ["The Method of Multiple Working Hypotheses"](https://doi.org/10.1126/science.ns-15.366.92){target=_blank}
+**T.C. Chamberlin** — [*The Method of Multiple Working Hypotheses*](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓
 
-: The classic paper on avoiding bias by maintaining multiple explanations simultaneously rather than becoming attached to a single theory. *Science* ns-15, 92-96 (1890).
+: The classic paper on avoiding bias by maintaining multiple explanations simultaneously rather than becoming attached to a single theory. *Science* ns-15, 92–96 (1890); reprinted *Science* 148, 754–759 (1965).
 
 ### Historical Case Studies
 
-**Articles on N-Rays Incident**
+**The N-Rays Incident** — [overview and primary-source guide](https://en.wikipedia.org/wiki/N-ray){target=_blank} 🔓
 
-: How respected scientists fell into systematic error through confirmation bias and inadequate controls.
+: How respected scientists fell into systematic error through confirmation bias and inadequate controls. Key sources: R.W. Wood, "The N-Rays," *Nature* 70, 530–531 (1904) 🔒; I.M. Klotz, "The N-Ray Affair," *Scientific American* (1980) 🔒.
 
-**Articles on Pathological Science**
+**Irving Langmuir** — [*Pathological Science*](https://www.cs.princeton.edu/~ken/Langmuir/langmuir.htm){target=_blank} 🔓
 
-: Case studies of good scientists making systematic errors in observation and reasoning.
+: Case studies of good scientists making systematic errors in observation and reasoning. Colloquium given at GE, December 18, 1953; transcribed by R.N. Hall; published in *Physics Today* 42(10), 36–48 (1989) 🔒.
 
-**The Barometer Story**
+**Alexander Calandra** — [*The Barometer Story* ("Angels on the Head of a Pin")](https://www.stephenhicks.org/2022/07/10/angels-on-the-head-of-a-pin-by-alexander-calandra/){target=_blank} 🔓
 
-: A classic example demonstrating multiple creative solutions to a single problem.
+: A classic example demonstrating multiple creative solutions to a single problem. *Saturday Review*, December 21, 1968.
 
 ### On Research Strategy and Thinking
 
-**Articles by Anderson** on research strategy
+**Philip W. Anderson** — [*More is Different*](http://www.rpgroup.caltech.edu/embl_pboc_2023/assets/pdfs/anderson1972.pdf){target=_blank} 🔓
 
-: Practical approaches to planning and conducting scientific investigations.
+: Broken symmetry and the hierarchical structure of science — a landmark essay on research strategy and why each level of complexity needs its own concepts. *Science* 177, 393–396 (1972). Canonical: [doi:10.1126/science.177.4047.393](https://doi.org/10.1126/science.177.4047.393){target=_blank} 🔒.
 
-**Freeman Dyson** - "Unfashionable Pursuits"
+**Freeman Dyson** — [*Unfashionable Pursuits*](https://doi.org/10.1007/BF03026573){target=_blank} 🔒
 
-: On the value of pursuing research directions that go against current trends.
+: On the value of pursuing research directions that go against current trends. *The Mathematical Intelligencer* 5(3), 47–54 (1983); collected in *From Eros to Gaia* (1992).
 
-**Articles on Venture Funding** (Narlikar)
+**Jayant V. Narlikar** — [*Venture Funding for New Ideas*](https://www.nature.com/articles/35008158){target=_blank} 🔒
 
-: How funding pressures can influence scientific research directions.
+: How funding pressures can influence the directions scientific research takes. *Nature* 404, 707 (2000).
 
 ## Professor Arthur T. Winfree's Major Works
 
-[Editorial Arthur T. Winfree (1942–2002) Journal of Theoretical Biology 230 (2004) 433–439](https://www.medicine.mcgill.ca/physio/glasslab/pub_pdf/winfree_2004.pdf){target=_blank}
+**J.J. Tyson & L. Glass** — [*Arthur T. Winfree (1942–2002)*](https://doi.org/10.1016/j.jtbi.2004.04.042){target=_blank} 🔒
+
+: Editorial tribute surveying Winfree's life and scientific contributions. *Journal of Theoretical Biology* 230, 433–439 (2004). See also the open [Wikipedia biography](https://en.wikipedia.org/wiki/Arthur_Winfree){target=_blank} 🔓.
+
 ### Books
 
-**["The Geometry of Biological Time"](https://link.springer.com/book/10.1007/978-1-4757-3484-3){target=_blank} (1980, 2001)**
-: Winfree's masterwork on biological rhythms and temporal organization in living systems. This groundbreaking book established the mathematical foundations for understanding circadian clocks, cardiac arrhythmias, and other biological timing phenomena. ISBN: 0-387-98992-7.
+**Arthur T. Winfree** — [*The Geometry of Biological Time*](https://link.springer.com/book/10.1007/978-1-4757-3484-3){target=_blank} 🔒 (1980; 2nd ed. 2001)
 
-**"When Time Breaks Down: The Three-Dimensional Dynamics of Electrochemical Waves and Cardiac Arrhythmias" (1987)**
-: An exploration of spiral waves in excitable media, with applications to heart rhythm disorders. This work bridged theoretical mathematics and practical cardiology.
+: Winfree's masterwork on biological rhythms and temporal organization in living systems, establishing the mathematical foundations for understanding circadian clocks, cardiac arrhythmias, and other biological timing phenomena. *Springer.* ISBN 0-387-98992-7.
 
-**"The Timing of Biological Clocks" (1987)**
-: A more accessible treatment of biological rhythms for general scientific audiences.
+**Arthur T. Winfree** — [*When Time Breaks Down: The Three-Dimensional Dynamics of Electrochemical Waves and Cardiac Arrhythmias*](https://archive.org/details/whentimebreaksdo0000winf){target=_blank} 🔒 (1987)
+
+: An exploration of spiral waves in excitable media, with applications to heart-rhythm disorders, bridging theoretical mathematics and practical cardiology. *Princeton University Press.* (Internet Archive copy is restricted to print-disabled access.)
+
+**Arthur T. Winfree** — [*The Timing of Biological Clocks*](https://archive.org/details/timingofbiologic00winf){target=_blank} 🔒 (1987)
+
+: A more accessible treatment of biological rhythms for general scientific audiences. *Scientific American Library / W.H. Freeman.*
 
 ### Landmark Scientific Papers
 
-**["Biological Rhythms and the Behavior of Populations of Coupled Oscillators"](https://doi.org/10.1016/0022-5193(67)90051-3){target=_blank} (1967)**
-: His foundational paper on synchronization in biological systems, introducing key concepts that would influence decades of research. *Journal of Theoretical Biology* 16, 15-42.
+**Arthur T. Winfree** — [*Biological Rhythms and the Behavior of Populations of Coupled Oscillators*](https://doi.org/10.1016/0022-5193(67)90051-3){target=_blank} 🔒 (1967)
 
-**["Spiral Waves of Chemical Activity"](https://doi.org/10.1126/science.175.4022.634){target=_blank} (1972)**
-: Winfree's discovery and analysis of spiral wave patterns in chemical reactions, which later proved crucial for understanding cardiac arrhythmias. *Science* 175, 634-636.
+: His foundational paper on synchronization in biological systems, introducing concepts that would influence decades of research. *Journal of Theoretical Biology* 16, 15–42.
 
-**"The Prehistory of the Belousov-Zhabotinsky Oscillator" (1984)**
-: Historical analysis of the famous chemical reaction that exhibits complex temporal patterns.
+**Arthur T. Winfree** — [*Spiral Waves of Chemical Activity*](https://doi.org/10.1126/science.175.4022.634){target=_blank} 🔒 (1972)
 
-**"Electrical Turbulence in Three-Dimensional Heart Muscle" (1994)**
-: Application of his mathematical insights to understanding life-threatening cardiac arrhythmias.
+: Winfree's discovery and analysis of spiral wave patterns in chemical reactions, later crucial for understanding cardiac arrhythmias. *Science* 175, 634–636.
+
+**Arthur T. Winfree** — [*The Prehistory of the Belousov-Zhabotinsky Oscillator*](https://www.dna.caltech.edu/Papers/prehistory1984.pdf){target=_blank} 🔓 (1984)
+
+: Historical analysis of the famous chemical reaction that exhibits complex temporal patterns. *Journal of Chemical Education* 61, 661–663. Canonical: [doi:10.1021/ed061p661](https://doi.org/10.1021/ed061p661){target=_blank} 🔒.
+
+**Arthur T. Winfree** — [*Electrical Turbulence in Three-Dimensional Heart Muscle*](https://doi.org/10.1126/science.7973648){target=_blank} 🔒 (1994)
+
+: Application of his mathematical insights to understanding life-threatening cardiac arrhythmias. *Science* 266, 1003–1006.
 
 ### Key Theoretical Contributions
 
-**Phase Response Curves and Biological Clocks**
-: Winfree's mathematical framework for understanding how biological rhythms respond to external stimuli.
+**Phase Response Curves, Phase Singularities & Excitable Media** — [*Phase response curve*](http://www.scholarpedia.org/article/Phase_response_curve){target=_blank} 🔓
 
-**Topological Defects in Excitable Media**
-: His identification of "phase singularities" - points where oscillatory systems lose coherent timing.
-
-**Three-Dimensional Wave Dynamics**
-: Extension of spiral wave theory into three dimensions, with applications to cardiac tissue.
+: Winfree's mathematical framework for how biological rhythms respond to stimuli, his identification of "phase singularities" (points where oscillatory systems lose coherent timing), and the extension of spiral-wave theory into three dimensions. Open peer-reviewed overview on *Scholarpedia*.
 
 ## Supplementary Resources
 
 ### Books on Problem-Solving
 
-**George Polya** - *Induction and Analogy in Mathematics* and *Patterns of Plausible Inference*
-: Using elementary mathematics as example material for general problem-solving principles.
+**George Pólya** — [*Induction and Analogy in Mathematics*](https://archive.org/details/mathematicsplaus0000geor){target=_blank} 🔓 *(borrow)* and [*Patterns of Plausible Inference*](https://archive.org/details/patternsofplausi0000gpol){target=_blank} 🔓 *(borrow)*
 
-**James Gleick** - *Genius: The Life and Science of Richard Feynman*
-: Biography of a master problem-solver, illustrating creative approaches to physics.
+: Using elementary mathematics as example material for general problem-solving principles. *Mathematics and Plausible Reasoning*, Vols. I & II, Princeton University Press, 1954.
 
-**Arthur Koestler** - *The Watershed* (from "The Sleepwalkers")
-: Biography of Johannes Kepler demonstrating the struggle and breakthrough moments in scientific discovery.
+**James Gleick** — [*Genius: The Life and Science of Richard Feynman*](https://www.penguinrandomhouse.com/books/60762/genius-by-james-gleick/){target=_blank} 🔒
+
+: Biography of a master problem-solver, illustrating creative approaches to physics. *Pantheon, 1992.*
+
+**Arthur Koestler** — [*The Watershed*](https://archive.org/details/watershed0000unse){target=_blank} 🔓 *(borrow)*
+
+: Biography of Johannes Kepler demonstrating the struggle and breakthrough moments in scientific discovery. Excerpted from *The Sleepwalkers*; Doubleday Anchor, 1960.
 
 ### Periodicals and Current Sources
 
