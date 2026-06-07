@@ -6,7 +6,7 @@
 
 ## What is a "GamesWorth"?
 
-A **GamesWorth (GW)** is Professor Winfree's term for a focused, uninterrupted session of serious thinking - roughly equivalent to the mental effort required to play one game of serious chess. The name comes from Platt's "The Art of Creative Thinking," which emphasizes the importance of sustained, concentrated mental effort.
+A **GamesWorth (GW)** is Professor Winfree's term for a focused, uninterrupted session of serious thinking - roughly equivalent to the mental effort required to play one game of serious chess. The name comes from Platt's ["The Art of Creative Thinking"](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank} 🔓, which emphasizes the importance of sustained, concentrated mental effort.
 
 !!! quote "The GamesWorth Concept"
     "Use these homework puzzles to nucleate a habit of doing a daily 'Game's-Worth' of focused thought... This might be the most important (potentially enduring) effect of the course."
@@ -149,6 +149,7 @@ This is the most valuable use of left-hand pages:
 - Consider the long-term benefits to your thinking skills
 
 ### "I Don't Know What to Think About"
+
 - Return to previous problems with fresh eyes
 - Extend class problems in new directions
 - Look for patterns across different problems

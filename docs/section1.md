@@ -58,7 +58,7 @@ Examination of cases where good scientists made systematic errors in observation
 - **Collaborative error detection** through peer review
 - **Documentation** of reasoning processes for later review
 
-## The GameWorth Approach
+## The GamesWorth Approach
 
 In your daily GamesWorth sessions for this section, focus on:
 
@@ -72,10 +72,12 @@ In your daily GamesWorth sessions for this section, focus on:
 
 Key readings for this section include:
 
-- Adams Chapter 1: Introduction to conceptual blocks
-- Platt: "The Art of Creative Thinking"
-- Feynman: "Cargo Cult Science"
-- Selected articles on scientific errors and their lessons
+- **James L. Adams**, *Conceptual Blockbusting*, Chapter 1 — Introduction to conceptual blocks ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
+- **John R. Platt**, "The Art of Creative Thinking" — source of the GamesWorth idea (chapter in *The Excitement of Science*, 1962; [explainer](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank} 🔓)
+- **Richard P. Feynman**, ["Cargo Cult Science"](https://resolver.caltech.edu/CaltechES:37.7.CargoCult){target=_blank} 🔓
+- Selected articles on scientific errors — the [N-Rays incident](https://en.wikipedia.org/wiki/N-ray){target=_blank} 🔓 and [Langmuir's "Pathological Science"](https://www.cs.princeton.edu/~ken/Langmuir/langmuir.htm){target=_blank} 🔓
+
+See the full [Recommended Readings](readings.md) for complete citations.
 
 ## Assessment Focus
 
@@ -86,6 +88,16 @@ Your work in this section will be evaluated on:
 - **Demonstration of learning** from mistakes
 - **Collaborative contributions** to class discussions
 - **Reflection on thinking processes** rather than just results
+
+## Problem Sources
+
+Where these classic problems come from:
+
+- **Triangle Problem** — original course exercise (no published external source identified)
+- **13 Nails Problem** — classic nail-balancing puzzle; traditional, no single canonical source
+- **Golden Tooth Exercise** — Bernard de Fontenelle, [*Histoire des oracles*](https://archive.org/details/histoiredesoracl00fontuoft){target=_blank} 🔓 (1687): be sure of the fact before explaining the cause
+- **N-Rays Incident** — [overview](https://en.wikipedia.org/wiki/N-ray){target=_blank} 🔓; R.W. Wood, *Nature* 70, 530 (1904) 🔒
+- **Pathological Science** — Irving Langmuir, [transcript](https://www.cs.princeton.edu/~ken/Langmuir/langmuir.htm){target=_blank} 🔓 (1953; *Physics Today*, 1989 🔒)
 
 ---
 

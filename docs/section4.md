@@ -125,7 +125,7 @@ A physics-based pattern recognition challenge involving:
 - **Theoretical prediction** versus empirical observation
 - **Collaborative hypothesis** testing
 
-## GameWorth Practice for Pattern Recognition
+## GamesWorth Practice for Pattern Recognition
 
 Focus your daily sessions on:
 
@@ -159,7 +159,7 @@ Focus your daily sessions on:
 ## Assessment Approach
 
 Your work will be evaluated on:
-- **Quality of pattern documentation** in your GameWorth notebook
+- **Quality of pattern documentation** in your GamesWorth notebook
 - **Thoughtfulness of generalizations** you propose
 - **Ability to test patterns** with new data
 - **Collaboration effectiveness** in group pattern-finding exercises
@@ -167,10 +167,23 @@ Your work will be evaluated on:
 
 ## Readings and Resources
 
-- **Judson, Chapter 2:** "Pattern" - how scientists recognize meaningful patterns
-- **Ehrlich, Chapters 5-7:** Case studies in pattern recognition across different sciences
-- **Adams, Chapter 6:** Alternative thinking languages for pattern recognition
+- **Horace Freeland Judson**, *The Search for Solutions* — Chapter 2 "Pattern" ([Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*)
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science* — Chapters 5–7 ([publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒)
+- **James L. Adams**, *Conceptual Blockbusting* — Chapter 6, alternative thinking languages ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
 - Selected articles on pattern recognition in various scientific disciplines
+
+See the full [Recommended Readings](readings.md) for complete citations.
+
+## Problem Sources
+
+- **Presidents and States** — original Winfree exercise on numerical coincidences (no external source)
+- **N Dots on Circle Problem** — [Moser's circle problem](https://en.wikipedia.org/wiki/Moser%27s_circle_problem){target=_blank} 🔓 (regions: 1, 2, 4, 8, 16, 31, …; OEIS A000127)
+- **Cell Shapes Laboratory** — epithelial cell topology and Lewis's law; Graner & Riveline, [*Development* 144, 4226](https://journals.biologists.com/dev/article/144/23/4226/19225/The-Forms-of-Tissues-or-Cell-aggregates-D-Arcy){target=_blank} 🔓 (2017)
+- **Egg Pouches Investigation** — elasmobranch egg-case development; Musa et al., [*PLOS ONE* 13, e0206984](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206984){target=_blank} 🔓 (2018)
+- **Game of Eleusis** — Robert Abbott's inductive card game (1956); [overview](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29){target=_blank} 🔓 (Martin Gardner, *Scientific American*, Jun 1959 / "New Eleusis", Oct 1977 🔒)
+- **Platonic Solids Investigation** — Euclid, [*Elements*, Book XIII](https://mathcs.clarku.edu/~djoyce/elements/bookXIII/bookXIII.html){target=_blank} 🔓 — exactly five regular solids
+- **Paired Observations Analysis** — original Winfree statistics exercise (no external source)
+- **Neutrino Problem** — the solar neutrino problem; John Bahcall, ["Solving the Mystery of the Missing Neutrinos"](https://arxiv.org/abs/physics/0406040){target=_blank} 🔓 (2004)
 
 ---
 

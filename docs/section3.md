@@ -104,7 +104,7 @@ Many phenomena can only be understood through:
 - **Systematic data collection** across time and space
 - **Shared documentation** and cross-checking
 
-## GameWorth Focus for This Section
+## GamesWorth Focus for This Section
 
 Your daily practice should emphasize:
 
@@ -131,7 +131,7 @@ Your daily practice should emphasize:
 ## Assessment Focus
 
 Your work will be evaluated on:
-- **Quality of observations** recorded in your GameWorth notebook
+- **Quality of observations** recorded in your GamesWorth notebook
 - **Thoughtfulness of questions** you generate
 - **Contribution to group observation** exercises
 - **Growth in observational precision** over time
@@ -139,10 +139,21 @@ Your work will be evaluated on:
 
 ## Readings and Resources
 
-- **Judson, Chapter 4:** "Chance" - the role of observation in discovery
-- **Judson, Chapter 8:** "Evidence" - what constitutes reliable observation
-- **Ehrlich, Chapter 2:** Examples of careful observation in science
+- **Horace Freeland Judson**, *The Search for Solutions* — Chapter 4 "Chance" and Chapter 8 "Evidence" ([Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*)
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science* — Chapter 2 ([publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒)
 - Articles on observation methods in various scientific fields
+
+See the full [Recommended Readings](readings.md) for complete citations.
+
+## Problem Sources
+
+- **Ant Walk** — the ["ant on a rubber rope"](https://en.wikipedia.org/wiki/Ant_on_a_rubber_rope){target=_blank} 🔓 problem (Martin Gardner, *Scientific American*, 1975)
+- **Seven Bridges** — Leonhard Euler, ["Solutio problematis ad geometriam situs pertinentis"](https://scholarlycommons.pacific.edu/euler-works/53/){target=_blank} 🔓 (1741) — the founding paper of graph theory
+- **Pedestrian Crosswalk Mystery** — original Winfree field exercise (no external source)
+- **Chemical Pattern-Formation Lab** — the [Belousov–Zhabotinsky reaction](http://www.scholarpedia.org/article/Belousov-Zhabotinsky_reaction){target=_blank} 🔓
+- **What Isn't There** — Arthur Conan Doyle, ["Silver Blaze"](https://www.gutenberg.org/ebooks/834){target=_blank} 🔓 — the dog that did nothing in the night-time
+- **Rainbow Moon** — the [moonbow](https://en.wikipedia.org/wiki/Moonbow){target=_blank} 🔓 (lunar rainbow)
+- **Escher Print Gallery** — M.C. Escher's [*Print Gallery*](https://en.wikipedia.org/wiki/Print_Gallery_%28M._C._Escher%29){target=_blank} 🔓 and its mathematical completion (Lenstra & de Smit, *Notices of the AMS*, 2003)
 
 ---
 
