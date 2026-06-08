@@ -28,6 +28,7 @@ The final section brings together all previous skills to focus on the ultimate g
 
 ### Multiple Working Hypotheses (Chamberlin Method)
 Learning to:
+
 - **Generate multiple explanations** for the same phenomenon
 - **Avoid premature attachment** to single theories
 - **Design tests** that can distinguish between alternatives
@@ -35,6 +36,7 @@ Learning to:
 
 ### Stacked Cantilevers Laboratory
 A hands-on engineering challenge involving:
+
 - **Theoretical prediction** of optimal stacking arrangements
 - **Experimental testing** of theoretical predictions
 - **Theory refinement** based on empirical results
@@ -43,6 +45,7 @@ A hands-on engineering challenge involving:
 
 ### LoShu (Magic Squares) Investigation
 Mathematical pattern investigation focusing on:
+
 - **Complete theoretical understanding** of mathematical structures
 - **Systematic exploration** of all possibilities
 - **Elegant explanation** of seemingly mysterious patterns
@@ -50,6 +53,7 @@ Mathematical pattern investigation focusing on:
 
 ### Laws of Toy Universe Discovery
 Collaborative laboratory exercise where the class discovers:
+
 - **Hidden rules** governing an artificial system
 - **Hypothesis formation** based on limited evidence
 - **Experimental design** for testing theories
@@ -70,6 +74,7 @@ Collaborative laboratory exercise where the class discovers:
 
 ### Strong Inference (Platt Method)
 A systematic approach to theory testing:
+
 - **Devise alternative hypotheses** for the same phenomenon
 - **Design crucial experiments** that can eliminate hypotheses
 - **Carry out experiments** with clear outcomes
@@ -79,6 +84,7 @@ A systematic approach to theory testing:
 
 ### The Miracle of FujiYama
 A complex puzzle requiring:
+
 - **Integration of multiple clues** and constraints
 - **Creative hypothesis** formation
 - **Systematic testing** of possibilities
@@ -86,6 +92,7 @@ A complex puzzle requiring:
 
 ### Antigen Invasions
 A biological modeling exercise involving:
+
 - **Dynamic system** analysis
 - **Prediction of system** behavior over time
 - **Mathematical description** of biological processes
@@ -93,6 +100,7 @@ A biological modeling exercise involving:
 
 ### Martian DNA
 An astrobiology thought experiment requiring:
+
 - **Analogical reasoning** from terrestrial biology
 - **Creative hypothesis** about alternative biochemistries
 - **Logical consistency** in theoretical constructions
@@ -100,6 +108,7 @@ An astrobiology thought experiment requiring:
 
 ### Bacterial Hybrids
 A genetics problem involving:
+
 - **Model construction** for inheritance patterns
 - **Statistical analysis** of breeding data
 - **Theory testing** through prediction and verification
@@ -110,16 +119,19 @@ A genetics problem involving:
 ### Types of Reasoning in Science
 
 **Deductive Reasoning:**
+
 - From general principles to specific predictions
 - Logically certain conclusions from true premises
 - Mathematical proof and logical demonstration
 
 **Inductive Reasoning:**
+
 - From specific observations to general principles
 - Probabilistic conclusions based on evidence
 - Pattern recognition and generalization
 
 **Abductive Reasoning:**
+
 - Inference to the best explanation
 - Creative hypothesis formation
 - Choosing among alternative explanations
@@ -179,6 +191,7 @@ Focus your daily sessions on:
 ## Assessment Focus
 
 Your work will be evaluated on:
+
 - **Quality of explanations** you construct
 - **Sophistication of reasoning** in your GamesWorth notebook
 - **Ability to generate testable predictions** from your theories
@@ -197,6 +210,7 @@ See the full [Recommended Readings](readings.md) for complete citations.
 ## Culminating Experience
 
 This section concludes with comprehensive exercises that integrate all course skills:
+
 - **Complex problem-solving** requiring multiple approaches
 - **Theory construction** and testing
 - **Collaborative discovery** of fundamental principles

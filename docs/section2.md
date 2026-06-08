@@ -14,12 +14,14 @@ This section explores the various mental barriers that prevent us from solving p
 **What they are:** Obstacles that prevent you from clearly perceiving the problem or information needed to solve it.
 
 **Examples:**
+
 - Difficulty isolating the problem
 - Inability to see the problem from various viewpoints
 - Stereotyping and labeling that limits perception
 - Saturation or information overload
 
 **Practice exercises:**
+
 - Weird Organism problem
 - Rearranged Triangle challenge
 
@@ -27,6 +29,7 @@ This section explores the various mental barriers that prevent us from solving p
 **What they are:** Feelings and attitudes that interfere with your ability to solve problems.
 
 **Examples:**
+
 - Fear of taking risks or making mistakes
 - Inability to tolerate ambiguity
 - Preference for judging rather than generating ideas
@@ -38,6 +41,7 @@ This section explores the various mental barriers that prevent us from solving p
 **What they are:** Social and cultural constraints that limit the range of solutions you consider.
 
 **Examples:**
+
 - Taboos against questioning certain assumptions
 - Fantasy and reflection are a waste of time
 - Reason and logic are good; intuition and feelings are bad
@@ -49,6 +53,7 @@ This section explores the various mental barriers that prevent us from solving p
 **What they are:** Limitations in your thinking strategies and problem-solving approaches.
 
 **Examples:**
+
 - Lack of intellectual flexibility
 - Poor use of problem-solving strategies
 - Inadequate information or incorrect use of information

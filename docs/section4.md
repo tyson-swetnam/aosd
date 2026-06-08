@@ -27,6 +27,7 @@ This section develops your ability to recognize meaningful patterns in complex d
 
 ### Presidents and States
 A data analysis exercise exploring numerical patterns in historical and geographical data, teaching you to:
+
 - Look for unexpected relationships
 - Test pattern validity with additional data
 - Distinguish correlation from causation
@@ -34,6 +35,7 @@ A data analysis exercise exploring numerical patterns in historical and geograph
 
 ### N Dots on Circle Problem
 A geometric puzzle that reveals:
+
 - How patterns can be deceptive
 - The importance of testing generalizations
 - Mathematical relationships in geometric forms
@@ -41,6 +43,7 @@ A geometric puzzle that reveals:
 
 ### Cell Shapes Laboratory
 Multi-session collaborative investigation involving:
+
 - **Systematic observation** of biological structures
 - **Data collection** across multiple samples
 - **Pattern identification** in shape and organization
@@ -49,6 +52,7 @@ Multi-session collaborative investigation involving:
 
 ### Egg Pouches Investigation
 Hands-on biological observation focusing on:
+
 - Pattern recognition in natural structures
 - Variation within patterns
 - Functional relationships between form and purpose
@@ -76,6 +80,7 @@ The process of forming reliable generalizations:
 
 ### The Game of Eleusis
 A card game that simulates scientific discovery:
+
 - **Hidden rules** represent natural laws
 - **Hypothesis formation** based on limited data
 - **Experimental testing** of proposed patterns
@@ -84,6 +89,7 @@ A card game that simulates scientific discovery:
 
 ### Group Data Collection
 Many patterns only emerge when multiple people contribute observations:
+
 - **Pooling diverse experiences** and perspectives
 - **Cross-checking individual observations** for consistency
 - **Building larger datasets** than any individual could collect
@@ -107,6 +113,7 @@ Many patterns only emerge when multiple people contribute observations:
 
 ### Platonic Solids Investigation
 Exploring geometric patterns in three-dimensional forms:
+
 - **Systematic enumeration** of properties
 - **Relationship discovery** between faces, edges, and vertices
 - **Application** to real-world structures
@@ -114,12 +121,14 @@ Exploring geometric patterns in three-dimensional forms:
 
 ### Paired Observations Analysis
 Learning to handle data that comes in related pairs:
+
 - **Correlation versus causation** analysis
 - **Matched pair** statistical techniques
 - **Pattern persistence** across different pairing methods
 
 ### Neutrino Problem
 A physics-based pattern recognition challenge involving:
+
 - **Indirect observation** methods
 - **Pattern detection** in noisy data
 - **Theoretical prediction** versus empirical observation
@@ -159,6 +168,7 @@ Focus your daily sessions on:
 ## Assessment Approach
 
 Your work will be evaluated on:
+
 - **Quality of pattern documentation** in your GamesWorth notebook
 - **Thoughtfulness of generalizations** you propose
 - **Ability to test patterns** with new data

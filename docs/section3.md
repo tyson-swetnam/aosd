@@ -12,6 +12,7 @@ This section focuses on two fundamental scientific skills: making careful observ
 
 ### Beyond Casual Looking
 Scientific observation requires:
+
 - **Systematic attention** to detail
 - **Recording what you actually see** rather than what you expect
 - **Noticing what's missing** or unexpected
@@ -30,6 +31,7 @@ Classic problems that demonstrate how careful observation of constraints and pos
 
 ### Pedestrian Crosswalk Mystery
 A collaborative field exercise requiring:
+
 - Systematic data collection
 - Pattern recognition from pooled observations
 - Hypothesis formation and testing
@@ -37,6 +39,7 @@ A collaborative field exercise requiring:
 
 ### Chemical Pattern-Formation Lab
 Multi-session laboratory exercise involving:
+
 - **Initial observations:** What happens when chemicals are mixed?
 - **Detailed documentation:** Recording patterns, timing, conditions
 - **Pattern analysis:** What regularities emerge?
@@ -47,18 +50,21 @@ Multi-session laboratory exercise involving:
 ### Types of Productive Questions
 
 **Observational Questions:**
+
 - What exactly is happening here?
 - What patterns can I detect?
 - What's different from what I expected?
 - What am I not seeing?
 
 **Analytical Questions:**
+
 - Why might this be occurring?
 - What would happen if I changed X?
 - How does this relate to other phenomena?
 - What are the underlying mechanisms?
 
 **Creative Questions:**
+
 - What if I looked at this completely differently?
 - What would this look like from another perspective?
 - How might nature solve this problem?
@@ -84,6 +90,7 @@ Visual observation exercises that train attention to detail and pattern recognit
 ## Mother Nature as Magician
 
 Understanding how easy it is to be fooled by:
+
 - **Optical illusions** in natural phenomena
 - **Coincidences** that seem meaningful
 - **Pattern-seeking** in random events
@@ -91,6 +98,7 @@ Understanding how easy it is to be fooled by:
 
 ### Hallucinations and Misperceptions
 Learning to distinguish between:
+
 - What actually happened
 - What you think you saw
 - What you remember seeing
@@ -99,6 +107,7 @@ Learning to distinguish between:
 ## Collaborative Observation
 
 Many phenomena can only be understood through:
+
 - **Pooled observations** from multiple people
 - **Different perspectives** on the same event
 - **Systematic data collection** across time and space
@@ -131,6 +140,7 @@ Your daily practice should emphasize:
 ## Assessment Focus
 
 Your work will be evaluated on:
+
 - **Quality of observations** recorded in your GamesWorth notebook
 - **Thoughtfulness of questions** you generate
 - **Contribution to group observation** exercises
