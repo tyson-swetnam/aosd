@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-labelledby="title desc">
+  <title id="title">A square window, three feet high and three feet wide</title>
+  <desc id="desc">An axis-aligned square window filled with pale glass, with dimension lines marking it as 3 feet high and 3 feet wide.</desc>
+  <rect x="0" y="0" width="600" height="520" fill="#ffffff"/>
+  <text x="300" y="58" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1f2937" text-anchor="middle">The window as built</text>
+  <!-- wall around the window -->
+  <rect x="150" y="110" width="340" height="340" fill="#e5e7eb" stroke="none"/>
+  <!-- glass -->
+  <rect x="170" y="130" width="300" height="300" fill="#fff3b0" stroke="#1f2937" stroke-width="3"/>
+  <!-- top dimension line -->
+  <line x1="170" y1="96" x2="470" y2="96" stroke="#b91c1c" stroke-width="2"/>
+  <line x1="170" y1="86" x2="170" y2="106" stroke="#b91c1c" stroke-width="2"/>
+  <line x1="470" y1="86" x2="470" y2="106" stroke="#b91c1c" stroke-width="2"/>
+  <rect x="285" y="80" width="70" height="30" fill="#ffffff"/>
+  <text x="320" y="103" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#b91c1c" text-anchor="middle">3 ft</text>
+  <!-- left dimension line -->
+  <line x1="126" y1="130" x2="126" y2="430" stroke="#b91c1c" stroke-width="2"/>
+  <line x1="116" y1="130" x2="136" y2="130" stroke="#b91c1c" stroke-width="2"/>
+  <line x1="116" y1="430" x2="136" y2="430" stroke="#b91c1c" stroke-width="2"/>
+  <rect x="110" y="262" width="32" height="40" fill="#ffffff"/>
+  <text x="126" y="288" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#b91c1c" text-anchor="middle" transform="rotate(-90 126 288)">3 ft</text>
+  <!-- labels -->
+  <text x="320" y="288" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#1f2937" text-anchor="middle">clear glass</text>
+  <text x="300" y="490" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937" text-anchor="middle">Square. 3 ft high. 3 ft wide. Too much light.</text>
+</svg>

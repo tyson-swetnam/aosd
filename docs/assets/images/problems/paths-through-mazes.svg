@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" width="600" height="560" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="600" height="560" fill="#ffffff"/>
+  <!-- lattice: each letter joined to the letters it may step to in the next row -->
+  <g stroke="#1f2937" stroke-width="2" stroke-opacity="0.25" fill="none">
+    <line x1="300" y1="50" x2="264" y2="94"/>
+    <line x1="300" y1="50" x2="336" y2="94"/>
+    <line x1="264" y1="94" x2="228" y2="138"/>
+    <line x1="264" y1="94" x2="300" y2="138"/>
+    <line x1="336" y1="94" x2="300" y2="138"/>
+    <line x1="336" y1="94" x2="372" y2="138"/>
+    <line x1="228" y1="138" x2="192" y2="182"/>
+    <line x1="228" y1="138" x2="264" y2="182"/>
+    <line x1="300" y1="138" x2="264" y2="182"/>
+    <line x1="300" y1="138" x2="336" y2="182"/>
+    <line x1="372" y1="138" x2="336" y2="182"/>
+    <line x1="372" y1="138" x2="408" y2="182"/>
+    <line x1="192" y1="182" x2="156" y2="226"/>
+    <line x1="192" y1="182" x2="228" y2="226"/>
+    <line x1="264" y1="182" x2="228" y2="226"/>
+    <line x1="264" y1="182" x2="300" y2="226"/>
+    <line x1="336" y1="182" x2="300" y2="226"/>
+    <line x1="336" y1="182" x2="372" y2="226"/>
+    <line x1="408" y1="182" x2="372" y2="226"/>
+    <line x1="408" y1="182" x2="444" y2="226"/>
+    <line x1="156" y1="226" x2="120" y2="270"/>
+    <line x1="156" y1="226" x2="192" y2="270"/>
+    <line x1="228" y1="226" x2="192" y2="270"/>
+    <line x1="228" y1="226" x2="264" y2="270"/>
+    <line x1="300" y1="226" x2="264" y2="270"/>
+    <line x1="300" y1="226" x2="336" y2="270"/>
+    <line x1="372" y1="226" x2="336" y2="270"/>
+    <line x1="372" y1="226" x2="408" y2="270"/>
+    <line x1="444" y1="226" x2="408" y2="270"/>
+    <line x1="444" y1="226" x2="480" y2="270"/>
+    <line x1="120" y1="270" x2="156" y2="314"/>
+    <line x1="192" y1="270" x2="156" y2="314"/>
+    <line x1="192" y1="270" x2="228" y2="314"/>
+    <line x1="264" y1="270" x2="228" y2="314"/>
+    <line x1="264" y1="270" x2="300" y2="314"/>
+    <line x1="336" y1="270" x2="300" y2="314"/>
+    <line x1="336" y1="270" x2="372" y2="314"/>
+    <line x1="408" y1="270" x2="372" y2="314"/>
+    <line x1="408" y1="270" x2="444" y2="314"/>
+    <line x1="480" y1="270" x2="444" y2="314"/>
+    <line x1="156" y1="314" x2="192" y2="358"/>
+    <line x1="228" y1="314" x2="192" y2="358"/>
+    <line x1="228" y1="314" x2="264" y2="358"/>
+    <line x1="300" y1="314" x2="264" y2="358"/>
+    <line x1="300" y1="314" x2="336" y2="358"/>
+    <line x1="372" y1="314" x2="336" y2="358"/>
+    <line x1="372" y1="314" x2="408" y2="358"/>
+    <line x1="444" y1="314" x2="408" y2="358"/>
+    <line x1="192" y1="358" x2="228" y2="402"/>
+    <line x1="264" y1="358" x2="228" y2="402"/>
+    <line x1="264" y1="358" x2="300" y2="402"/>
+    <line x1="336" y1="358" x2="300" y2="402"/>
+    <line x1="336" y1="358" x2="372" y2="402"/>
+    <line x1="408" y1="358" x2="372" y2="402"/>
+    <line x1="228" y1="402" x2="264" y2="446"/>
+    <line x1="300" y1="402" x2="264" y2="446"/>
+    <line x1="300" y1="402" x2="336" y2="446"/>
+    <line x1="372" y1="402" x2="336" y2="446"/>
+    <line x1="264" y1="446" x2="300" y2="490"/>
+    <line x1="336" y1="446" x2="300" y2="490"/>
+  </g>
+  <!-- one reading: 4 steps down-left, 5 down-right, 1 down-left -->
+  <polyline points="300,50 264,94 228,138 192,182 156,226 192,270 228,314 264,358 300,402 336,446 300,490" fill="none" stroke="#b91c1c" stroke-width="3" stroke-linejoin="round"/>
+  <g>
+    <circle cx="300" cy="50" r="16" fill="#ffffff"/>
+    <circle cx="300" cy="50" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="300" y="50" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="264" cy="94" r="16" fill="#ffffff"/>
+    <circle cx="264" cy="94" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="264" y="94" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">B</text>
+    <circle cx="336" cy="94" r="16" fill="#ffffff"/>
+    <text x="336" y="94" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">B</text>
+    <circle cx="228" cy="138" r="16" fill="#ffffff"/>
+    <circle cx="228" cy="138" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="228" y="138" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">R</text>
+    <circle cx="300" cy="138" r="16" fill="#ffffff"/>
+    <text x="300" y="138" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">R</text>
+    <circle cx="372" cy="138" r="16" fill="#ffffff"/>
+    <text x="372" y="138" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">R</text>
+    <circle cx="192" cy="182" r="16" fill="#ffffff"/>
+    <circle cx="192" cy="182" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="192" y="182" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="264" cy="182" r="16" fill="#ffffff"/>
+    <text x="264" y="182" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="336" cy="182" r="16" fill="#ffffff"/>
+    <text x="336" y="182" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="408" cy="182" r="16" fill="#ffffff"/>
+    <text x="408" y="182" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="156" cy="226" r="16" fill="#ffffff"/>
+    <circle cx="156" cy="226" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="156" y="226" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">C</text>
+    <circle cx="228" cy="226" r="16" fill="#ffffff"/>
+    <text x="228" y="226" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">C</text>
+    <circle cx="300" cy="226" r="16" fill="#ffffff"/>
+    <text x="300" y="226" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">C</text>
+    <circle cx="372" cy="226" r="16" fill="#ffffff"/>
+    <text x="372" y="226" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">C</text>
+    <circle cx="444" cy="226" r="16" fill="#ffffff"/>
+    <text x="444" y="226" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">C</text>
+    <circle cx="120" cy="270" r="16" fill="#ffffff"/>
+    <text x="120" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="192" cy="270" r="16" fill="#ffffff"/>
+    <circle cx="192" cy="270" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="192" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="264" cy="270" r="16" fill="#ffffff"/>
+    <text x="264" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="336" cy="270" r="16" fill="#ffffff"/>
+    <text x="336" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="408" cy="270" r="16" fill="#ffffff"/>
+    <text x="408" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="480" cy="270" r="16" fill="#ffffff"/>
+    <text x="480" y="270" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="156" cy="314" r="16" fill="#ffffff"/>
+    <text x="156" y="314" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">D</text>
+    <circle cx="228" cy="314" r="16" fill="#ffffff"/>
+    <circle cx="228" cy="314" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="228" y="314" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">D</text>
+    <circle cx="300" cy="314" r="16" fill="#ffffff"/>
+    <text x="300" y="314" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">D</text>
+    <circle cx="372" cy="314" r="16" fill="#ffffff"/>
+    <text x="372" y="314" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">D</text>
+    <circle cx="444" cy="314" r="16" fill="#ffffff"/>
+    <text x="444" y="314" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">D</text>
+    <circle cx="192" cy="358" r="16" fill="#ffffff"/>
+    <text x="192" y="358" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="264" cy="358" r="16" fill="#ffffff"/>
+    <circle cx="264" cy="358" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="264" y="358" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="336" cy="358" r="16" fill="#ffffff"/>
+    <text x="336" y="358" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="408" cy="358" r="16" fill="#ffffff"/>
+    <text x="408" y="358" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+    <circle cx="228" cy="402" r="16" fill="#ffffff"/>
+    <text x="228" y="402" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">B</text>
+    <circle cx="300" cy="402" r="16" fill="#ffffff"/>
+    <circle cx="300" cy="402" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="300" y="402" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">B</text>
+    <circle cx="372" cy="402" r="16" fill="#ffffff"/>
+    <text x="372" y="402" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">B</text>
+    <circle cx="264" cy="446" r="16" fill="#ffffff"/>
+    <text x="264" y="446" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">R</text>
+    <circle cx="336" cy="446" r="16" fill="#ffffff"/>
+    <circle cx="336" cy="446" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="336" y="446" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">R</text>
+    <circle cx="300" cy="490" r="16" fill="#ffffff"/>
+    <circle cx="300" cy="490" r="16" fill="#b91c1c" fill-opacity="0.2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="300" y="490" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#1f2937">A</text>
+  </g>
+  <text x="300" y="537" text-anchor="middle" font-size="20" fill="#1f2937">One reading, from the top A to the bottom A</text>
+</svg>

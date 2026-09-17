@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
+<title id="t">N dots on the rim of a circle</title>
+<desc id="d">Six circles with one to six dots on the rim; in each, every pair of dots is joined by a straight chord.</desc>
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" fill="#1f2937" text-anchor="middle">
+<g id="n1">
+<circle cx="133.33" cy="112" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<circle class="dot" cx="133.33" cy="17.00" r="7" fill="#b91c1c"/>
+<text x="133.33" y="243">n = 1</text>
+</g>
+<g id="n2">
+<circle cx="400.0" cy="112" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<line class="chord" x1="400.00" y1="17.00" x2="367.51" y2="201.27" stroke="#1f2937" stroke-width="2"/>
+<circle class="dot" cx="400.00" cy="17.00" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="367.51" cy="201.27" r="7" fill="#b91c1c"/>
+<text x="400.0" y="243">n = 2</text>
+</g>
+<g id="n3">
+<circle cx="666.67" cy="112" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<line class="chord" x1="666.67" y1="17.00" x2="584.40" y2="159.50" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="666.67" y1="17.00" x2="748.94" y2="159.50" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="584.40" y1="159.50" x2="748.94" y2="159.50" stroke="#1f2937" stroke-width="2"/>
+<circle class="dot" cx="666.67" cy="17.00" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="584.40" cy="159.50" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="748.94" cy="159.50" r="7" fill="#b91c1c"/>
+<text x="666.67" y="243">n = 3</text>
+</g>
+<g id="n4">
+<circle cx="133.33" cy="374" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<line class="chord" x1="165.82" y1="284.73" x2="44.06" y2="341.51" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="165.82" y1="284.73" x2="100.84" y2="463.27" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="165.82" y1="284.73" x2="222.60" y2="406.49" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="44.06" y1="341.51" x2="100.84" y2="463.27" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="44.06" y1="341.51" x2="222.60" y2="406.49" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="100.84" y1="463.27" x2="222.60" y2="406.49" stroke="#1f2937" stroke-width="2"/>
+<circle class="dot" cx="165.82" cy="284.73" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="44.06" cy="341.51" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="100.84" cy="463.27" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="222.60" cy="406.49" r="7" fill="#b91c1c"/>
+<text x="133.33" y="505">n = 4</text>
+</g>
+<g id="n5">
+<circle cx="400.0" cy="374" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<line class="chord" x1="400.00" y1="279.00" x2="309.65" y2="344.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="400.00" y1="279.00" x2="344.16" y2="450.86" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="400.00" y1="279.00" x2="455.84" y2="450.86" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="400.00" y1="279.00" x2="490.35" y2="344.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="309.65" y1="344.64" x2="344.16" y2="450.86" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="309.65" y1="344.64" x2="455.84" y2="450.86" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="309.65" y1="344.64" x2="490.35" y2="344.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="344.16" y1="450.86" x2="455.84" y2="450.86" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="344.16" y1="450.86" x2="490.35" y2="344.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="455.84" y1="450.86" x2="490.35" y2="344.64" stroke="#1f2937" stroke-width="2"/>
+<circle class="dot" cx="400.00" cy="279.00" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="309.65" cy="344.64" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="344.16" cy="450.86" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="455.84" cy="450.86" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="490.35" cy="344.64" r="7" fill="#b91c1c"/>
+<text x="400.0" y="505">n = 5</text>
+</g>
+<g id="n6">
+<circle cx="666.67" cy="374" r="95" fill="#f3f4f6" stroke="#1f2937" stroke-width="3"/>
+<line class="chord" x1="658.39" y1="279.36" x2="577.40" y2="341.51" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="279.36" x2="580.57" y2="414.15" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="279.36" x2="658.39" y2="468.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="279.36" x2="739.44" y2="435.06" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="279.36" x2="752.77" y2="333.85" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="577.40" y1="341.51" x2="580.57" y2="414.15" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="577.40" y1="341.51" x2="658.39" y2="468.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="577.40" y1="341.51" x2="739.44" y2="435.06" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="577.40" y1="341.51" x2="752.77" y2="333.85" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="580.57" y1="414.15" x2="658.39" y2="468.64" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="580.57" y1="414.15" x2="739.44" y2="435.06" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="580.57" y1="414.15" x2="752.77" y2="333.85" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="468.64" x2="739.44" y2="435.06" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="658.39" y1="468.64" x2="752.77" y2="333.85" stroke="#1f2937" stroke-width="2"/>
+<line class="chord" x1="739.44" y1="435.06" x2="752.77" y2="333.85" stroke="#1f2937" stroke-width="2"/>
+<circle class="dot" cx="658.39" cy="279.36" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="577.40" cy="341.51" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="580.57" cy="414.15" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="658.39" cy="468.64" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="739.44" cy="435.06" r="7" fill="#b91c1c"/>
+<circle class="dot" cx="752.77" cy="333.85" r="7" fill="#b91c1c"/>
+<text x="666.67" y="505">n = 6</text>
+</g>
+</g></svg>

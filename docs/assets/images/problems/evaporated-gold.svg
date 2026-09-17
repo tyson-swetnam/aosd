@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" width="800" height="700" role="img" aria-labelledby="title desc">
+  <title id="title">Reconstructed evaporated-gold set-up</title>
+  <desc id="desc">Schematic of a bell jar with a heated boat holding a gold bead at the bottom; dashed rays fan out in all directions, only a few reaching a small glass slide fixed 15 cm above, with a dotted circle of radius 15 cm showing the sphere over which the vapour spreads.</desc>
+  <defs>
+    <clipPath id="jar-interior">
+      <path d="M 180 610 L 180 220 A 240 100 0 0 1 660 220 L 660 610 Z"/>
+    </clipPath>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#1f2937"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="700" fill="#ffffff"/>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937">
+    <text x="420" y="52" font-size="24" font-weight="600" text-anchor="middle">Reconstructed set-up (not to scale)</text>
+    <!-- sphere of radius 15 cm over which the vapour spreads, clipped to the jar -->
+    <g clip-path="url(#jar-interior)">
+      <circle cx="420" cy="540" r="294" fill="none" stroke="#9ca3af" stroke-width="2" stroke-dasharray="3 6"/>
+    </g>
+    <!-- bell jar -->
+    <path d="M 180 610 L 180 220 A 240 100 0 0 1 660 220 L 660 610" fill="#f3f4f6" fill-opacity="0.5" stroke="#1f2937" stroke-width="3"/>
+    <!-- baseplate -->
+    <line x1="120" y1="610" x2="720" y2="610" stroke="#1f2937" stroke-width="6" stroke-linecap="round"/>
+    <!-- electrodes -->
+    <line x1="390" y1="552" x2="390" y2="610" stroke="#1f2937" stroke-width="2"/>
+    <line x1="450" y1="552" x2="450" y2="610" stroke="#1f2937" stroke-width="2"/>
+    <!-- vapour rays that miss the slide -->
+    <g stroke="#b8860b" stroke-width="2.5" stroke-dasharray="7 5" fill="none">
+      <line x1="420" y1="540" x2="632" y2="173"/>
+      <line x1="420" y1="540" x2="208" y2="173"/>
+      <line x1="420" y1="540" x2="650" y2="347"/>
+      <line x1="420" y1="540" x2="190" y2="347"/>
+      <line x1="420" y1="540" x2="660" y2="453"/>
+      <line x1="420" y1="540" x2="180" y2="453"/>
+      <line x1="420" y1="540" x2="660" y2="498"/>
+      <line x1="420" y1="540" x2="180" y2="498"/>
+    </g>
+    <!-- vapour rays that reach the slide -->
+    <g stroke="#b91c1c" stroke-width="2.5" stroke-dasharray="7 5" fill="none">
+      <line x1="420" y1="540" x2="420" y2="246"/>
+      <line x1="420" y1="540" x2="482" y2="246"/>
+      <line x1="420" y1="540" x2="358" y2="246"/>
+    </g>
+    <!-- boat and bead -->
+    <polygon points="380,528 460,528 450,552 390,552" fill="#4b5563" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="420" cy="528" r="10" fill="#d4a017" stroke="#1f2937" stroke-width="2"/>
+    <text x="370" y="574" font-size="21" text-anchor="end">1 g gold bead</text>
+    <text x="370" y="598" font-size="21" text-anchor="end">in a heated boat</text>
+    <!-- glass slide -->
+    <rect x="345" y="234" width="150" height="12" fill="#dbeafe" stroke="#1f2937" stroke-width="2"/>
+    <text x="420" y="220" font-size="21" text-anchor="middle">glass slide, 2.5 cm by 7.5 cm</text>
+    <!-- labels -->
+    <text x="640" y="560" font-size="20" text-anchor="end" fill="#b8860b" font-weight="600">gold vapour</text>
+    <text x="595" y="345" font-size="20" text-anchor="middle" fill="#4b5563">r = 15 cm</text>
+    <!-- dimension arrow -->
+    <line x1="110" y1="246" x2="345" y2="246" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="2 4"/>
+    <line x1="110" y1="540" x2="380" y2="540" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="2 4"/>
+    <line x1="110" y1="252" x2="110" y2="534" stroke="#1f2937" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <text x="100" y="400" font-size="22" text-anchor="end">15 cm</text>
+    <!-- caption -->
+    <text x="420" y="650" font-size="21" text-anchor="middle">Atoms fly in straight lines in every direction.</text>
+    <text x="420" y="680" font-size="21" text-anchor="middle">The slide catches only the fraction of the sphere it covers.</text>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" role="img" aria-labelledby="title desc">
+  <title id="title">Three volumes on a shelf, seen from above, with the bookworm's tunnel</title>
+  <desc id="desc">Plan view of three volumes standing on a shelf. In each volume the first page lies at the right edge and the last page at the left edge, so a straight tunnel from page 1 of Volume I to the last page of Volume III crosses only the front cover of Volume I, the whole of Volume II and the back cover of Volume III.</desc>
+  <rect x="0" y="0" width="800" height="400" fill="#ffffff"/>
+  <defs>
+    <pattern id="leaves" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#f3f4f6"/>
+      <line x1="4" y1="0" x2="4" y2="8" stroke="#9ca3af" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937">
+    <!-- shelf -->
+    <line x1="30" y1="320" x2="770" y2="320" stroke="#1f2937" stroke-width="3"/>
+    <text x="30" y="345" font-size="16" fill="#6b7280">the shelf seen from above; the spines face the front edge, along the bottom</text>
+
+    <!-- Volume I: x 70-270 -->
+    <rect x="86" y="120" width="168" height="200" fill="url(#leaves)" stroke="none"/>
+    <rect x="70" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="254" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="70" y="120" width="200" height="200" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="170" y="100" font-size="24" font-weight="bold" text-anchor="middle">Vol. I</text>
+    <text x="94" y="165" font-size="16">last page</text>
+    <text x="246" y="165" font-size="16" text-anchor="end">page 1</text>
+
+    <!-- Volume II: x 300-500 -->
+    <rect x="316" y="120" width="168" height="200" fill="url(#leaves)" stroke="none"/>
+    <rect x="300" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="484" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="300" y="120" width="200" height="200" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="400" y="100" font-size="24" font-weight="bold" text-anchor="middle">Vol. II</text>
+    <text x="324" y="165" font-size="16">last page</text>
+    <text x="476" y="165" font-size="16" text-anchor="end">page 1</text>
+
+    <!-- Volume III: x 530-730 -->
+    <rect x="546" y="120" width="168" height="200" fill="url(#leaves)" stroke="none"/>
+    <rect x="530" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="714" y="120" width="16" height="200" fill="#1f2937"/>
+    <rect x="530" y="120" width="200" height="200" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="630" y="100" font-size="24" font-weight="bold" text-anchor="middle">Vol. III</text>
+    <text x="554" y="165" font-size="16">last page</text>
+    <text x="706" y="165" font-size="16" text-anchor="end">page 1</text>
+
+    <!-- cover labels -->
+    <text x="262" y="60" font-size="14" text-anchor="middle" fill="#6b7280">front cover</text>
+    <line x1="262" y1="66" x2="262" y2="114" stroke="#6b7280" stroke-width="1.5"/>
+    <text x="538" y="60" font-size="14" text-anchor="middle" fill="#6b7280">back cover</text>
+    <line x1="538" y1="66" x2="538" y2="114" stroke="#6b7280" stroke-width="1.5"/>
+
+    <!-- what the hasty reader imagines -->
+    <line x1="72" y1="285" x2="728" y2="285" stroke="#9ca3af" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle cx="72" cy="285" r="4" fill="#9ca3af"/>
+    <circle cx="728" cy="285" r="4" fill="#9ca3af"/>
+
+    <!-- the actual tunnel -->
+    <line x1="254" y1="230" x2="546" y2="230" stroke="#b91c1c" stroke-width="3" stroke-dasharray="10 6"/>
+    <circle cx="254" cy="230" r="6" fill="#b91c1c"/>
+    <circle cx="546" cy="230" r="6" fill="#b91c1c"/>
+
+    <!-- captions -->
+    <text x="400" y="372" font-size="20" font-weight="bold" fill="#b91c1c" text-anchor="middle">Tunnel = front cover of I + all of II + back cover of III</text>
+    <text x="400" y="393" font-size="16" fill="#6b7280" text-anchor="middle">grey dashes: what the hasty reader imagines (all three volumes)</text>
+  </g>
+</svg>

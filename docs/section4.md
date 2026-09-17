@@ -1,190 +1,126 @@
+---
+title: "Section 4: Patterns, Empirical Generalizations"
+description: "Sessions 19 to 24 of Winfree's course: finding regularities in counts, tables and games, pooling class data, and telling a pattern observed from a pattern explained, with the Cell Shapes lab, Eleusis, and the start of the Stacked Cantilevers lab."
+type: Lesson
+tags: [course, student-facing, section-4, patterns, generalization, data]
+status: stable
+generated:
+  by: "claude/opus-5"
+  at: "2026-09-16T00:00:00Z"
+sources:
+  - id: winfree-handout
+    resource: "https://web.archive.org/web/20070214070741/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm"
+    title: "The Art of Scientific Discovery (EEB 479): course handout, Web Archive capture of 2007-02-14"
+    author: "Arthur T. Winfree"
+  - id: aosd-syllabus
+    resource: "https://github.com/tyson-swetnam/aosd/blob/main/docs/assets/aosd_syllabus.pdf"
+    title: "The Art of Scientific Discovery: original course syllabus (PDF)"
+    author: "Arthur T. Winfree"
+---
+
 # Section 4: Patterns, Empirical Generalizations
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-*Six sessions of recognizing patterns and forming generalizations from data*
+*Six sessions of counting, pooling data, and asking whether a regularity is a law*
 
 ## Overview
 
-This section develops your ability to recognize meaningful patterns in complex data and form reliable generalizations from empirical observations. You'll learn to distinguish between real patterns and apparent patterns that arise from chance, and to build from specific observations to general principles.
+The [syllabus](syllabus.md) calls this section "Patterns, Empirical Generalizations". Sections 1 to 3 taught you to check facts, notice your blocks and ask good questions. Now the facts pile up, and the job is to find the rule inside them: in chords drawn across a circle, a table of paired numbers, a patch of cells, a row of accepted playing cards.
 
-## The Nature of Patterns
+A rule that fits the data is not yet a rule you understand. In [N Dots on the Rim of a Circle](problems/n-dots-on-circle.md) the obvious rule holds case after case and then fails. In [Neutrinos](problems/neutrinos.md) a pattern that most people expected to go away survived for thirty years. The syllabus calls its exercises practice in "cultivating multiple alternative solutions" and "eliminating rejectable candidate solutions". A pattern is a candidate like any other.
 
-### What Makes a Pattern Meaningful?
-- **Reproducibility** - appears consistently across different instances
-- **Predictive power** - allows you to anticipate future observations
-- **Underlying structure** - reflects genuine relationships rather than coincidence
-- **Explanatory value** - helps make sense of seemingly unrelated phenomena
+Four activities happen in class: the Cell Shapes and Egg Pouches labs, the start of the Stacked Cantilevers lab, and a game of Eleusis. Some patterns only appear in more data than one person can gather. As the syllabus puts it: "Class meetings will also prove essential for some problems in which no one individual can collect enough data, but if we pool data, reality will come into focus."
 
-### Types of Patterns in Science
-- **Numerical relationships** - mathematical patterns in data
-- **Spatial patterns** - arrangements and structures in space
-- **Temporal patterns** - regularities over time
-- **Categorical patterns** - groupings and classifications
-- **Causal patterns** - sequences of cause and effect
+## The sessions
 
-## Key Learning Activities
+For most of these problems the syllabus gives only a name, and Winfree's problem sheets are lost. The problem pages are the editors' reconstructions, and each says how sure the identification is.
 
-### Presidents and States
-A data analysis exercise exploring numerical patterns in historical and geographical data, teaching you to:
-- Look for unexpected relationships
-- Test pattern validity with additional data
-- Distinguish correlation from causation
-- Consider alternative explanations
+### Session 19: Pattern
 
-### N Dots on Circle Problem
-A geometric puzzle that reveals:
-- How patterns can be deceptive
-- The importance of testing generalizations
-- Mathematical relationships in geometric forms
-- The danger of extrapolating from limited cases
+**Readings due:** Judson, Chapter 2: *Pattern*.
 
-### Cell Shapes Laboratory
-Multi-session collaborative investigation involving:
-- **Systematic observation** of biological structures
-- **Data collection** across multiple samples
-- **Pattern identification** in shape and organization
-- **Hypothesis formation** about underlying principles
-- **Testing predictions** derived from observed patterns
+Discuss [Presidents and States](problems/presidents-and-states.md). What Winfree meant by it is unknown; the page offers two regularities from American history that look like laws. Discuss [N Dots on the Rim of a Circle](problems/n-dots-on-circle.md), "connected to slice the disk": count the pieces, predict the next case, then check.
 
-### Egg Pouches Investigation
-Hands-on biological observation focusing on:
-- Pattern recognition in natural structures
-- Variation within patterns
-- Functional relationships between form and purpose
-- Documentation and measurement techniques
+### Session 20: The Cell Shapes lab begins
 
-## The Challenge of Generalization
+**Readings due:** Ehrlich, Chapter 5: "Low Doses of Nuclear Radiation Are Beneficial".
 
-### From Specific to General
-The process of forming reliable generalizations:
+"Start Cell Shapes lab in class." The [Cell Shapes Lab](problems/cell-shapes-lab.md) runs for three sessions. No lab sheet survives; the page suggests counting the sides of cells in a flat froth or a leaf peel first, and theorizing later.
 
-1. **Multiple observations** - never generalize from a single case
-2. **Controlled variation** - change one factor at a time when possible
-3. **Exception analysis** - understand why some cases don't fit the pattern
-4. **Boundary testing** - determine where the pattern breaks down
-5. **Predictive testing** - use the pattern to make and test predictions
+### Session 21: Pooled experiments, paired numbers
 
-### Common Pitfalls in Pattern Recognition
-- **Seeing patterns in randomness** - pareidolia in data
-- **Overgeneralization** - extending patterns beyond their valid range
-- **Confirmation bias** - seeking only confirming examples
-- **Post-hoc reasoning** - creating explanations after seeing the data
-- **Sample bias** - patterns that don't represent the whole population
+**Readings due:** Ehrlich, Chapter 6: "The Solar System Has Two Suns".
 
-## Collaborative Pattern Recognition
+"Collaborative experiments on Cell Shapes", the second lab session. Deal with [Paired Observations](problems/paired-observations.md); in a 2002 web copy of Winfree's handout this link points to a bookmark named `Keplers_Laws`, the clue the reconstruction follows. Deal with [Neutrinos](problems/neutrinos.md).
 
-### The Game of Eleusis
-A card game that simulates scientific discovery:
-- **Hidden rules** represent natural laws
-- **Hypothesis formation** based on limited data
-- **Experimental testing** of proposed patterns
-- **Collaborative theory building** through group play
-- **Learning from failed predictions**
+### Session 22: Alternative thinking languages
 
-### Group Data Collection
-Many patterns only emerge when multiple people contribute observations:
-- **Pooling diverse experiences** and perspectives
-- **Cross-checking individual observations** for consistency
-- **Building larger datasets** than any individual could collect
-- **Detecting patterns across different contexts** and conditions
+**Readings due:** Adams, Chapter 6: Alternative thinking languages.
 
-## Mathematical Tools for Pattern Recognition
+"Further experiments on cell shapes", the lab's last scheduled session. Do the [Egg Pouches Lab](problems/egg-pouches-lab.md) in class; only its name survives, and the page reconstructs it as a lab in pooling counts. Deal with [Platonic Solids and Applications](problems/platonic-solids.md), where a sketch or a straw model does work that words cannot.
 
-### Basic Statistical Concepts
-- **Central tendency** - finding typical values
-- **Variation** - understanding spread and outliers
-- **Correlation** - measuring relationships between variables
-- **Trend analysis** - identifying changes over time
+### Session 23: Eleusis
 
-### Visual Pattern Recognition
-- **Graphing techniques** for revealing relationships
-- **Scaling and transformation** to highlight patterns
-- **Comparative visualization** across different datasets
-- **Pattern overlay** and superposition methods
+**Readings due:** Ehrlich, Chapter 7: "Oil, Coal, and Gas Have Abiogenic Origins".
 
-## Practice Exercises
+"Play Eleusis in class": in [Eleusis](problems/eleusis.md) the dealer invents a secret rule and the players discover it by experiment. Deal with [The Mirror Mystery](problems/mirror-mystery.md).
 
-### Platonic Solids Investigation
-Exploring geometric patterns in three-dimensional forms:
-- **Systematic enumeration** of properties
-- **Relationship discovery** between faces, edges, and vertices
-- **Application** to real-world structures
-- **Historical context** of pattern discovery
+### Session 24: The Stacked Cantilevers lab begins
 
-### Paired Observations Analysis
-Learning to handle data that comes in related pairs:
-- **Correlation versus causation** analysis
-- **Matched pair** statistical techniques
-- **Pattern persistence** across different pairing methods
+**Readings due:** Ehrlich, Chapter 10: "There Was No Big Bang".
 
-### Neutrino Problem
-A physics-based pattern recognition challenge involving:
-- **Indirect observation** methods
-- **Pattern detection** in noisy data
-- **Theoretical prediction** versus empirical observation
-- **Collaborative hypothesis** testing
+"Start Stacked Cantilevers lab." The [Stacked Cantilevers Lab](problems/stacked-cantilevers-lab.md) begins in this last session of Section 4 and continues into [Section 5](section5.md), where it is listed with that section's problems: "Further collaborations" in session 25 and "Theory of stacking cantilevers, resolution of wagers" in session 26.
 
-## GamesWorth Practice for Pattern Recognition
+## Key ideas
 
-Focus your daily sessions on:
+**Observed is not explained.** A rule that fits every case you have drawn is still a guess until you can say why it must hold. [N Dots on the Rim of a Circle](problems/n-dots-on-circle.md) is the classic warning; session 4's phrase "distinguishing things we know vs only imagine" applies to patterns too.
 
-1. **Pattern hunting** in everyday phenomena
-2. **Data collection** and systematic recording
-3. **Hypothesis formation** based on observed patterns
-4. **Prediction testing** - use patterns to forecast outcomes
-5. **Exception analysis** - investigate cases that don't fit the pattern
-6. **Documentation** of pattern discovery process
+**How pattern-finding goes wrong.**
 
-## Skills Being Developed
+- *Seeing patterns in noise.* Search enough rules and some will fit by chance. Ask how many others you could have tried ([Presidents and States](problems/presidents-and-states.md)).
+- *Stopping at confirmations.* Five agreeing cases do not guarantee the sixth. Choose the test most likely to break the rule ([Eleusis](problems/eleusis.md) answers only right or wrong, so the card you choose is the experiment).
+- *Overgeneralizing.* A rule true in its home range can fail outside it. Look for the boundary ([Platonic Solids and Applications](problems/platonic-solids.md) asks you to build the solid where the rule fails).
+- *Believing what everyone believes.* Vary the observation before explaining it ([The Mirror Mystery](problems/mirror-mystery.md)).
+- *Biased samples.* One specimen, or one group's counts, is an anecdote. Pool the data ([Cell Shapes Lab](problems/cell-shapes-lab.md), [Egg Pouches Lab](problems/egg-pouches-lab.md)).
 
-### Pattern Recognition Skills
-- **Visual pattern detection** in complex data
-- **Mathematical relationship** identification
-- **Anomaly recognition** - spotting what doesn't fit
-- **Multi-scale pattern** analysis (patterns within patterns)
+**Some patterns survive every attack.** The solar neutrino shortfall held for thirty years while most people assumed the calculation or the detectors were wrong ([Neutrinos](problems/neutrinos.md)). An empirical law can be right long before anyone can say why, as Kepler's rule was ([Paired Observations](problems/paired-observations.md)).
 
-### Generalization Skills
-- **Inductive reasoning** from specific to general
-- **Hypothesis formation** based on limited data
-- **Boundary identification** for generalizations
-- **Predictive model** building from observed patterns
+**Separate what is forced from what is only usual.** In a froth some regularities follow from topology and some are merely typical. Counting first, then proving what you can, tells them apart.
 
-### Collaborative Skills
-- **Data sharing** and pooling techniques
-- **Group hypothesis** formation and testing
-- **Peer review** of pattern claims
-- **Collective verification** of discoveries
+## GamesWorth focus for this section
 
-## Assessment Approach
+- Before drawing or counting the next case, write your prediction down with the date and time, then record whether it held.
+- Keep a list of every rule you tried and discarded, not just the one that survived. The syllabus asks you to record "how you got into and out of blind alleys."
+- After each Eleusis round, log each hypothesis and the card you played to test it.
+- For every generalization, add one line: *what observation would break this?*
+- On a left-hand page, write a morning-after on N Dots on the Rim of a Circle or Paired Observations: when did you first believe the rule, and on what evidence?
 
-Your work will be evaluated on:
-- **Quality of pattern documentation** in your GamesWorth notebook
-- **Thoughtfulness of generalizations** you propose
-- **Ability to test patterns** with new data
-- **Collaboration effectiveness** in group pattern-finding exercises
-- **Growth in pattern recognition** sophistication over time
+## Readings for this section
 
-## Readings and Resources
+- **Horace Freeland Judson**, *The Search for Solutions*, Chapter 2: *Pattern* (session 19). [Reading list entry](readings.md#judson); [Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science: A Few Might Even Be True*, Chapter 5: "Low Doses of Nuclear Radiation Are Beneficial" (session 20). [Reading list entry](readings.md#ehrlich); [publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science*, Chapter 6: "The Solar System Has Two Suns" (session 21). [Reading list entry](readings.md#ehrlich); [publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒
+- **James L. Adams**, *Conceptual Blockbusting*, Chapter 6: Alternative thinking languages (session 22). [Reading list entry](readings.md#adams); [publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science*, Chapter 7: "Oil, Coal, and Gas Have Abiogenic Origins" (session 23). [Reading list entry](readings.md#ehrlich); [publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒
+- **Robert Ehrlich**, *Nine Crazy Ideas in Science*, Chapter 10: "There Was No Big Bang" (session 24). [Reading list entry](readings.md#ehrlich); [publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒
 
-- **Horace Freeland Judson**, *The Search for Solutions* — Chapter 2 "Pattern" ([Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*)
-- **Robert Ehrlich**, *Nine Crazy Ideas in Science* — Chapters 5–7 ([publisher](https://press.princeton.edu/books/paperback/9780691094953/nine-crazy-ideas-in-science){target=_blank} 🔒)
-- **James L. Adams**, *Conceptual Blockbusting* — Chapter 6, alternative thinking languages ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
-- Selected articles on pattern recognition in various scientific disciplines
+## Problems in this section
 
-See the full [Recommended Readings](readings.md) for complete citations.
+| Session | Problem | Kind | What it trains |
+| :-- | :-- | :-- | :-- |
+| 19 | [Presidents and States](problems/presidents-and-states.md) | discussion | Pattern, accident or law? (editors' reconstruction) |
+| 19 | [N Dots on the Rim of a Circle](problems/n-dots-on-circle.md) | puzzle | Pattern observed vs pattern explained |
+| 20-22 | [Cell Shapes Lab](problems/cell-shapes-lab.md) | lab | Counting and pooling before theorizing |
+| 21 | [Paired Observations](problems/paired-observations.md) | puzzle | Finding a law in a table, then testing it |
+| 21 | [Neutrinos](problems/neutrinos.md) | case study | A pattern that would not go away |
+| 22 | [Egg Pouches Lab](problems/egg-pouches-lab.md) | lab | Generalizing from pooled specimens (editors' reconstruction) |
+| 22 | [Platonic Solids and Applications](problems/platonic-solids.md) | puzzle | Finding a rule's limits, then proving it |
+| 23 | [Eleusis](problems/eleusis.md) | puzzle | Induction by experiment |
+| 23 | [The Mirror Mystery](problems/mirror-mystery.md) | puzzle | Checking a belief everyone shares |
 
-## Problem Sources
-
-- **Presidents and States** — original Winfree exercise on numerical coincidences (no external source)
-- **N Dots on Circle Problem** — [Moser's circle problem](https://en.wikipedia.org/wiki/Moser%27s_circle_problem){target=_blank} 🔓 (regions: 1, 2, 4, 8, 16, 31, …; OEIS A000127)
-- **Cell Shapes Laboratory** — epithelial cell topology and Lewis's law; Graner & Riveline, [*Development* 144, 4226](https://journals.biologists.com/dev/article/144/23/4226/19225/The-Forms-of-Tissues-or-Cell-aggregates-D-Arcy){target=_blank} 🔓 (2017)
-- **Egg Pouches Investigation** — elasmobranch egg-case development; Musa et al., [*PLOS ONE* 13, e0206984](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206984){target=_blank} 🔓 (2018)
-- **Game of Eleusis** — Robert Abbott's inductive card game (1956); [overview](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29){target=_blank} 🔓 (Martin Gardner, *Scientific American*, Jun 1959 / "New Eleusis", Oct 1977 🔒)
-- **Platonic Solids Investigation** — Euclid, [*Elements*, Book XIII](https://mathcs.clarku.edu/~djoyce/elements/bookXIII/bookXIII.html){target=_blank} 🔓 — exactly five regular solids
-- **Paired Observations Analysis** — original Winfree statistics exercise (no external source)
-- **Neutrino Problem** — the solar neutrino problem; John Bahcall, ["Solving the Mystery of the Missing Neutrinos"](https://arxiv.org/abs/physics/0406040){target=_blank} 🔓 (2004)
+See the [problem index](problems/index.md) for every problem in the course.
 
 ---
 
-*The goal is to develop reliable intuition for distinguishing meaningful patterns from random noise, and to build valid generalizations that enhance understanding and enable prediction.*
+*A pattern is where an explanation starts, not where it ends: count, predict, try to break it, and only then ask why it holds.*

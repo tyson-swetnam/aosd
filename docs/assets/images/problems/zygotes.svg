@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t">
+  <title id="t">1,000 twin pairs split into identical (400), fraternal same-sex (300) and fraternal opposite-sex (300)</title>
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937" text-anchor="middle">
+    <text x="400" y="48" font-size="26" font-weight="bold">1,000 twin pairs (illustrative counts)</text>
+    <!-- top brackets: what is observed -->
+    <path d="M104 190 V176 H514 V190" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+    <text x="309" y="162" font-size="22">Same-sex pairs observed: 700</text>
+    <path d="M526 190 V176 H696 V190" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+    <text x="611" y="130" font-size="22">Opposite-sex pairs</text>
+    <text x="611" y="162" font-size="22">observed: 300</text>
+    <!-- the bar: 600 px = 1,000 pairs, 0.6 px per pair -->
+    <rect x="100" y="200" width="240" height="90" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+    <rect x="340" y="200" width="180" height="90" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/>
+    <rect x="520" y="200" width="180" height="90" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/>
+    <line x1="520" y1="200" x2="520" y2="290" stroke="#ffffff" stroke-width="4"/>
+    <line x1="520" y1="194" x2="520" y2="296" stroke="#b91c1c" stroke-width="3" stroke-dasharray="9 6"/>
+    <text x="220" y="238" font-size="21">Identical</text>
+    <text x="220" y="268" font-size="21">400</text>
+    <text x="430" y="238" font-size="21">Fraternal,</text>
+    <text x="430" y="268" font-size="21">same sex: 300</text>
+    <text x="610" y="238" font-size="21">Fraternal,</text>
+    <text x="610" y="268" font-size="21">opposite: 300</text>
+    <!-- bottom brackets: what is inferred -->
+    <path d="M104 300 V314 H336 V300" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+    <text x="220" y="346" font-size="22">One zygote:</text>
+    <text x="220" y="376" font-size="22">400 = 700 − 300</text>
+    <path d="M344 300 V314 H696 V300" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+    <text x="520" y="346" font-size="22">Two zygotes:</text>
+    <text x="520" y="376" font-size="22">600 = 2 × 300</text>
+    <!-- assumption note -->
+    <line x1="150" y1="444" x2="196" y2="444" stroke="#b91c1c" stroke-width="3" stroke-dasharray="9 6"/>
+    <text x="210" y="452" font-size="21" fill="#b91c1c" text-anchor="start">Assumed: fraternal pairs split 50/50 by sex</text>
+  </g>
+</svg>

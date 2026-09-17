@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" width="620" height="520" role="img" aria-labelledby="t">
+<title id="t">An impossible triangle built from twelve cubes, corners labelled A, B and C</title>
+<rect x="0" y="0" width="620" height="520" fill="#ffffff"/>
+<g stroke="#1f2937" stroke-width="2" stroke-linejoin="round">
+<!-- cube (0, 0, 0) -->
+<polygon points="192.0,56.0 250.9,90.0 192.0,124.0 133.1,90.0" fill="#f3f4f6"/>
+<polygon points="250.9,158.0 192.0,192.0 192.0,124.0 250.9,90.0" fill="#9ca3af"/>
+<polygon points="133.1,158.0 192.0,192.0 192.0,124.0 133.1,90.0" fill="#4b5563"/>
+<!-- cube (1, 0, 0) -->
+<polygon points="250.9,90.0 309.8,124.0 250.9,158.0 192.0,124.0" fill="#f3f4f6"/>
+<polygon points="309.8,192.0 250.9,226.0 250.9,158.0 309.8,124.0" fill="#9ca3af"/>
+<polygon points="192.0,192.0 250.9,226.0 250.9,158.0 192.0,124.0" fill="#4b5563"/>
+<!-- cube (2, 0, 0) -->
+<polygon points="309.8,124.0 368.7,158.0 309.8,192.0 250.9,158.0" fill="#f3f4f6"/>
+<polygon points="368.7,226.0 309.8,260.0 309.8,192.0 368.7,158.0" fill="#9ca3af"/>
+<polygon points="250.9,226.0 309.8,260.0 309.8,192.0 250.9,158.0" fill="#4b5563"/>
+<!-- cube (3, 0, 0) -->
+<polygon points="368.7,158.0 427.6,192.0 368.7,226.0 309.8,192.0" fill="#f3f4f6"/>
+<polygon points="427.6,260.0 368.7,294.0 368.7,226.0 427.6,192.0" fill="#9ca3af"/>
+<polygon points="309.8,260.0 368.7,294.0 368.7,226.0 309.8,192.0" fill="#4b5563"/>
+<!-- cube (4, 0, 0) -->
+<polygon points="427.6,192.0 486.4,226.0 427.6,260.0 368.7,226.0" fill="#f3f4f6"/>
+<polygon points="486.4,294.0 427.6,328.0 427.6,260.0 486.4,226.0" fill="#9ca3af"/>
+<polygon points="368.7,294.0 427.6,328.0 427.6,260.0 368.7,226.0" fill="#4b5563"/>
+<!-- cube (4, 1, 0) -->
+<polygon points="368.7,226.0 427.6,260.0 368.7,294.0 309.8,260.0" fill="#f3f4f6"/>
+<polygon points="427.6,328.0 368.7,362.0 368.7,294.0 427.6,260.0" fill="#9ca3af"/>
+<polygon points="309.8,328.0 368.7,362.0 368.7,294.0 309.8,260.0" fill="#4b5563"/>
+<!-- cube (4, 2, 0) -->
+<polygon points="309.8,260.0 368.7,294.0 309.8,328.0 250.9,294.0" fill="#f3f4f6"/>
+<polygon points="368.7,362.0 309.8,396.0 309.8,328.0 368.7,294.0" fill="#9ca3af"/>
+<polygon points="250.9,362.0 309.8,396.0 309.8,328.0 250.9,294.0" fill="#4b5563"/>
+<!-- cube (4, 3, 0) -->
+<polygon points="250.9,294.0 309.8,328.0 250.9,362.0 192.0,328.0" fill="#f3f4f6"/>
+<polygon points="309.8,396.0 250.9,430.0 250.9,362.0 309.8,328.0" fill="#9ca3af"/>
+<polygon points="192.0,396.0 250.9,430.0 250.9,362.0 192.0,328.0" fill="#4b5563"/>
+<!-- cube (4, 4, 0) -->
+<polygon points="192.0,328.0 250.9,362.0 192.0,396.0 133.1,362.0" fill="#f3f4f6"/>
+<polygon points="250.9,430.0 192.0,464.0 192.0,396.0 250.9,362.0" fill="#9ca3af"/>
+<polygon points="133.1,430.0 192.0,464.0 192.0,396.0 133.1,362.0" fill="#4b5563"/>
+<!-- cube (4, 4, 1) -->
+<polygon points="192.0,260.0 250.9,294.0 192.0,328.0 133.1,294.0" fill="#f3f4f6"/>
+<polygon points="250.9,362.0 192.0,396.0 192.0,328.0 250.9,294.0" fill="#9ca3af"/>
+<polygon points="133.1,362.0 192.0,396.0 192.0,328.0 133.1,294.0" fill="#4b5563"/>
+<!-- cube (4, 4, 2) -->
+<polygon points="192.0,192.0 250.9,226.0 192.0,260.0 133.1,226.0" fill="#f3f4f6"/>
+<polygon points="250.9,294.0 192.0,328.0 192.0,260.0 250.9,226.0" fill="#9ca3af"/>
+<polygon points="133.1,294.0 192.0,328.0 192.0,260.0 133.1,226.0" fill="#4b5563"/>
+<!-- cube (4, 4, 3) -->
+<polygon points="192.0,124.0 250.9,158.0 192.0,192.0 133.1,158.0" fill="#f3f4f6"/>
+<polygon points="250.9,226.0 192.0,260.0 192.0,192.0 250.9,158.0" fill="#9ca3af"/>
+<polygon points="133.1,226.0 192.0,260.0 192.0,192.0 133.1,158.0" fill="#4b5563"/>
+<!-- the one exception: the corner cube at A is drawn in front of the top of the column, and the first cube of bar AB in front of both -->
+<polygon points="133.1,158.0 192.0,192.0 192.0,124.0 133.1,90.0" fill="#4b5563"/>
+<polygon points="250.9,90.0 309.8,124.0 250.9,158.0 192.0,124.0" fill="#f3f4f6"/>
+<polygon points="192.0,192.0 250.9,226.0 250.9,158.0 192.0,124.0" fill="#4b5563"/>
+</g>
+<text x="107.1" y="134.0" text-anchor="end" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#b91c1c">A</text>
+<text x="508.4" y="270.0" text-anchor="start" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#b91c1c">B</text>
+<text x="107.1" y="406.0" text-anchor="end" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#b91c1c">C</text>
+</svg>

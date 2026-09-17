@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" width="800" height="680" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="800" height="680" fill="#ffffff"/>
+
+  <!-- ===== Panel 1 ===== -->
+  <text x="80" y="38" font-size="22" fill="#1f2937">Arrangement 1: the four pieces cover the figure</text>
+
+  <!-- unit grid, 13 x 5, origin (80,300), 48 px per unit -->
+  <g stroke="#dddddd" stroke-width="1">
+    <line x1="80" y1="300" x2="704" y2="300"/>
+    <line x1="80" y1="252" x2="704" y2="252"/>
+    <line x1="80" y1="204" x2="704" y2="204"/>
+    <line x1="80" y1="156" x2="704" y2="156"/>
+    <line x1="80" y1="108" x2="704" y2="108"/>
+    <line x1="80" y1="60"  x2="704" y2="60"/>
+    <line x1="80"  y1="60" x2="80"  y2="300"/>
+    <line x1="128" y1="60" x2="128" y2="300"/>
+    <line x1="176" y1="60" x2="176" y2="300"/>
+    <line x1="224" y1="60" x2="224" y2="300"/>
+    <line x1="272" y1="60" x2="272" y2="300"/>
+    <line x1="320" y1="60" x2="320" y2="300"/>
+    <line x1="368" y1="60" x2="368" y2="300"/>
+    <line x1="416" y1="60" x2="416" y2="300"/>
+    <line x1="464" y1="60" x2="464" y2="300"/>
+    <line x1="512" y1="60" x2="512" y2="300"/>
+    <line x1="560" y1="60" x2="560" y2="300"/>
+    <line x1="608" y1="60" x2="608" y2="300"/>
+    <line x1="656" y1="60" x2="656" y2="300"/>
+    <line x1="704" y1="60" x2="704" y2="300"/>
+  </g>
+
+  <g stroke="#1f2937" stroke-width="3" stroke-linejoin="round">
+    <polygon points="80,300 464,300 464,156" fill="#f4b6b6"/>
+    <polygon points="464,156 704,156 704,60" fill="#b6cdf4"/>
+    <polygon points="464,300 704,300 704,252 608,252 608,204 464,204" fill="#c4e6b8"/>
+    <polygon points="464,204 608,204 608,252 704,252 704,156 464,156" fill="#f6e7a6"/>
+  </g>
+
+  <g font-size="24" fill="#1f2937" text-anchor="middle">
+    <text x="250" y="270">A</text>
+    <text x="620" y="130">B</text>
+    <text x="600" y="288">C</text>
+    <text x="536" y="188">D</text>
+  </g>
+
+  <g font-size="20" fill="#1f2937" text-anchor="middle">
+    <text x="392" y="330">base 13</text>
+  </g>
+  <text transform="translate(730,180) rotate(-90)" font-size="20" fill="#1f2937" text-anchor="middle">height 5</text>
+
+  <!-- ===== Panel 2 ===== -->
+  <text x="80" y="378" font-size="22" fill="#1f2937">Arrangement 2: same four pieces, one square left over</text>
+
+  <!-- unit grid, origin (80,610) -->
+  <g stroke="#dddddd" stroke-width="1">
+    <line x1="80" y1="610" x2="704" y2="610"/>
+    <line x1="80" y1="562" x2="704" y2="562"/>
+    <line x1="80" y1="514" x2="704" y2="514"/>
+    <line x1="80" y1="466" x2="704" y2="466"/>
+    <line x1="80" y1="418" x2="704" y2="418"/>
+    <line x1="80" y1="370" x2="704" y2="370"/>
+    <line x1="80"  y1="370" x2="80"  y2="610"/>
+    <line x1="128" y1="370" x2="128" y2="610"/>
+    <line x1="176" y1="370" x2="176" y2="610"/>
+    <line x1="224" y1="370" x2="224" y2="610"/>
+    <line x1="272" y1="370" x2="272" y2="610"/>
+    <line x1="320" y1="370" x2="320" y2="610"/>
+    <line x1="368" y1="370" x2="368" y2="610"/>
+    <line x1="416" y1="370" x2="416" y2="610"/>
+    <line x1="464" y1="370" x2="464" y2="610"/>
+    <line x1="512" y1="370" x2="512" y2="610"/>
+    <line x1="560" y1="370" x2="560" y2="610"/>
+    <line x1="608" y1="370" x2="608" y2="610"/>
+    <line x1="656" y1="370" x2="656" y2="610"/>
+    <line x1="704" y1="370" x2="704" y2="610"/>
+  </g>
+
+  <g stroke="#1f2937" stroke-width="3" stroke-linejoin="round">
+    <polygon points="80,610 320,610 320,514" fill="#b6cdf4"/>
+    <polygon points="320,514 704,514 704,370" fill="#f4b6b6"/>
+    <polygon points="320,610 560,610 560,562 464,562 464,514 320,514" fill="#c4e6b8"/>
+    <polygon points="464,562 608,562 608,610 704,610 704,514 464,514" fill="#f6e7a6"/>
+  </g>
+
+  <!-- the empty unit square -->
+  <rect x="560" y="562" width="48" height="48" fill="#ffffff" stroke="#b91c1c" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="584" y="595" font-size="24" fill="#b91c1c" text-anchor="middle">?</text>
+
+  <g font-size="24" fill="#1f2937" text-anchor="middle">
+    <text x="170" y="592">B</text>
+    <text x="520" y="474">A</text>
+    <text x="400" y="598">C</text>
+    <text x="660" y="548">D</text>
+  </g>
+
+  <g font-size="20" fill="#1f2937" text-anchor="middle">
+    <text x="392" y="640">base 13</text>
+  </g>
+  <text transform="translate(730,490) rotate(-90)" font-size="20" fill="#1f2937" text-anchor="middle">height 5</text>
+</svg>

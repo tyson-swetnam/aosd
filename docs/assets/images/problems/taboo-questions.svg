@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1000" height="520" fill="#ffffff"/>
+
+  <defs>
+    <clipPath id="floorclip">
+      <rect x="20" y="210" width="320" height="220"/>
+    </clipPath>
+  </defs>
+
+  <!-- ===== Left panel: the set-up ===== -->
+  <text x="20" y="46" font-size="24" fill="#1f2937">The set-up</text>
+
+  <!-- concrete floor, in cross-section -->
+  <rect x="20" y="210" width="320" height="220" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <g clip-path="url(#floorclip)" stroke="#1f2937" stroke-width="1.5" opacity="0.35">
+    <line x1="20" y1="260" x2="70" y2="210"/>
+    <line x1="20" y1="320" x2="130" y2="210"/>
+    <line x1="20" y1="380" x2="130" y2="270"/>
+    <line x1="20" y1="440" x2="130" y2="330"/>
+    <line x1="60" y1="440" x2="130" y2="370"/>
+    <line x1="230" y1="210" x2="120" y2="320"/>
+    <line x1="290" y1="210" x2="180" y2="320"/>
+    <line x1="340" y1="230" x2="210" y2="360"/>
+    <line x1="340" y1="300" x2="230" y2="410"/>
+    <line x1="340" y1="370" x2="280" y2="430"/>
+  </g>
+
+  <!-- pipe: hollow interior, then walls -->
+  <rect x="140" y="210" width="60" height="182" fill="#ffffff"/>
+  <rect x="132" y="210" width="8" height="190" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5"/>
+  <rect x="200" y="210" width="8" height="190" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5"/>
+  <rect x="132" y="392" width="76" height="8" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5"/>
+  <line x1="140" y1="210" x2="200" y2="210" stroke="#1f2937" stroke-width="2"/>
+
+  <!-- ping-pong ball resting at the closed bottom -->
+  <circle cx="170" cy="364" r="27" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5"/>
+  <circle cx="160" cy="354" r="6" fill="#ffffff"/>
+
+  <!-- labels -->
+  <g fill="#b91c1c" font-size="20">
+    <text x="22" y="140">steel pipe, closed at</text>
+    <text x="22" y="166">the bottom, imbedded</text>
+    <text x="22" y="192">in the concrete floor</text>
+    <text x="196" y="470">ping-pong ball</text>
+  </g>
+  <g stroke="#b91c1c" stroke-width="2" fill="none">
+    <line x1="104" y1="202" x2="134" y2="252"/>
+    <line x1="222" y1="452" x2="196" y2="378"/>
+  </g>
+
+  <line x1="356" y1="24" x2="356" y2="496" stroke="#e5e7eb" stroke-width="3"/>
+
+  <!-- ===== Right panel: the objects ===== -->
+  <text x="372" y="46" font-size="22" fill="#1f2937">In the room: six people and these objects</text>
+
+  <g stroke="#1f2937" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
+
+    <!-- 1. coil of clothesline -->
+    <circle cx="405" cy="120" r="30" fill="#f3f4f6"/>
+    <circle cx="405" cy="120" r="17" fill="#ffffff"/>
+    <path d="M405 90 L420 76"/>
+
+    <!-- 2. carpenter's hammer -->
+    <rect x="399" y="202" width="12" height="54" fill="#e5e7eb"/>
+    <path d="M378 186 L432 186 L432 206 L378 206 L388 196 Z" fill="#f3f4f6"/>
+
+    <!-- 3. chisel -->
+    <rect x="396" y="288" width="18" height="32" fill="#e5e7eb"/>
+    <rect x="400" y="320" width="10" height="20" fill="#f3f4f6"/>
+    <path d="M400 340 L410 340 L414 350 L396 350 Z" fill="#f3f4f6"/>
+
+    <!-- 4. box of Wheaties -->
+    <rect x="382" y="386" width="48" height="60" fill="#f3f4f6"/>
+    <rect x="389" y="400" width="34" height="18" fill="#e5e7eb"/>
+    <path d="M389 428 L423 428"/>
+    <path d="M389 437 L415 437"/>
+    <path d="M382 392 L430 392"/>
+
+    <g transform="translate(82,0)">
+    <!-- 5. file -->
+    <rect x="616" y="110" width="22" height="18" fill="#e5e7eb"/>
+    <path d="M638 109 L694 114 L694 126 L638 131 Z" fill="#f3f4f6"/>
+    <g stroke-width="1.5">
+      <path d="M650 111 L646 130"/>
+      <path d="M662 112 L658 130"/>
+      <path d="M674 113 L670 129"/>
+      <path d="M686 114 L682 128"/>
+    </g>
+
+    <!-- 6. wire coat hanger -->
+    <path d="M655 204 L655 192 C655 183 643 183 643 192"/>
+    <path d="M655 204 L622 242 L688 242 Z" fill="#f3f4f6"/>
+
+    <!-- 7. monkey wrench -->
+    <rect x="647" y="284" width="16" height="64" fill="#e5e7eb"/>
+    <rect x="625" y="284" width="26" height="12" fill="#f3f4f6"/>
+    <rect x="625" y="302" width="26" height="12" fill="#f3f4f6"/>
+
+    <!-- 8. light bulb -->
+    <circle cx="655" cy="402" r="24" fill="#f3f4f6"/>
+    <rect x="645" y="426" width="20" height="20" fill="#e5e7eb"/>
+    <path d="M645 433 L665 433"/>
+    <path d="M645 440 L665 440"/>
+    <g stroke-width="1.5">
+      <path d="M648 412 L652 396 L658 406 L663 396 L666 412"/>
+    </g>
+    </g>
+  </g>
+
+  <g fill="#1f2937" font-size="20">
+    <text x="450" y="127">100 ft clothesline</text>
+    <text x="450" y="225">carpenter's hammer</text>
+    <text x="450" y="323">a chisel</text>
+    <text x="450" y="421">a box of Wheaties</text>
+    <text x="794" y="127">a flat file</text>
+    <text x="794" y="225">wire coat hanger</text>
+    <text x="794" y="323">monkey wrench</text>
+    <text x="794" y="421">a light bulb</text>
+  </g>
+</svg>

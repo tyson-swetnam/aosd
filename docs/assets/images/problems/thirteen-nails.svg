@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 455" width="420" height="455" role="img" aria-labelledby="title desc">
+  <title id="title">The 13 nails problem: the set-up</title>
+  <desc id="desc">Thirteen loose nails lying on a wooden block, beside one nail of the same kind driven upright into the block with its head a few centimetres clear of the surface.</desc>
+  <rect x="0" y="0" width="420" height="455" fill="#ffffff"/>
+
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937">
+    <text x="210" y="44" font-size="26" font-weight="bold" text-anchor="middle">The set-up</text>
+  </g>
+
+  <g transform="translate(0,-115)">
+  <!-- wooden block -->
+  <rect x="55" y="380" width="310" height="60" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <!-- fixed upright nail, point hidden in the block -->
+  <line x1="125" y1="380" x2="125" y2="290" stroke="#1f2937" stroke-width="3"/>
+  <rect x="117" y="286" width="16" height="5" fill="#1f2937"/>
+  <line x1="125" y1="380" x2="125" y2="400" stroke="#9ca3af" stroke-width="3" stroke-dasharray="4 4"/>
+  <polygon points="125,412 121,400 129,400" fill="#9ca3af"/>
+
+  <!-- thirteen loose nails lying on the block top -->
+  <g stroke="#1f2937" stroke-width="2.5" fill="#1f2937">
+    <g transform="translate(215,376) rotate(-6)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(230,369) rotate(4)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(255,363) rotate(-10)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(220,358) rotate(8)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(245,352) rotate(-3)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(327,370) rotate(174)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(340,358) rotate(-172)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(235,345) rotate(5)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(315,342) rotate(178)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(225,335) rotate(-7)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(260,330) rotate(9)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(335,327) rotate(-176)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+    <g transform="translate(240,321) rotate(-2)"><line x1="0" y1="0" x2="90" y2="0"/><rect x="-3" y="-4" width="4" height="8" stroke="none"/><polygon points="90,0 82,-3 82,3" stroke="none"/></g>
+  </g>
+
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937" font-size="20">
+    <text x="125" y="264" text-anchor="middle">one fixed nail</text>
+    <text x="280" y="300" text-anchor="middle">thirteen loose nails</text>
+    <text x="210" y="474" text-anchor="middle">Balance all thirteen on the head of</text>
+    <text x="210" y="500" text-anchor="middle">the fixed nail. When you let go, nothing</text>
+    <text x="210" y="526" text-anchor="middle">may touch the block or the table.</text>
+  </g>
+  </g>
+</svg>

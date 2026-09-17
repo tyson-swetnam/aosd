@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 590" font-family="Montserrat, Helvetica, Arial, sans-serif" role="img" aria-label="Schematic log-scale graph of antibody against antigens A, B and C over 56 days">
+<rect width="920" height="590" fill="#ffffff"/>
+<line x1="130" y1="410.0" x2="670" y2="410.0" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="120" y="417.0" font-size="20" text-anchor="end" fill="#1f2937">1</text>
+<line x1="130" y1="310.0" x2="670" y2="310.0" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="120" y="317.0" font-size="20" text-anchor="end" fill="#1f2937">10</text>
+<line x1="130" y1="210.0" x2="670" y2="210.0" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="120" y="217.0" font-size="20" text-anchor="end" fill="#1f2937">100</text>
+<line x1="130" y1="110.0" x2="670" y2="110.0" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="120" y="117.0" font-size="20" text-anchor="end" fill="#1f2937">1000</text>
+<line x1="130" y1="450" x2="670" y2="450" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="120" y="457" font-size="20" text-anchor="end" fill="#1f2937">none</text>
+<line x1="130.0" y1="100" x2="130.0" y2="465" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="3 5" opacity="0.6"/>
+<line x1="400.0" y1="100" x2="400.0" y2="465" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="3 5" opacity="0.6"/>
+<path d="M130,95 L130,422 M130,438 L130,470 L670,470" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+<path d="M121,426 L139,418 M121,442 L139,434" stroke="#1f2937" stroke-width="2"/>
+<line x1="130.0" y1="470" x2="130.0" y2="480" stroke="#1f2937" stroke-width="2"/>
+<text x="130.0" y="503" font-size="20" text-anchor="middle" fill="#1f2937">0</text>
+<line x1="265.0" y1="470" x2="265.0" y2="480" stroke="#1f2937" stroke-width="2"/>
+<text x="265.0" y="503" font-size="20" text-anchor="middle" fill="#1f2937">14</text>
+<line x1="400.0" y1="470" x2="400.0" y2="480" stroke="#1f2937" stroke-width="2"/>
+<text x="400.0" y="503" font-size="20" text-anchor="middle" fill="#1f2937">28</text>
+<line x1="535.0" y1="470" x2="535.0" y2="480" stroke="#1f2937" stroke-width="2"/>
+<text x="535.0" y="503" font-size="20" text-anchor="middle" fill="#1f2937">42</text>
+<line x1="670.0" y1="470" x2="670.0" y2="480" stroke="#1f2937" stroke-width="2"/>
+<text x="670.0" y="503" font-size="20" text-anchor="middle" fill="#1f2937">56</text>
+<text x="400" y="535" font-size="22" text-anchor="middle" fill="#1f2937">Days after first injection</text>
+<text transform="translate(30 280) rotate(-90)" font-size="22" text-anchor="middle" fill="#1f2937">Antibody against each antigen</text>
+<text transform="translate(56 280) rotate(-90)" font-size="20" text-anchor="middle" fill="#1f2937">(log scale)</text>
+<line x1="130.0" y1="52" x2="130.0" y2="88" stroke="#b91c1c" stroke-width="3"/>
+<path d="M122.0,84 L138.0,84 L130.0,98 z" fill="#b91c1c"/>
+<text x="130.0" y="40" font-size="22" font-weight="600" text-anchor="middle" fill="#b91c1c">Antigen A</text>
+<line x1="400.0" y1="52" x2="400.0" y2="88" stroke="#b91c1c" stroke-width="3"/>
+<path d="M392.0,84 L408.0,84 L400.0,98 z" fill="#b91c1c"/>
+<text x="400.0" y="40" font-size="22" font-weight="600" text-anchor="middle" fill="#b91c1c">Antigen A + antigen B</text>
+<line x1="130" y1="450" x2="670" y2="450" stroke="#6b7280" stroke-width="3" stroke-dasharray="2 7" stroke-linecap="round"/>
+<path d="M400.0,450.0 L404.0,450.0 L408.0,450.0 L412.1,450.0 L416.1,450.0 L420.1,450.0 L424.1,450.0 L428.1,450.0 L432.1,450.0 L436.2,450.0 L440.2,450.0 L444.2,450.0 L448.2,450.0 L449.8,448.6 L451.4,444.6 L453.0,438.5 L454.6,430.8 L456.2,421.8 L457.9,412.1 L459.5,402.0 L461.1,392.1 L462.7,382.7 L464.3,374.3 L465.9,367.3 L467.5,362.3 L473.1,348.7 L478.8,335.6 L484.4,323.2 L490.0,311.7 L495.6,301.1 L501.2,291.5 L506.9,283.0 L512.5,275.9 L518.1,270.1 L523.8,265.8 L529.4,263.2 L535.0,262.3 L546.2,262.7 L557.5,263.8 L568.8,265.6 L580.0,267.9 L591.2,270.6 L602.5,273.6 L613.8,276.8 L625.0,280.1 L636.2,283.5 L647.5,286.7 L658.8,289.7 L670.0,292.4" fill="none" stroke="#b91c1c" stroke-width="3" stroke-dasharray="12 7"/>
+<path d="M130.0,450.0 L134.0,450.0 L138.0,450.0 L142.1,450.0 L146.1,450.0 L150.1,450.0 L154.1,450.0 L158.1,450.0 L162.1,450.0 L166.2,450.0 L170.2,450.0 L174.2,450.0 L178.2,450.0 L179.8,448.6 L181.4,444.6 L183.0,438.5 L184.6,430.8 L186.2,421.8 L187.9,412.1 L189.5,402.0 L191.1,392.1 L192.7,382.7 L194.3,374.3 L195.9,367.3 L197.5,362.3 L203.1,348.7 L208.8,335.6 L214.4,323.2 L220.0,311.7 L225.6,301.1 L231.2,291.5 L236.9,283.0 L242.5,275.9 L248.1,270.1 L253.8,265.8 L259.4,263.2 L265.0,262.3 L276.2,262.9 L287.5,264.5 L298.8,267.0 L310.0,270.1 L321.2,273.6 L332.5,277.3 L343.8,281.1 L355.0,284.6 L366.2,287.7 L377.5,290.2 L388.8,291.8 L400.0,292.4 L402.4,290.6 L404.8,285.7 L407.2,278.1 L409.6,268.4 L412.1,257.1 L414.5,244.8 L416.9,232.1 L419.3,219.4 L421.7,207.3 L424.1,196.3 L426.5,187.0 L428.9,179.9 L432.1,172.2 L435.4,164.5 L438.6,156.9 L441.8,149.6 L445.0,142.7 L448.2,136.3 L451.4,130.5 L454.6,125.5 L457.9,121.2 L461.1,117.9 L464.3,115.7 L467.5,114.6 L473.1,113.8 L478.8,113.1 L484.4,112.5 L490.0,112.0 L495.6,111.5 L501.2,111.1 L506.9,110.7 L512.5,110.5 L518.1,110.3 L523.8,110.1 L529.4,110.0 L535.0,110.0 L546.2,110.2 L557.5,110.8 L568.8,111.7 L580.0,112.9 L591.2,114.3 L602.5,115.8 L613.8,117.5 L625.0,119.2 L636.2,120.9 L647.5,122.5 L658.8,124.1 L670.0,125.5" fill="none" stroke="#1f2937" stroke-width="3.5"/>
+<circle cx="130.0" cy="450.0" r="5" fill="#1f2937"/>
+<circle cx="197.5" cy="362.3" r="5" fill="#1f2937"/>
+<circle cx="265.0" cy="262.3" r="5" fill="#1f2937"/>
+<circle cx="400.0" cy="292.4" r="5" fill="#1f2937"/>
+<circle cx="428.9" cy="179.9" r="5" fill="#1f2937"/>
+<circle cx="467.5" cy="114.6" r="5" fill="#1f2937"/>
+<circle cx="535.0" cy="110.0" r="5" fill="#1f2937"/>
+<circle cx="428.9" cy="450.0" r="5" fill="#ffffff" stroke="#b91c1c" stroke-width="2.5"/>
+<circle cx="467.5" cy="362.3" r="5" fill="#ffffff" stroke="#b91c1c" stroke-width="2.5"/>
+<circle cx="535.0" cy="262.3" r="5" fill="#ffffff" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="682" y="132.5" font-size="22" font-weight="600" fill="#1f2937">anti-A</text>
+<text x="682" y="299.4" font-size="22" font-weight="600" fill="#b91c1c">anti-B</text>
+<text x="682" y="457" font-size="22" font-weight="600" fill="#4b5563">anti-C</text>
+<text x="682" y="481" font-size="20" fill="#4b5563">(never injected)</text>
+<text x="460" y="575" font-size="20" font-style="italic" text-anchor="middle" fill="#4b5563">Schematic: the shapes, not the numbers, are the point.</text>
+</svg>

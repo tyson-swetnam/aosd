@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <title>Solar neutrino counts as a fraction of the solar model's prediction</title>
+  <defs>
+    <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="12" height="12" fill="#ffffff"/>
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#b91c1c" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="800" height="560" fill="#ffffff"/>
+
+  <!-- title -->
+  <text x="435" y="30" font-size="22" font-weight="bold" fill="#1f2937" text-anchor="middle">Measured solar neutrinos ÷ solar-model prediction</text>
+
+  <!-- plot area: x 110..760, y 400 (value 0) .. 50 (value 1.2); 291.67 px per unit -->
+  <!-- gridlines -->
+  <g stroke="#e5e7eb" stroke-width="2">
+    <line x1="110" y1="327.08" x2="760" y2="327.08"/>
+    <line x1="110" y1="254.17" x2="760" y2="254.17"/>
+    <line x1="110" y1="181.25" x2="760" y2="181.25"/>
+  </g>
+  <!-- tick labels -->
+  <g font-size="20" fill="#1f2937" text-anchor="end">
+    <text x="100" y="407">0</text>
+    <text x="100" y="334">0.25</text>
+    <text x="100" y="261">0.50</text>
+    <text x="100" y="188">0.75</text>
+    <text x="100" y="115">1.00</text>
+  </g>
+  <!-- y-axis label -->
+  <text transform="translate(30,225) rotate(-90)" font-size="20" fill="#1f2937" text-anchor="middle">measured ÷ predicted</text>
+
+  <!-- bars (width 80): values 0.31, 0.53, ~0.45, 0.35, 1.01 -->
+  <g stroke="#1f2937" stroke-width="2.5">
+    <rect x="150" y="309.58" width="80" height="90.42" fill="#e5e7eb"/>
+    <rect x="270" y="245.42" width="80" height="154.58" fill="#e5e7eb"/>
+    <rect x="390" y="268.75" width="80" height="131.25" fill="#f3f4f6" stroke-dasharray="8 6"/>
+    <rect x="510" y="297.92" width="80" height="102.08" fill="#e5e7eb"/>
+  </g>
+  <rect x="660" y="105.42" width="80" height="294.58" fill="url(#hatch)" stroke="#b91c1c" stroke-width="3"/>
+
+  <!-- predicted level: dashed line at 1.00 -->
+  <line x1="110" y1="108.33" x2="760" y2="108.33" stroke="#1f2937" stroke-width="2.5" stroke-dasharray="12 8"/>
+  <text x="122" y="96" font-size="20" fill="#1f2937">what the solar model predicts</text>
+
+  <!-- axes -->
+  <line x1="110" y1="50" x2="110" y2="400" stroke="#1f2937" stroke-width="3"/>
+  <line x1="110" y1="400" x2="760" y2="400" stroke="#1f2937" stroke-width="3"/>
+
+  <!-- values above bars -->
+  <g font-size="22" font-weight="bold" fill="#1f2937" text-anchor="middle">
+    <text x="190" y="299">0.31</text>
+    <text x="310" y="235">0.53</text>
+    <text x="430" y="258">≈0.45</text>
+    <text x="550" y="287">0.35</text>
+    <text x="700" y="92" fill="#b91c1c">≈1.0</text>
+  </g>
+
+  <!-- labels under bars -->
+  <g font-size="20" fill="#1f2937" text-anchor="middle">
+    <text x="190" y="428">Chlorine</text>
+    <text x="190" y="452">1968–94</text>
+    <text x="190" y="476">&gt;0.8 MeV</text>
+    <text x="310" y="428">Gallium</text>
+    <text x="310" y="452">1991–</text>
+    <text x="310" y="476">&gt;0.23 MeV</text>
+    <text x="430" y="428">Water</text>
+    <text x="430" y="452">1987–</text>
+    <text x="430" y="476">&gt;5 MeV</text>
+    <text x="550" y="428">SNO</text>
+    <text x="550" y="452">2001</text>
+    <text x="550" y="476">e-type</text>
+    <text x="700" y="428" fill="#b91c1c">SNO</text>
+    <text x="700" y="452" fill="#b91c1c">2002</text>
+    <text x="700" y="476" fill="#b91c1c">all types</text>
+  </g>
+
+  <!-- bracket over the four electron-type detectors -->
+  <path d="M150 492 L150 502 L590 502 L590 492" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="370" y="530" font-size="20" fill="#1f2937" text-anchor="middle">see mostly or only electron-type neutrinos</text>
+</svg>

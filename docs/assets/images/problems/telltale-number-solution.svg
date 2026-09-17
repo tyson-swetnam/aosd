@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="The number 6210001000 in ten boxes, each digit checked against the count of that digit in the number">
+  <rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+
+  <text x="400" y="44" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">6 2 1 0 0 0 1 0 0 0 describes itself</text>
+
+  <!-- boxes: the four nonzero positions shaded darker -->
+  <g stroke="#1f2937" stroke-width="3">
+    <rect x="35" y="80" width="66" height="66" rx="4" fill="#e5e7eb"/>
+    <rect x="108" y="80" width="66" height="66" rx="4" fill="#e5e7eb"/>
+    <rect x="181" y="80" width="66" height="66" rx="4" fill="#e5e7eb"/>
+    <rect x="254" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+    <rect x="327" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+    <rect x="400" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+    <rect x="473" y="80" width="66" height="66" rx="4" fill="#e5e7eb"/>
+    <rect x="546" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+    <rect x="619" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+    <rect x="692" y="80" width="66" height="66" rx="4" fill="#f3f4f6"/>
+  </g>
+
+  <!-- the digits -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle">
+    <text x="68" y="128" fill="#b91c1c">6</text>
+    <text x="141" y="128" fill="#b91c1c">2</text>
+    <text x="214" y="128" fill="#b91c1c">1</text>
+    <text x="287" y="128" fill="#1f2937">0</text>
+    <text x="360" y="128" fill="#1f2937">0</text>
+    <text x="433" y="128" fill="#1f2937">0</text>
+    <text x="506" y="128" fill="#b91c1c">1</text>
+    <text x="579" y="128" fill="#1f2937">0</text>
+    <text x="652" y="128" fill="#1f2937">0</text>
+    <text x="725" y="128" fill="#1f2937">0</text>
+  </g>
+
+  <!-- claims below -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937" text-anchor="middle">
+    <text x="68" y="172">six</text><text x="68" y="194" font-weight="700">0s</text>
+    <text x="141" y="172">two</text><text x="141" y="194" font-weight="700">1s</text>
+    <text x="214" y="172">one</text><text x="214" y="194" font-weight="700">2</text>
+    <text x="287" y="172">no</text><text x="287" y="194" font-weight="700">3s</text>
+    <text x="360" y="172">no</text><text x="360" y="194" font-weight="700">4s</text>
+    <text x="433" y="172">no</text><text x="433" y="194" font-weight="700">5s</text>
+    <text x="506" y="172">one</text><text x="506" y="194" font-weight="700">6</text>
+    <text x="579" y="172">no</text><text x="579" y="194" font-weight="700">7s</text>
+    <text x="652" y="172">no</text><text x="652" y="194" font-weight="700">8s</text>
+    <text x="725" y="172">no</text><text x="725" y="194" font-weight="700">9s</text>
+  </g>
+
+  <line x1="35" y1="220" x2="758" y2="220" stroke="#1f2937" stroke-width="2"/>
+
+  <text x="400" y="254" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#1f2937">The ten digits are counts of ten digits, so they must add to ten:</text>
+  <text x="400" y="282" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#b91c1c">6 + 2 + 1 + 1 = 10</text>
+</svg>

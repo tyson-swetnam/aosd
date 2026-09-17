@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img">
+<rect x="0" y="0" width="800" height="800" fill="#ffffff"/>
+<text x="200.0" y="28.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#1f2937" text-anchor="middle">What everyone believed</text>
+<text x="200.0" y="54.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">one rotation per orbit (1:1)</text>
+<circle cx="200" cy="240" r="108" fill="none" stroke="#1f2937" stroke-width="2" stroke-dasharray="5 5"/>
+<circle cx="200" cy="240" r="17" fill="#b91c1c" stroke="#1f2937" stroke-width="2"/>
+<circle cx="308.0" cy="240.0" r="15" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<path d="M 308.00,225.00 L 309.18,225.05 L 310.35,225.18 L 311.50,225.41 L 312.64,225.73 L 313.74,226.14 L 314.81,226.63 L 315.84,227.21 L 316.82,227.86 L 317.74,228.59 L 318.61,229.39 L 319.41,230.26 L 320.14,231.18 L 320.79,232.16 L 321.37,233.19 L 321.86,234.26 L 322.27,235.36 L 322.59,236.50 L 322.82,237.65 L 322.95,238.82 L 323.00,240.00 L 322.95,241.18 L 322.82,242.35 L 322.59,243.50 L 322.27,244.64 L 321.86,245.74 L 321.37,246.81 L 320.79,247.84 L 320.14,248.82 L 319.41,249.74 L 318.61,250.61 L 317.74,251.41 L 316.82,252.14 L 315.84,252.79 L 314.81,253.37 L 313.74,253.86 L 312.64,254.27 L 311.50,254.59 L 310.35,254.82 L 309.18,254.95 L 308.00,255.00 Z" fill="#9ca3af" stroke="none"/>
+<circle cx="308.0" cy="240.0" r="15" fill="none" stroke="#1f2937" stroke-width="2"/>
+<circle cx="298.0" cy="240.0" r="3.5" fill="#b91c1c"/>
+<circle cx="200.0" cy="132.0" r="15" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<path d="M 185.00,132.00 L 185.05,130.82 L 185.18,129.65 L 185.41,128.50 L 185.73,127.36 L 186.14,126.26 L 186.63,125.19 L 187.21,124.16 L 187.86,123.18 L 188.59,122.26 L 189.39,121.39 L 190.26,120.59 L 191.18,119.86 L 192.16,119.21 L 193.19,118.63 L 194.26,118.14 L 195.36,117.73 L 196.50,117.41 L 197.65,117.18 L 198.82,117.05 L 200.00,117.00 L 201.18,117.05 L 202.35,117.18 L 203.50,117.41 L 204.64,117.73 L 205.74,118.14 L 206.81,118.63 L 207.84,119.21 L 208.82,119.86 L 209.74,120.59 L 210.61,121.39 L 211.41,122.26 L 212.14,123.18 L 212.79,124.16 L 213.37,125.19 L 213.86,126.26 L 214.27,127.36 L 214.59,128.50 L 214.82,129.65 L 214.95,130.82 L 215.00,132.00 Z" fill="#9ca3af" stroke="none"/>
+<circle cx="200.0" cy="132.0" r="15" fill="none" stroke="#1f2937" stroke-width="2"/>
+<circle cx="200.0" cy="142.0" r="3.5" fill="#b91c1c"/>
+<circle cx="92.0" cy="240.0" r="15" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<path d="M 92.00,255.00 L 90.82,254.95 L 89.65,254.82 L 88.50,254.59 L 87.36,254.27 L 86.26,253.86 L 85.19,253.37 L 84.16,252.79 L 83.18,252.14 L 82.26,251.41 L 81.39,250.61 L 80.59,249.74 L 79.86,248.82 L 79.21,247.84 L 78.63,246.81 L 78.14,245.74 L 77.73,244.64 L 77.41,243.50 L 77.18,242.35 L 77.05,241.18 L 77.00,240.00 L 77.05,238.82 L 77.18,237.65 L 77.41,236.50 L 77.73,235.36 L 78.14,234.26 L 78.63,233.19 L 79.21,232.16 L 79.86,231.18 L 80.59,230.26 L 81.39,229.39 L 82.26,228.59 L 83.18,227.86 L 84.16,227.21 L 85.19,226.63 L 86.26,226.14 L 87.36,225.73 L 88.50,225.41 L 89.65,225.18 L 90.82,225.05 L 92.00,225.00 Z" fill="#9ca3af" stroke="none"/>
+<circle cx="92.0" cy="240.0" r="15" fill="none" stroke="#1f2937" stroke-width="2"/>
+<circle cx="102.0" cy="240.0" r="3.5" fill="#b91c1c"/>
+<circle cx="200.0" cy="348.0" r="15" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<path d="M 215.00,348.00 L 214.95,349.18 L 214.82,350.35 L 214.59,351.50 L 214.27,352.64 L 213.86,353.74 L 213.37,354.81 L 212.79,355.84 L 212.14,356.82 L 211.41,357.74 L 210.61,358.61 L 209.74,359.41 L 208.82,360.14 L 207.84,360.79 L 206.81,361.37 L 205.74,361.86 L 204.64,362.27 L 203.50,362.59 L 202.35,362.82 L 201.18,362.95 L 200.00,363.00 L 198.82,362.95 L 197.65,362.82 L 196.50,362.59 L 195.36,362.27 L 194.26,361.86 L 193.19,361.37 L 192.16,360.79 L 191.18,360.14 L 190.26,359.41 L 189.39,358.61 L 188.59,357.74 L 187.86,356.82 L 187.21,355.84 L 186.63,354.81 L 186.14,353.74 L 185.73,352.64 L 185.41,351.50 L 185.18,350.35 L 185.05,349.18 L 185.00,348.00 Z" fill="#9ca3af" stroke="none"/>
+<circle cx="200.0" cy="348.0" r="15" fill="none" stroke="#1f2937" stroke-width="2"/>
+<circle cx="200.0" cy="338.0" r="3.5" fill="#b91c1c"/>
+<path d="M 257,183 A 81 81 0 0 0 143,183" fill="none" stroke="#1f2937" stroke-width="2"/>
+<path d="M 143,183 l 13,-2 l -4,13 Z" fill="#1f2937"/>
+<text x="200.0" y="312.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">1 orbit = 88 days</text>
+<text x="200.0" y="392.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">Rotation equals orbit: one face</text>
+<text x="200.0" y="414.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">always sunlit, the other forever</text>
+<text x="200.0" y="436.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">dark and never seen.</text>
+<text x="596.0" y="28.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#1f2937" text-anchor="middle">What radar found (1965)</text>
+<text x="596.0" y="54.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">three rotations per two orbits (3:2)</text>
+<ellipse cx="585" cy="240" rx="122" ry="98" fill="none" stroke="#1f2937" stroke-width="2" stroke-dasharray="5 5"/>
+<circle cx="636" cy="240" r="17" fill="#b91c1c" stroke="#1f2937" stroke-width="2"/>
+<circle cx="707.0" cy="240.0" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="707.0" y1="240.0" x2="681.0" y2="240.0" stroke="#b91c1c" stroke-width="3"/>
+<text x="743.6" y="247.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">1</text>
+<circle cx="646.0" cy="155.1" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="646.0" y1="155.1" x2="646.0" y2="181.1" stroke="#b91c1c" stroke-width="3"/>
+<text x="664.3" y="129.9" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">2</text>
+<circle cx="524.0" cy="155.1" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="524.0" y1="155.1" x2="550.0" y2="155.1" stroke="#b91c1c" stroke-width="3"/>
+<text x="505.7" y="129.9" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">3</text>
+<circle cx="463.0" cy="240.0" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="463.0" y1="240.0" x2="463.0" y2="214.0" stroke="#b91c1c" stroke-width="3"/>
+<text x="426.4" y="247.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">4</text>
+<circle cx="524.0" cy="324.9" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="524.0" y1="324.9" x2="498.0" y2="324.9" stroke="#b91c1c" stroke-width="3"/>
+<text x="505.7" y="364.1" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">5</text>
+<circle cx="646.0" cy="324.9" r="15" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="646.0" y1="324.9" x2="646.0" y2="350.9" stroke="#b91c1c" stroke-width="3"/>
+<text x="664.3" y="364.1" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2937" text-anchor="middle">6</text>
+<text x="596.0" y="392.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">Positions 1 to 6 are one orbit. The red</text>
+<text x="596.0" y="414.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">marker turns 90 degrees for every 60</text>
+<text x="596.0" y="436.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">degrees of orbit: one and a half turns.</text>
+<text x="20.0" y="478.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#1f2937" text-anchor="start">Mercury at three successive perihelion passages (the Sun is red)</text>
+<circle cx="120" cy="524" r="13" fill="#b91c1c" stroke="#1f2937" stroke-width="2"/>
+<circle cx="190" cy="524" r="16" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="190" y1="524" x2="162" y2="524" stroke="#b91c1c" stroke-width="3"/>
+<text x="190.0" y="562.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#1f2937" text-anchor="middle">first pass</text>
+<circle cx="370" cy="524" r="13" fill="#b91c1c" stroke="#1f2937" stroke-width="2"/>
+<circle cx="440" cy="524" r="16" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="440" y1="524" x2="468" y2="524" stroke="#b91c1c" stroke-width="3"/>
+<text x="440.0" y="562.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#1f2937" text-anchor="middle">one orbit later</text>
+<circle cx="620" cy="524" r="13" fill="#b91c1c" stroke="#1f2937" stroke-width="2"/>
+<circle cx="690" cy="524" r="16" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<line x1="690" y1="524" x2="662" y2="524" stroke="#b91c1c" stroke-width="3"/>
+<text x="690.0" y="562.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="18" font-weight="normal" fill="#1f2937" text-anchor="middle">two orbits later</text>
+<text x="400.0" y="596.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">Each orbit turns the planet one and a half times, so the marker faces</text>
+<text x="400.0" y="618.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="middle">the Sun again only at every second perihelion.</text>
+<text x="20.0" y="662.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#1f2937" text-anchor="start">Periods to scale, in Earth days</text>
+<rect x="290" y="678" width="234.8" height="22" fill="#e5e7eb" stroke="#1f2937" stroke-width="3"/>
+<text x="20.0" y="695.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="start">rotation  58.6 d</text>
+<rect x="290" y="710" width="464.4" height="22" fill="#e5e7eb" stroke="#b91c1c" stroke-width="3"/>
+<text x="20.0" y="727.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="start">synodic period  115.9 d</text>
+<rect x="290" y="742" width="470.0" height="22" fill="#e5e7eb" stroke="#b91c1c" stroke-width="3"/>
+<text x="20.0" y="759.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#1f2937" text-anchor="start">two rotations  117.3 d</text>
+<text x="400.0" y="784.0" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" fill="#b91c1c" text-anchor="middle">115.9 and 117.3 are nearly equal: the same face at every apparition.</text>
+</svg>

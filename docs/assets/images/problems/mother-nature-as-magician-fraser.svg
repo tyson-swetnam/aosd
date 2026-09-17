@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450" height="450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <path id="b" d="m54.672 34.876c-6.3986 5.7319-16.952 15.733-28.363 29.77 19.437-14.563 37.566-23.524 49.649-28.709 11.043-8.6857 22.073-15.826 32.56-21.704-21.476 5.4893-39.522 13.155-53.845 20.643z"/>
+  <path id="a" d="m51.775 47.439c-1.7574-11.85-3.0098-23.793-3.8045-35.788-12.894-3.3268-25.954-6.1131-39.112-8.414 1.915 13.224 4.3193 26.365 7.2681 39.355 0 0 23.859 2.7451 35.649 4.8477z"/>
+ </defs>
+ <rect width="450" height="450" fill="#fff"/>
+ <g transform="matrix(1.0098 -.15994 .15994 1.0098 -42.561 29.784)">
+  <use transform="matrix(2.7902e-4,-8.5875e-4,8.5875e-4,2.7902e-4,228.36,229.66)" xlink:href="#i"/>
+  <g id="i" transform="matrix(1.0419,0,0,1.0419,-9.5736,-9.612)">
+   <use transform="matrix(-.02431 .017662 -.017662 -.02431 238.22 231.06)" xlink:href="#j"/>
+   <g id="j">
+    <use transform="matrix(.053567 .16486 -.16486 .053567 254.2 179.54)" xlink:href="#k"/>
+    <g id="k">
+     <use transform="matrix(.33683 .24472 -.24472 .33683 207.77 96.267)" xlink:href="#l"/>
+     <g id="l">
+      <use transform="matrix(.61367 .19939 -.19939 .61367 134.08 43.089)" xlink:href="#m"/>
+      <g id="m">
+       <use transform="matrix(.79339 .12566 -.12566 .79339 76.075 18.696)" xlink:href="#n"/>
+       <g id="n">
+        <use transform="rotate(180,228.6,229.52)" xlink:href="#f"/>
+        <g id="f">
+         <use transform="rotate(90,228.6,229.52)" xlink:href="#g"/>
+         <g id="g">
+          <use transform="rotate(72,228.6,229.52)" xlink:href="#c"/>
+          <use transform="rotate(36,228.6,229.52)" xlink:href="#h"/>
+          <g id="h">
+           <use transform="rotate(18,228.6,229.52)" xlink:href="#c"/>
+           <g id="c">
+            <use transform="rotate(8.9991,228.64,229.45)" fill="#b3b3b3" xlink:href="#a"/>
+            <use transform="matrix(.8985 .070618 -.070618 .8985 40.235 8.11)" xlink:href="#a"/>
+            <use transform="rotate(8.936,229.85,231.02)" xlink:href="#b"/>
+            <use fill="#b3b3b3" xlink:href="#a"/>
+            <use fill="#ffffff" xlink:href="#b"/>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

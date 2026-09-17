@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="title desc">
+  <title id="title">The impossible right triangle</title>
+  <desc id="desc">A horizontal segment AB of length 10 with a dashed semicircle above it; a right triangle ABC with C on the semicircle and its altitude to AB shown; a hollow point marked 6 above the top of the semicircle shows that an altitude of 6 lies outside the possible region.</desc>
+  <rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#1f2937">
+    <!-- triangle fill -->
+    <polygon points="100,400 700,400 297,118" fill="#f3f4f6" stroke="none"/>
+    <!-- semicircle: locus of the right-angle vertex -->
+    <path d="M 100 400 A 300 300 0 0 1 700 400" fill="none" stroke="#6b7280" stroke-width="2" stroke-dasharray="8 6"/>
+    <!-- radius O to T -->
+    <line x1="400" y1="400" x2="400" y2="100" stroke="#9ca3af" stroke-width="2"/>
+    <text x="414" y="258" font-size="20" fill="#6b7280">r = 5</text>
+    <!-- hypotenuse -->
+    <line x1="100" y1="400" x2="700" y2="400" stroke="#1f2937" stroke-width="3"/>
+    <!-- legs -->
+    <line x1="297" y1="118" x2="100" y2="400" stroke="#1f2937" stroke-width="3"/>
+    <line x1="297" y1="118" x2="700" y2="400" stroke="#1f2937" stroke-width="3"/>
+    <!-- right-angle marker at C -->
+    <path d="M 289 129.5 L 300.4 137.5 L 308.5 126" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <!-- altitude from C to F -->
+    <line x1="297" y1="118" x2="297" y2="400" stroke="#1f2937" stroke-width="2" stroke-dasharray="3 5"/>
+    <path d="M 297 386 L 311 386 L 311 400" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="306" y="266" font-size="22">h ≤ 5</text>
+    <!-- centre and vertices -->
+    <circle cx="400" cy="400" r="5" fill="#1f2937"/>
+    <text x="410" y="428" font-size="22">O</text>
+    <circle cx="100" cy="400" r="5" fill="#1f2937"/>
+    <text x="88" y="436" font-size="24">A</text>
+    <circle cx="700" cy="400" r="5" fill="#1f2937"/>
+    <text x="694" y="436" font-size="24">B</text>
+    <circle cx="297" cy="118" r="5" fill="#1f2937"/>
+    <text x="270" y="104" font-size="24">C</text>
+    <text x="400" y="470" font-size="22" text-anchor="middle">hypotenuse AB = 10</text>
+    <!-- the impossible vertex, 6 units above AB -->
+    <line x1="400" y1="46" x2="400" y2="100" stroke="#b91c1c" stroke-width="2" stroke-dasharray="3 5"/>
+    <circle cx="400" cy="40" r="7" fill="#ffffff" stroke="#b91c1c" stroke-width="3"/>
+    <text x="416" y="48" font-size="24" fill="#b91c1c">6 ?</text>
+    <!-- caption -->
+    <text x="400" y="506" font-size="18" text-anchor="middle" fill="#374151">A right angle on hypotenuse AB must sit on the semicircle, so the altitude cannot exceed the radius.</text>
+  </g>
+</svg>

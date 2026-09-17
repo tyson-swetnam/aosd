@@ -20,3 +20,30 @@
     font-size: 20px;
     cursor: pointer;
   }
+/* Machine-readable line appended to every article by scripts/postbuild_agent_surface.py */
+.md-typeset .course-machine-readable {
+  margin-top: 1.5rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  font-size: 0.68rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .course-machine-readable a {
+  color: var(--md-default-fg-color--light);
+  text-decoration: underline;
+}
+
+.md-typeset .course-machine-readable a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Recovery links added to 404.html by scripts/postbuild_agent_surface.py */
+.md-typeset .course-404-recovery ul {
+  margin-top: 0.4rem;
+}
+
+.md-typeset .course-404-recovery p:last-child {
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}

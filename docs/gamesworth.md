@@ -1,202 +1,134 @@
+---
+title: "The GamesWorth Method"
+description: "Professor Winfree's GamesWorth, taken from his syllabus: a daily uninterrupted hour of focused thought, the rules for the bound notebook and its left-hand pages, daily notebook swaps and emailed comparisons, and how the course was graded."
+type: Guide
+tags: [course, student-facing, gamesworth, daily-practice, notebook, focused-thinking, grading]
+status: stable
+generated:
+  by: "claude/opus-5"
+  at: "2026-09-16T00:00:00Z"
+sources:
+  - id: winfree-handout
+    resource: "https://web.archive.org/web/20070214070741/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm"
+    title: "The Art of Scientific Discovery (EEB 479): course handout, Web Archive capture of 2007-02-14"
+    author: "Arthur T. Winfree"
+  - id: aosd-syllabus
+    resource: "https://github.com/tyson-swetnam/aosd/blob/main/docs/assets/aosd_syllabus.pdf"
+    title: "The Art of Scientific Discovery: original course syllabus (PDF)"
+    author: "Arthur T. Winfree"
+  - id: winfree-adventures-intro
+    resource: "https://web.archive.org/web/20030114041921/http://eebweb.arizona.edu/faculty/winfree/SAS/asdIntro.html"
+    title: "Adventures in Discovery: About This Column (Society for Amateur Scientists E-Bulletin, 2001), Web Archive capture of 2003-01-14"
+    author: "Arthur T. Winfree"
+---
+
 # The GamesWorth Method
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-*Daily practice in focused thinking and problem-solving*
+*A daily hour of focused thought, written down so that you and others can learn from it*
 
-## What is a "GamesWorth"?
+Every rule on this page comes from Professor Winfree's [syllabus](syllabus.md).
 
-A **GamesWorth (GW)** is Professor Winfree's term for a focused, uninterrupted session of serious thinking - roughly equivalent to the mental effort required to play one game of serious chess. The name comes from Platt's ["The Art of Creative Thinking"](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank} 🔓, which emphasizes the importance of sustained, concentrated mental effort.
+## What a GamesWorth is
 
-!!! quote "The GamesWorth Concept"
-    "Use these homework puzzles to nucleate a habit of doing a daily 'Game's-Worth' of focused thought... This might be the most important (potentially enduring) effect of the course."
+A **GamesWorth** (Winfree writes "gw") is one sitting of serious, focused thought: about as much thinking as one game of serious chess. The course problems give you something to think about. The daily habit is what Winfree hoped would last.
 
-## The Daily Practice
+!!! quote "Winfree, syllabus"
+    Use these homework puzzles to nucleate a habit of doing a daily 'Game's-Worth' (henceforth, "gw") of focused thought, as in the first hand-out (Platt: *The Art of Creative Thinking*: the allusion is to how much thought it takes to play one game of serious chess). This might be the most important (potentially enduring) effect of the course.
 
-### Time Commitment
+That first handout, John R. Platt's "The Art of Creative Thinking", is a chapter of his book *The Excitement of Science* (1962) and is not freely online (see the [reading list](readings.md#platt-creative-thinking)). A blog post, [a "GamesWorth" of reasoning](https://www.datadeluge.com/2011/10/gamesworth-of-reasoning.html){target=_blank} 🔓, explains the idea; it is not Platt's text.
 
-- **Minimum:** One hour of uninterrupted thinking daily
-- **Frequency:** 5-7 times per week (ideally daily)
-- **Consistency:** Same time and place when possible
-- **Quality over Quantity:** Better to do 45 minutes of focused work than 2 hours with interruptions
+Winfree practised what he taught. In the [introduction](https://web.archive.org/web/20030114041921/http://eebweb.arizona.edu/faculty/winfree/SAS/asdIntro.html){target=_blank} 🔓 to his column *Adventures in Discovery*, he writes that its puzzles were ones he explored during 2001 in the spirit of Platt's essay, and that he had kept up Platt's daily Gamesworth since reading it.
 
-### The Sacred Hour
+## The daily hour
 
-Professor Winfree emphasized that interruptions destroy the value of thinking sessions:
+The syllabus asks for a gw daily, "or at least 5 times a week, realistically", outside class, ideally at the same hour each day. It also admits that "hardly anyone actually does this, whatever good intentions they may have resolved on the first day".
 
-> "An hour's work punctuated with three 5-minute interruptions has lost you not 15 minutes... it has instead prevented you getting warmed up to 60-minute heat, replacing that experience by 3 times getting up to 15-minute heat."
+The hour must be unbroken, because an interruption costs far more than its own minutes:
 
-## The GamesWorth Notebook
+> Remember that in such efforts an hour's work punctuated with three 5-minute interruptions has lost you not 15 minutes, as might be the case were you shining shoes or digging a ditch: it has instead prevented you getting warmed up to 60-minute heat, replacing that experience by 3 times getting up to 15-minute heat. You can probably think of other experiences like this. Reserve that sacred daily uninterrupted hour to yourself (or self and partner, if you need to talk to think).
 
-### Physical Requirements
+Winfree himself worked alone, away from people, TV and music, in "a big open space that becomes littered with drawings and with verbal notes, usually in outline form, and with stacks of worked-out simple examples." But: "Not everyone works best this way. Some people think productively only in dialogue with a partner. Others only in a coffee shop. If you are that kind, do it that way." Try a few ways, find the best, then "log in and out at that place and time each time, many times in a row."
 
-- **Bound notebook** (not loose-leaf) - wire spiral binding acceptable
-- **Right-hand pages only** for primary work
-- **Left-hand pages** reserved for specific purposes
-- **Numbered pages** for easy cross-referencing
-- **Professional quality** - legible like an industrial research notebook
+## The notebook
 
-### Documentation Requirements
+### Physical rules
 
-**At the start of each session:**
+- **Bound, not loose-leaf.** A wire spiral is enough. No loose pages.
+- **Right-hand pages only** for your working. The left-hand pages have other uses (below).
+- **Numbered pages**, so you can write "go to page xxx" or "continued from page".
+- **Legible**, "like an industrial research notebook, as though to be notarized at intervals: not a collection of scraps", so you can resume after an interruption without rummaging through a jumble.
+- **Enough pages.** The semester has 15 weeks of 5 days, or 75 days, so you "will need at least 150 pages (times 2 because there is also a left side)". "Likely this will require two such notebooks."
 
-- **Date and time** you begin
-- **Location** where you're working
-- **Page numbers** used in this session
-- **Problem or topic** you're addressing
+Readings go in a separate loose-leaf binder, with a page of your own thoughts on each.
 
-**During the session:**
+### Logging in and out
 
-- **All your work** - including false starts and dead ends
-- **Your reasoning process** - not just final answers
-- **Alternative approaches** you try
-- **Insights and breakthroughs** as they occur
-- **Questions that arise** during your thinking
+Winfree insists that you "formally log your brains in and out of each session". For each session, write:
 
-**At the end of each session:**
+- the date;
+- the start and end times;
+- where you are working (the idea is to find the place that works best);
+- the numbers of the pages used.
 
-- **Time you finish** and total duration
-- **Summary** of what you accomplished
-- **Key insights** or progress made
-- **Questions for next** session
-- **Brief reflection** on your thinking process
+### What to write
 
-## Using the Left-Hand Pages
+Write the process: "Write down your approaches, your lucky insights, how you got into and out of blind alleys. This is the main thing, not the 'answers'." The syllabus calls mistakes "often the most available doors to discovery", so false starts belong on the page.
 
-### Two Primary Functions
+Before you log out, "tidily summarize, as though for notarizing in an industrial research lab (but really so your classmates can read it and glean the same harvest as you did.)"
 
-**1. In-Class Notes**
+The syllabus also recommends a checklist of good ideas from the readings: tick an idea when you try it and note the gw page, to see which ones help. Winfree adds that "so far as I am aware, no student has ever done this. I still recommend it."
 
-- Record important points from class discussions
-- Note insights from classmates' presentations
-- Document group problem-solving approaches
+## The left-hand pages
 
-**2. Morning-After Reconsiderations**
+"Left" means the back of each sheet, on the left when the book lies open. These pages have two uses.
 
-This is the most valuable use of left-hand pages:
+**1. In-class notes.**
 
-- **Return weeks later** to problems you worked on
-- **Analyze your thinking** with fresh perspective
-- **Identify where you got stuck** and why
-- **See alternative approaches** you missed
-- **Compare your method** with classmates' approaches
-- **Recognize patterns** in your problem-solving style
+**2. Morning-afters.** After the first few weeks, go back to a problem you struggled with weeks earlier, once you have moved on to others (Winfree also calls this "Monday-morning quarterbacking"). Ask:
 
-## Creating the Optimal Environment
+- Where could I have taken a different approach?
+- How well did the methods I tried actually work?
+- What did classmates discover that I didn't, and why?
+- Why did I get stuck, or how did I avoid the snag that tripped up everyone else?
 
-### Physical Environment
+"We are here not so much to solve the problems as to see how we didn't or see how some quirky habit of thought saved the day, and benefit from those recognitions." And: "A thoughtful thorough morning-after is a perfectly valid substitute for working a new problem in your gw notebook."
 
-- **Quiet space** free from interruptions
-- **Large work surface** for spreading out materials
-- **Good lighting** and comfortable seating
-- **No distractions** - TV, music, or social media
-- **All materials** within reach before starting
+## Working with others
 
-### Mental Environment
+**Daily swaps.** At each class meeting students swap gw notebooks to "share in their harvest of insights", which works only if your pages are clear. When you read a neighbour's book, remind them of the logging rules, and leave signed, helpful comments on their work.
 
-- **Clear your mind** of other concerns before beginning
-- **Set specific goals** for the session
-- **Accept that confusion** and frustration are normal
-- **Focus on process** rather than immediate results
-- **Maintain curiosity** and playfulness
+**Dual GamesWorths.** You may also work with a partner: "dual GamesWorths often work pretty well, like cutting wood with a long 2-handled band saw." Note your partner's name and contributions along with your log-in and log-out times.
 
-## What to Work On
+**The emailed comparison.** After each class, email Winfree "a couple lines, no more" on "why either your gw or the one you received in swap during the class meeting was the better of the two." Decide: "do not cop out by reporting a 'tie'". Swap in pairs, with at most one three-way swap on days with an odd number of students, so he can see whether both partners agree on whose work was better.
 
-### Problem-Solving Practice
+## How it was graded
 
-- **Assigned puzzles** from class
-- **Personal challenges** you encounter
-- **Extensions** of class problems
-- **Creative variations** on familiar problems
+In this course "actually solving the practice problems is way less important than learning how to try (and, for grading, demonstrating real effort.)"
 
-### Reflection and Analysis
+- **Blue books.** Each class opened with a warm-up quiz in a blue exam book, collected at the end of class; it doubled as the attendance record. Late arrivals still logged into the blue book, noting the time.
+- **The gw books** were collected at the end of term ("On the last class day", says the text; the schedule lists it at session 29, the next-to-last meeting) and skimmed to check them against the swap emails, with "particular attention to stuff on the left-hand sides": morning-afters and comments on classmates' work.
+- **The final exam**, in exam week, was "a collection of problems from which you will choose some, exhibit as many distinct approaches as you can, and as many cross-checking distinct solutions as you can." Winfree leaned toward a take-home.
 
-- **Review previous** work for new insights
-- **Analyze your thinking** patterns and habits
-- **Connect different** problems and approaches
-- **Plan strategies** for upcoming challenges
+The grade came from a spreadsheet formula combining six inputs:
 
-### Reading Integration
+1. Lively participation every session (absence only in dire emergency, with advance notice by email).
+2. Performance on the daily blue-book warm-ups.
+3. The daily emails comparing two gw's.
+4. His reading of your gw book, stressing morning-afters, and of your comments in others' books.
+5. Reading each assignment no later than its class meeting.
+6. Extra work for Honors and graduate students.
 
-- **Process key insights** from course readings
-- **Create personal** problem-solving checklists
-- **Connect reading concepts** to problem-solving practice
-- **Develop your own** thinking frameworks
+A daily uninterrupted hour plus vigorous participation "will likely develop an A"; because most students let the habit slip, "about half the class ends up with a B".
 
-## The Collaborative Dimension
+## Common difficulties
 
-### Daily Exchanges
+**"I'm too busy this week."** If you set the course aside "just temporarily", the syllabus warns, "you will find yourself backlogged and despairing", and catching up in a rush fails: "Hurrying under pressure is guaranteed to abort the special opportunities you confront in this course." Protect the hour first.
 
-- **Share notebooks** with classmates regularly
-- **Learn from others'** approaches and insights
-- **Offer constructive** feedback on peers' work
-- **Compare different** thinking styles and methods
+**"I'm stuck," or "I have nothing to work on."** Write down where and why you are stuck: a recorded blind alley is material for a later morning-after. Or do a morning-after now.
 
-### What Makes a Good Exchange
-
-- **Clear documentation** that others can follow
-- **Honest recording** of struggles and breakthroughs
-- **Thoughtful analysis** rather than just final answers
-- **Generous sharing** of insights and methods
-
-## Common Challenges and Solutions
-
-### "I Don't Have Time"
-
-- Start with shorter, more focused sessions
-- Protect the time as rigorously as you would a medical appointment
-- Remember that quality matters more than quantity
-- Consider the long-term benefits to your thinking skills
-
-### "I Don't Know What to Think About"
-
-- Return to previous problems with fresh eyes
-- Extend class problems in new directions
-- Look for patterns across different problems
-- Practice explaining solutions to imaginary students
-
-### "I Get Stuck Too Easily"
-
-- Record your stuck points rather than abandoning them
-- Try approaching from completely different angles
-- Take breaks within the session to reset your thinking
-- Remember that getting stuck is part of the learning process
-
-### "My Work Isn't Good Enough"
-
-- Focus on effort and process rather than correct answers
-- Document your reasoning process thoroughly
-- Learn from mistakes rather than hiding them
-- Remember that everyone struggles with difficult problems
-
-## The Long-Term Benefits
-
-### Immediate Course Benefits
-
-- **Better problem-solving** performance in class
-- **Deeper understanding** of course concepts
-- **More effective collaboration** with classmates
-- **Greater confidence** in tackling difficult problems
-
-### Lifelong Benefits
-
-- **Enhanced creativity** and innovation ability
-- **Better analytical** thinking skills
-- **Increased tolerance** for ambiguity and confusion
-- **More systematic** approach to complex challenges
-- **Greater persistence** in the face of difficulty
-
-## Assessment and Evaluation
-
-Your GamesWorth notebook will be evaluated on:
-
-- **Consistency** of daily practice
-- **Quality of documentation** and reflection
-- **Evidence of learning** and growth over time
-- **Thoughtfulness** of morning-after reconsiderations
-- **Collaboration** quality in exchanges with peers
-
-> **Remember**: The goal is not to produce perfect solutions, but to develop the habits and skills of sustained, creative thinking that will benefit you throughout your life.
+**"My work isn't good enough to swap."** Swap it anyway. The grade rests on "demonstrating real effort", not on answers. Write clearly so your partner can follow what you tried.
 
 ---
 

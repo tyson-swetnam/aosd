@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Two ways to sum the first n integers: two staircases fitted into a rectangle, and the sum written above its reversal">
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937">
+
+    <!-- Panel titles -->
+    <text x="220" y="60" font-size="22" font-weight="700" text-anchor="middle">Two staircases make a rectangle</text>
+    <text x="605" y="60" font-size="22" font-weight="700" text-anchor="middle">Forwards plus backwards</text>
+
+    <!-- PANEL A: grid 5 wide by 4 tall, cells 60px, x 70..370, y 100..340 -->
+    <path d="M70,340 L310,340 L310,280 L250,280 L250,220 L190,220 L190,160 L130,160 L130,100 L70,100 Z" fill="#e5e7eb"/>
+    <path d="M310,340 L370,340 L370,100 L130,100 L130,160 L190,160 L190,220 L250,220 L250,280 L310,280 Z" fill="#f3f4f6"/>
+
+    <!-- grid lines -->
+    <g stroke="#1f2937" stroke-width="1.2" opacity="0.55">
+      <line x1="130" y1="100" x2="130" y2="340"/>
+      <line x1="190" y1="100" x2="190" y2="340"/>
+      <line x1="250" y1="100" x2="250" y2="340"/>
+      <line x1="310" y1="100" x2="310" y2="340"/>
+      <line x1="70" y1="160" x2="370" y2="160"/>
+      <line x1="70" y1="220" x2="370" y2="220"/>
+      <line x1="70" y1="280" x2="370" y2="280"/>
+    </g>
+
+    <!-- staircase boundary (accent) and outer rectangle -->
+    <path d="M70,340 L310,340 L310,280 L250,280 L250,220 L190,220 L190,160 L130,160 L130,100 L70,100 Z" fill="none" stroke="#b91c1c" stroke-width="3"/>
+    <rect x="70" y="100" width="300" height="240" fill="none" stroke="#1f2937" stroke-width="3"/>
+
+    <!-- row counts inside the dark staircase -->
+    <g font-size="20" text-anchor="middle" fill="#1f2937">
+      <text x="100" y="317">4</text>
+      <text x="100" y="257">3</text>
+      <text x="100" y="197">2</text>
+      <text x="100" y="137">1</text>
+    </g>
+
+    <!-- braces / dimension labels -->
+    <g stroke="#1f2937" stroke-width="2" fill="none">
+      <path d="M70,356 L70,364 L370,364 L370,356"/>
+      <path d="M54,100 L46,100 L46,340 L54,340"/>
+    </g>
+    <text x="220" y="390" font-size="20" text-anchor="middle">n + 1 = 5</text>
+    <text x="30" y="226" font-size="20" text-anchor="middle" transform="rotate(-90 30 226)">n = 4</text>
+
+    <text x="220" y="440" font-size="21" text-anchor="middle">2 &#215; (1 + 2 + 3 + 4) = 4 &#215; 5</text>
+
+    <!-- PANEL B: column guides -->
+    <g stroke="#e5e7eb" stroke-width="2">
+      <line x1="460" y1="120" x2="460" y2="300"/>
+      <line x1="522" y1="120" x2="522" y2="300"/>
+      <line x1="584" y1="120" x2="584" y2="300"/>
+      <line x1="646" y1="120" x2="646" y2="300"/>
+      <line x1="708" y1="120" x2="708" y2="300"/>
+      <line x1="762" y1="120" x2="762" y2="300"/>
+    </g>
+
+    <g font-size="20" text-anchor="middle">
+      <text x="460" y="165">1</text>
+      <text x="522" y="165">2</text>
+      <text x="584" y="165">3</text>
+      <text x="646" y="165">4</text>
+      <text x="708" y="165">&#8230;</text>
+      <text x="762" y="165">n</text>
+
+      <text x="460" y="225">n</text>
+      <text x="522" y="225">n&#8722;1</text>
+      <text x="584" y="225">n&#8722;2</text>
+      <text x="646" y="225">n&#8722;3</text>
+      <text x="708" y="225">&#8230;</text>
+      <text x="762" y="225">1</text>
+    </g>
+
+    <line x1="430" y1="248" x2="785" y2="248" stroke="#1f2937" stroke-width="3"/>
+
+    <g font-size="18" text-anchor="middle" fill="#b91c1c">
+      <text x="460" y="288">n+1</text>
+      <text x="522" y="288">n+1</text>
+      <text x="584" y="288">n+1</text>
+      <text x="646" y="288">n+1</text>
+      <text x="708" y="288">&#8230;</text>
+      <text x="762" y="288">n+1</text>
+    </g>
+
+    <text x="607" y="340" font-size="20" text-anchor="middle">n columns, each adding to n + 1</text>
+    <text x="607" y="440" font-size="21" text-anchor="middle">2S = n (n + 1)</text>
+  </g>
+</svg>

@@ -1,11 +1,11 @@
 site_name: 'The Art of Scientific Discovery'
-site_description: 'A course in problem-solving strategy and creative thinking'
-site_author: 'University of Arizona'
-site_url: https://tswetnam.github.io/aosd
+site_description: 'The Art of Scientific Discovery: Professor Arthur T. Winfree''s University of Arizona seminar in problem-solving strategy and creative thinking, in five sections with the GamesWorth daily-practice method and an annotated reading list.'
+site_author: 'Tyson Swetnam'
+site_url: https://tyson-swetnam.github.io/aosd/
 
 # Repository
-repo_name: aosd
-repo_url: https://github.com/tswetnam/aosd
+repo_name: tyson-swetnam/aosd
+repo_url: https://github.com/tyson-swetnam/aosd
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2025 University of Arizona'
@@ -14,20 +14,87 @@ copyright: 'Copyright &copy; 2025 University of Arizona'
 nav:
   - Home: index.md
   - Course Sections:
-    - Section 1 - Detecting Nonsense: section1.md
-    - Section 2 - Creative Blocks: section2.md
-    - Section 3 - Observations & Questions: section3.md
-    - Section 4 - Patterns & Generalizations: section4.md
-    - Section 5 - Inferences & Explanations: section5.md
+    - 'Section 1: Detecting Nonsense, Error Checking, False Assumptions, Cherishing Mistakes': section1.md
+    - 'Section 2: Creative Blocks': section2.md
+    - 'Section 3: Observations and Questions': section3.md
+    - 'Section 4: Patterns, Empirical Generalizations': section4.md
+    - 'Section 5: Inferences, Hypotheses, Explanations': section5.md
+  # problems-nav-begin
+  - Problems:
+    - problems/index.md
+    - Section 1:
+      - '13 Nails': problems/thirteen-nails.md
+      - 'Triangle Problem': problems/triangle-problem.md
+      - 'Conscious Machines': problems/conscious-machines.md
+      - 'Square Windows': problems/square-windows.md
+      - 'Bookworm''s Journey': problems/bookworms-journey.md
+      - 'Golden Tooth': problems/golden-tooth.md
+      - 'Salvation of Doug': problems/salvation-of-doug.md
+      - 'N-Rays': problems/n-rays.md
+      - 'Phone Cord Problem': problems/phone-cord-problem.md
+      - 'Stockholm Restrooms': problems/stockholm-restrooms.md
+      - 'Collective Reproduction': problems/collective-reproduction.md
+      - 'Evaporated Gold': problems/evaporated-gold.md
+    - Section 2:
+      - 'Dominoes (group lab)': problems/dominoes-lab.md
+      - 'Rearranged Triangle': problems/rearranged-triangle.md
+      - 'Weird Organism': problems/weird-organism.md
+      - 'Telltale Number': problems/telltale-number.md
+      - 'The Barometer Story': problems/barometer-story.md
+      - 'Tying Knots': problems/tying-knots.md
+      - 'Mercury''s Mysterious Hidden Hemisphere': problems/mercurys-hidden-hemisphere.md
+      - 'Paths Through Mazes': problems/paths-through-mazes.md
+      - 'Taboo Questions': problems/taboo-questions.md
+      - 'Walking Through Walls': problems/walking-through-walls.md
+      - 'Sums of Integers': problems/sums-of-integers.md
+    - Section 3:
+      - 'Pedestrian Crosswalk Mystery': problems/pedestrian-crosswalk-mystery.md
+      - 'Ant Walk': problems/ant-walk.md
+      - 'Chemical Pattern-Formation Lab': problems/chemical-pattern-formation-lab.md
+      - 'Seven Bridges of Königsberg': problems/seven-bridges.md
+      - 'What Isn''t There (Surprisingly Hard)': problems/what-isnt-there.md
+      - 'Mother Nature as Magician; Hallucinations': problems/mother-nature-as-magician.md
+      - 'Rainbow Moon': problems/rainbow-moon.md
+      - 'Escher Print Gallery': problems/escher-print-gallery.md
+      - 'Green Stars': problems/green-stars.md
+      - 'Hairy People': problems/hairy-people.md
+      - 'Martian HoneyCombs': problems/martian-honeycombs.md
+      - 'Zygotes': problems/zygotes.md
+      - 'Cevians': problems/cevians.md
+      - 'Superposed Filters': problems/superposed-filters.md
+    - Section 4:
+      - 'N Dots on the Rim of a Circle': problems/n-dots-on-circle.md
+      - 'Presidents and States': problems/presidents-and-states.md
+      - 'Cell Shapes Lab': problems/cell-shapes-lab.md
+      - 'Neutrinos': problems/neutrinos.md
+      - 'Paired Observations': problems/paired-observations.md
+      - 'Egg Pouches Lab': problems/egg-pouches-lab.md
+      - 'Platonic Solids and Applications': problems/platonic-solids.md
+      - 'Eleusis': problems/eleusis.md
+      - 'The Mirror Mystery': problems/mirror-mystery.md
+    - Section 5:
+      - 'Stacked Cantilevers Lab': problems/stacked-cantilevers-lab.md
+      - 'Stalactites': problems/stalactites.md
+      - 'Summing a Series': problems/summing-a-series.md
+      - 'LoShu Lab': problems/loshu-lab.md
+      - 'Laws of a Toy Universe': problems/laws-of-toy-universe.md
+      - 'The Miracle of FujiYama': problems/miracle-of-fujiyama.md
+      - 'Antigen Invasions': problems/antigen-invasions.md
+      - 'Martian DNA': problems/martian-dna.md
+      - 'Bacterial Hybrids': problems/bacterial-hybrids.md
+  # problems-nav-end
   - Methods:
     - GamesWorth: gamesworth.md
   - Resources:
     - Recommended Readings: readings.md
+    - The Original Syllabus: syllabus.md
+  - About:
+    - For AI agents: about/ai-agents.md
+    - Update log: log.md
 # Configuration
 
 theme:
   name: 'material'
-  #custom_dir: material/overrides
   # 404 page
   static_templates:
     - 404.html
@@ -57,21 +124,25 @@ theme:
         name: Switch to system preference
   font:
     text: Montserrat
-    code: Regular
+    code: Roboto Mono
   features:
+    - content.action.edit
+    - content.action.view
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
+    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
     - content.code.copy
     - content.code.prettify
     - content.tooltips
-  favicon: 'assets/ua.ico'
+  # University of New Mexico favicon (same file as the AI Automation and Agents course site).
+  favicon: 'assets/unm.ico'
   logo: 'assets/ua.png'
 
 # Options
@@ -139,12 +210,10 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-  - chatbot_widget.css
 
-extra_javascript:
-  - chatbot_widget.js
- 
+# Strict builds also fail on links to headings that do not exist.
+validation:
+  anchors: warn
+
 plugins:
-  - mkdocstrings
-  - mkdocs-jupyter
   - search
