@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Post-build assertions on the rendered site.
 
-Run AFTER `mkdocs build` and `scripts/postbuild_agent_surface.py`. Verifies
+Run AFTER `zensical build` and `scripts/postbuild_agent_surface.py`. Verifies
 that the tree about to be deployed carries the agent surface this site
 promises:
 
@@ -218,7 +218,7 @@ def main():
         sys.exit(2)
     site = Path(sys.argv[1])
     docs = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "docs"
-    for d, what in ((site, "site directory (run `mkdocs build` first)"),
+    for d, what in ((site, "site directory (run `zensical build` first)"),
                     (docs, "docs directory")):
         if not d.is_dir():
             print(f"error: {d} is not a directory — {what}", file=sys.stderr)

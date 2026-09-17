@@ -54,7 +54,7 @@ rules, or problem statements.
 The five section pages must be parallel in structure so a reader can
 predict where things are.
 
-## Markdown rules (Python-Markdown / Material for MkDocs)
+## Markdown rules (Python-Markdown, rendered by Zensical)
 
 - A list must be preceded by a blank line. `**Examples:**` on one line and
   `- item` on the next renders as a single paragraph with a literal "- ".
