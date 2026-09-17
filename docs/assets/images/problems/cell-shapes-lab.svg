@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="Montserrat, Helvetica, Arial, sans-serif">
+<title>A regular honeycomb patch and the same patch after one neighbour swap</title>
+<rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b91c1c"/></marker></defs>
+<text x="200" y="56" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">Regular honeycomb</text>
+<path d="M200.0,172.0 L241.6,196.0 L241.6,244.0 L200.0,268.0 L158.4,244.0 L158.4,196.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M283.1,172.0 L324.7,196.0 L324.7,244.0 L283.1,268.0 L241.6,244.0 L241.6,196.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M241.6,100.0 L283.1,124.0 L283.1,172.0 L241.6,196.0 L200.0,172.0 L200.0,124.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M158.4,100.0 L200.0,124.0 L200.0,172.0 L158.4,196.0 L116.9,172.0 L116.9,124.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M116.9,172.0 L158.4,196.0 L158.4,244.0 L116.9,268.0 L75.3,244.0 L75.3,196.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M158.4,244.0 L200.0,268.0 L200.0,316.0 L158.4,340.0 L116.9,316.0 L116.9,268.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M241.6,244.0 L283.1,268.0 L283.1,316.0 L241.6,340.0 L200.0,316.0 L200.0,268.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="200.0" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="283.1" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="241.6" y="156.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="158.4" y="156.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="116.9" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="158.4" y="300.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="241.6" y="300.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<circle cx="200" cy="172.0" r="12" fill="none" stroke="#b91c1c" stroke-width="3"/>
+<path d="M220.8,184.0 A24,24 0 0 1 179.2,184.0" fill="none" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="600" y="56" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">After one neighbour swap</text>
+<path d="M600.0,172.0 L625.6,220.0 L600.0,268.0 L558.4,244.0 L558.4,196.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M683.1,172.0 L724.7,196.0 L724.7,244.0 L683.1,268.0 L657.6,220.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M641.6,100.0 L683.1,124.0 L683.1,172.0 L657.6,220.0 L625.6,220.0 L600.0,172.0 L600.0,124.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M558.4,100.0 L600.0,124.0 L600.0,172.0 L558.4,196.0 L516.9,172.0 L516.9,124.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M516.9,172.0 L558.4,196.0 L558.4,244.0 L516.9,268.0 L475.3,244.0 L475.3,196.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M558.4,244.0 L600.0,268.0 L600.0,316.0 L558.4,340.0 L516.9,316.0 L516.9,268.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M600.0,268.0 L625.6,220.0 L657.6,220.0 L683.1,268.0 L683.1,316.0 L641.6,340.0 L600.0,316.0 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="589.4" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#b91c1c">5</text>
+<line x1="589.4" y1="184.0" x2="589.4" y2="202.0" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="589.4" y1="252.0" x2="589.4" y2="234.0" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="693.8" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#b91c1c">5</text>
+<line x1="693.8" y1="184.0" x2="693.8" y2="202.0" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="693.8" y1="252.0" x2="693.8" y2="234.0" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="641.6" y="167.7" text-anchor="middle" font-size="24" font-weight="700" fill="#b91c1c">7</text>
+<line x1="641.6" y1="142.7" x2="641.6" y2="119.7" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="641.6" y1="172.7" x2="641.6" y2="195.7" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="558.4" y="156.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="516.9" y="228.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="558.4" y="300.0" text-anchor="middle" font-size="24" font-weight="700" fill="#1f2937">6</text>
+<text x="641.6" y="288.3" text-anchor="middle" font-size="24" font-weight="700" fill="#b91c1c">7</text>
+<line x1="641.6" y1="263.3" x2="641.6" y2="240.3" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="641.6" y1="293.3" x2="641.6" y2="316.3" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="200" y="378" text-anchor="middle" font-size="20" fill="#1f2937">Every inner junction: three</text>
+<text x="200" y="405" text-anchor="middle" font-size="20" fill="#1f2937">walls, 120° apart (circled)</text>
+<text x="600" y="378" text-anchor="middle" font-size="20" fill="#1f2937">Arrows: in a froth, 5-sided cells</text>
+<text x="600" y="405" text-anchor="middle" font-size="20" fill="#1f2937">shrink and 7-sided cells grow</text>
+<line x1="40" y1="438" x2="760" y2="438" stroke="#e5e7eb" stroke-width="2"/>
+<text x="400" y="474" text-anchor="middle" font-size="20" fill="#1f2937">Right: 5 + 5 + 7 + 7 + 6 + 6 + 6 = 42 sides in 7 cells, still 6 on average</text>
+</svg>

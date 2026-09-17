@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" role="img" aria-labelledby="title desc">
+  <title id="title">Coiled phone cord with a handedness reversal</title>
+  <desc id="desc">Schematic of a coiled phone cord between base and handset with right-handed coils on the left, left-handed coils on the right, and a short kinked segment, the reversal, between them. A second row shows the same cord pulled straight with its ends held against rotation.</desc>
+  <rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+  <rect x="20" y="96" width="24" height="64" rx="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <text x="20" y="192" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937" text-anchor="start">base</text>
+  <rect x="756" y="96" width="24" height="64" rx="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <text x="748" y="192" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937" text-anchor="end">handset</text>
+  <path d="M 44 128 C 48 140, 50 152, 54 160" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-dasharray="7 6">
+    <path d="M 76 96 C 82 106, 92 150, 98 160"/>
+    <path d="M 120 96 C 126 106, 136 150, 142 160"/>
+    <path d="M 164 96 C 170 106, 180 150, 186 160"/>
+    <path d="M 208 96 C 214 106, 224 150, 230 160"/>
+    <path d="M 252 96 C 258 106, 268 150, 274 160"/>
+    <path d="M 296 96 C 302 106, 312 150, 318 160"/>
+    <path d="M 340 96 C 346 106, 356 150, 362 160"/>
+  </g>
+  <g fill="none" stroke="#1f2937" stroke-width="3.5" stroke-linecap="round">
+    <path d="M 54 160 C 60 150, 70 106, 76 96"/>
+    <path d="M 98 160 C 104 150, 114 106, 120 96"/>
+    <path d="M 142 160 C 148 150, 158 106, 164 96"/>
+    <path d="M 186 160 C 192 150, 202 106, 208 96"/>
+    <path d="M 230 160 C 236 150, 246 106, 252 96"/>
+    <path d="M 274 160 C 280 150, 290 106, 296 96"/>
+    <path d="M 318 160 C 324 150, 334 106, 340 96"/>
+  </g>
+  <path d="M 362 160 C 368 156, 372 144, 372 128" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 372 128 L 384 128 C 384 100, 416 100, 416 128 L 428 128" fill="none" stroke="#b91c1c" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="400" y="78" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#b91c1c" text-anchor="middle">reversal (perversion)</text>
+  <path d="M 428 128 C 428 112, 432 100, 438 96" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-dasharray="7 6">
+    <path d="M 460 160 C 466 150, 476 106, 482 96"/>
+    <path d="M 504 160 C 510 150, 520 106, 526 96"/>
+    <path d="M 548 160 C 554 150, 564 106, 570 96"/>
+    <path d="M 592 160 C 598 150, 608 106, 614 96"/>
+    <path d="M 636 160 C 642 150, 652 106, 658 96"/>
+    <path d="M 680 160 C 686 150, 696 106, 702 96"/>
+    <path d="M 724 160 C 730 150, 740 106, 746 96"/>
+  </g>
+  <g fill="none" stroke="#1f2937" stroke-width="3.5" stroke-linecap="round">
+    <path d="M 438 96 C 444 106, 454 150, 460 160"/>
+    <path d="M 482 96 C 488 106, 498 150, 504 160"/>
+    <path d="M 526 96 C 532 106, 542 150, 548 160"/>
+    <path d="M 570 96 C 576 106, 586 150, 592 160"/>
+    <path d="M 614 96 C 620 106, 630 150, 636 160"/>
+    <path d="M 658 96 C 664 106, 674 150, 680 160"/>
+    <path d="M 702 96 C 708 106, 718 150, 724 160"/>
+  </g>
+  <path d="M 746 96 C 752 100, 756 112, 756 128" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 56 200 L 56 212 L 366 212 L 366 200" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="211" y="240" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937" text-anchor="middle">right-handed turns: n</text>
+  <path d="M 434 200 L 434 212 L 744 212 L 744 200" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="589" y="240" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937" text-anchor="middle">left-handed turns: n</text>
+  <rect x="20" y="272" width="24" height="40" rx="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <rect x="756" y="272" width="24" height="40" rx="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5"/>
+  <line x1="44" y1="292" x2="756" y2="292" stroke="#1f2937" stroke-width="3"/>
+  <path d="M 714 274 A 18 18 0 1 1 714 310" fill="none" stroke="#b91c1c" stroke-width="2.5"/>
+  <path d="M 714 310 L 706 300 M 714 310 L 724 302" fill="none" stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="702" y1="270" x2="744" y2="314" stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="366" y="336" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937" text-anchor="middle">ends held against rotation: what is conserved?</text>
+</svg>

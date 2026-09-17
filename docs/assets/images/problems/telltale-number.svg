@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" role="img" aria-label="Ten empty boxes in a row, each labelled beneath with how many zeros, how many ones, up to how many nines">
+  <rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+
+  <text x="400" y="46" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Ten digits, and each one counts digits of the whole number</text>
+
+  <!-- boxes -->
+  <g stroke="#1f2937" stroke-width="3" fill="#f3f4f6">
+    <rect x="35" y="90" width="66" height="66" rx="4"/>
+    <rect x="108" y="90" width="66" height="66" rx="4"/>
+    <rect x="181" y="90" width="66" height="66" rx="4"/>
+    <rect x="254" y="90" width="66" height="66" rx="4"/>
+    <rect x="327" y="90" width="66" height="66" rx="4"/>
+    <rect x="400" y="90" width="66" height="66" rx="4"/>
+    <rect x="473" y="90" width="66" height="66" rx="4"/>
+    <rect x="546" y="90" width="66" height="66" rx="4"/>
+    <rect x="619" y="90" width="66" height="66" rx="4"/>
+    <rect x="692" y="90" width="66" height="66" rx="4"/>
+  </g>
+
+  <!-- writing line inside each box -->
+  <g stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5">
+    <line x1="50" y1="140" x2="86" y2="140"/>
+    <line x1="123" y1="140" x2="159" y2="140"/>
+    <line x1="196" y1="140" x2="232" y2="140"/>
+    <line x1="269" y1="140" x2="305" y2="140"/>
+    <line x1="342" y1="140" x2="378" y2="140"/>
+    <line x1="415" y1="140" x2="451" y2="140"/>
+    <line x1="488" y1="140" x2="524" y2="140"/>
+    <line x1="561" y1="140" x2="597" y2="140"/>
+    <line x1="634" y1="140" x2="670" y2="140"/>
+    <line x1="707" y1="140" x2="743" y2="140"/>
+  </g>
+
+  <!-- position labels above -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#6b7280" text-anchor="middle">
+    <text x="68" y="82">1st</text>
+    <text x="141" y="82">2nd</text>
+    <text x="214" y="82">3rd</text>
+    <text x="287" y="82">4th</text>
+    <text x="360" y="82">5th</text>
+    <text x="433" y="82">6th</text>
+    <text x="506" y="82">7th</text>
+    <text x="579" y="82">8th</text>
+    <text x="652" y="82">9th</text>
+    <text x="725" y="82">10th</text>
+  </g>
+
+  <!-- "how many" labels below -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937" text-anchor="middle">
+    <text x="68" y="182">how</text><text x="68" y="204">many</text><text x="68" y="226" font-weight="700">0s</text>
+    <text x="141" y="182">how</text><text x="141" y="204">many</text><text x="141" y="226" font-weight="700">1s</text>
+    <text x="214" y="182">how</text><text x="214" y="204">many</text><text x="214" y="226" font-weight="700">2s</text>
+    <text x="287" y="182">how</text><text x="287" y="204">many</text><text x="287" y="226" font-weight="700">3s</text>
+    <text x="360" y="182">how</text><text x="360" y="204">many</text><text x="360" y="226" font-weight="700">4s</text>
+    <text x="433" y="182">how</text><text x="433" y="204">many</text><text x="433" y="226" font-weight="700">5s</text>
+    <text x="506" y="182">how</text><text x="506" y="204">many</text><text x="506" y="226" font-weight="700">6s</text>
+    <text x="579" y="182">how</text><text x="579" y="204">many</text><text x="579" y="226" font-weight="700">7s</text>
+    <text x="652" y="182">how</text><text x="652" y="204">many</text><text x="652" y="226" font-weight="700">8s</text>
+    <text x="725" y="182">how</text><text x="725" y="204">many</text><text x="725" y="226" font-weight="700">9s</text>
+  </g>
+
+  <!-- loop arrow: the count refers back to the whole row -->
+  <defs>
+    <marker id="head" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/>
+    </marker>
+  </defs>
+  <path d="M 68 248 C 68 306, 420 318, 760 296 C 788 288, 790 180, 740 152" fill="none" stroke="#b91c1c" stroke-width="3" marker-end="url(#head)"/>
+  <rect x="236" y="264" width="330" height="36" fill="#ffffff"/>
+  <text x="401" y="290" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#b91c1c">counted across all ten boxes</text>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <title>The Mirror Mystery, seen from above</title>
+  <desc>Plan view. Left: a person facing a mirror and the image behind it; the right hand and its image lie on the same side, only front and back are reversed. Right: imagining yourself turned round to stand in the image's place puts your right hand on the other side, which is where the apparent left-right swap comes from.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+  <line x1="400" y1="20" x2="400" y2="480" stroke="#e5e7eb" stroke-width="2"/>
+
+  <!-- Panel A -->
+  <text x="200" y="36" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">What the mirror does</text>
+  <text x="200" y="118" text-anchor="middle" font-size="20" fill="#1f2937">mirror</text>
+  <line x1="200" y1="130" x2="200" y2="370" stroke="#1f2937" stroke-width="5"/>
+  <g stroke="#1f2937" stroke-width="2">
+    <line x1="200" y1="150" x2="212" y2="138"/><line x1="200" y1="170" x2="212" y2="158"/>
+    <line x1="200" y1="190" x2="212" y2="178"/><line x1="200" y1="210" x2="212" y2="198"/>
+    <line x1="200" y1="230" x2="212" y2="218"/><line x1="200" y1="250" x2="212" y2="238"/>
+    <line x1="200" y1="270" x2="212" y2="258"/><line x1="200" y1="290" x2="212" y2="278"/>
+    <line x1="200" y1="310" x2="212" y2="298"/><line x1="200" y1="330" x2="212" y2="318"/>
+    <line x1="200" y1="350" x2="212" y2="338"/><line x1="200" y1="370" x2="212" y2="358"/>
+  </g>
+  <!-- you, facing the mirror (+x) -->
+  <g stroke="#1f2937" stroke-width="2.5">
+    <ellipse cx="95" cy="250" rx="18" ry="48" fill="#e5e7eb"/>
+    <circle cx="95" cy="250" r="20" fill="#f3f4f6"/>
+    <polygon points="113,242 129,250 113,258" fill="#1f2937"/>
+    <circle cx="95" cy="188" r="9" fill="#ffffff"/>
+    <circle cx="95" cy="312" r="9" fill="#b91c1c"/>
+  </g>
+  <text x="112" y="195" font-size="22" fill="#1f2937">L</text>
+  <text x="112" y="319" font-size="22" font-weight="bold" fill="#b91c1c">R</text>
+  <text x="95" y="400" text-anchor="middle" font-size="22" fill="#1f2937">you</text>
+  <!-- image, reflected about x = 200 -->
+  <g stroke="#1f2937" stroke-width="2.5" stroke-dasharray="6 4">
+    <ellipse cx="305" cy="250" rx="18" ry="48" fill="#f3f4f6"/>
+    <circle cx="305" cy="250" r="20" fill="#ffffff"/>
+    <circle cx="305" cy="188" r="9" fill="#ffffff"/>
+    <circle cx="305" cy="312" r="9" fill="#b91c1c"/>
+  </g>
+  <polygon points="287,242 271,250 287,258" fill="#1f2937"/>
+  <text x="322" y="195" font-size="22" fill="#1f2937">L</text>
+  <text x="322" y="319" font-size="22" font-weight="bold" fill="#b91c1c">R</text>
+  <text x="305" y="400" text-anchor="middle" font-size="22" fill="#1f2937">image</text>
+  <text x="200" y="444" text-anchor="middle" font-size="20" fill="#1f2937">Along the glass: unchanged.</text>
+  <text x="200" y="472" text-anchor="middle" font-size="20" fill="#b91c1c">Through the glass: reversed.</text>
+
+  <!-- Panel B -->
+  <text x="600" y="36" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">What you imagine</text>
+  <line x1="575" y1="130" x2="575" y2="370" stroke="#1f2937" stroke-width="5"/>
+  <g stroke="#1f2937" stroke-width="2">
+    <line x1="575" y1="150" x2="587" y2="138"/><line x1="575" y1="170" x2="587" y2="158"/>
+    <line x1="575" y1="190" x2="587" y2="178"/><line x1="575" y1="210" x2="587" y2="198"/>
+    <line x1="575" y1="230" x2="587" y2="218"/><line x1="575" y1="250" x2="587" y2="238"/>
+    <line x1="575" y1="270" x2="587" y2="258"/><line x1="575" y1="290" x2="587" y2="278"/>
+    <line x1="575" y1="310" x2="587" y2="298"/><line x1="575" y1="330" x2="587" y2="318"/>
+    <line x1="575" y1="350" x2="587" y2="338"/><line x1="575" y1="370" x2="587" y2="358"/>
+  </g>
+  <!-- you -->
+  <g stroke="#1f2937" stroke-width="2.5">
+    <ellipse cx="470" cy="250" rx="18" ry="48" fill="#e5e7eb"/>
+    <circle cx="470" cy="250" r="20" fill="#f3f4f6"/>
+    <polygon points="488,242 504,250 488,258" fill="#1f2937"/>
+    <circle cx="470" cy="188" r="9" fill="#ffffff"/>
+    <circle cx="470" cy="312" r="9" fill="#b91c1c"/>
+  </g>
+  <text x="487" y="195" font-size="22" fill="#1f2937">L</text>
+  <text x="487" y="319" font-size="22" font-weight="bold" fill="#b91c1c">R</text>
+  <text x="470" y="400" text-anchor="middle" font-size="22" fill="#1f2937">you</text>
+  <!-- image, reflected about x = 575 -->
+  <g stroke="#1f2937" stroke-width="2.5" stroke-dasharray="6 4">
+    <ellipse cx="680" cy="250" rx="18" ry="48" fill="#f3f4f6"/>
+    <circle cx="680" cy="250" r="20" fill="#ffffff"/>
+    <circle cx="680" cy="188" r="9" fill="#ffffff"/>
+    <circle cx="680" cy="312" r="9" fill="#b91c1c"/>
+  </g>
+  <polygon points="662,242 646,250 662,258" fill="#1f2937"/>
+  <text x="697" y="195" font-size="22" fill="#1f2937">L</text>
+  <text x="697" y="319" font-size="22" font-weight="bold" fill="#b91c1c">R</text>
+  <text x="680" y="400" text-anchor="middle" font-size="22" fill="#1f2937">image</text>
+  <!-- you, turned round 180 degrees about a vertical axis -->
+  <g stroke="#b91c1c" stroke-width="2.5" stroke-dasharray="3 4">
+    <ellipse cx="765" cy="250" rx="18" ry="48" fill="#e5e7eb"/>
+    <circle cx="765" cy="250" r="20" fill="#f3f4f6"/>
+    <circle cx="765" cy="188" r="9" fill="#b91c1c"/>
+    <circle cx="765" cy="312" r="9" fill="#ffffff"/>
+  </g>
+  <polygon points="747,242 731,250 747,258" fill="#b91c1c"/>
+  <text x="752" y="202" text-anchor="end" font-size="22" font-weight="bold" fill="#b91c1c">R</text>
+  <text x="752" y="320" text-anchor="end" font-size="22" fill="#1f2937">L</text>
+  <text x="758" y="400" text-anchor="middle" font-size="22" fill="#b91c1c">you,</text>
+  <text x="758" y="424" text-anchor="middle" font-size="22" fill="#b91c1c">turned</text>
+  <path d="M470,168 Q617,32 765,168" fill="none" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="617" y="80" text-anchor="middle" font-size="20" fill="#b91c1c">imagine turning round</text>
+  <text x="600" y="456" text-anchor="middle" font-size="20" fill="#1f2937">The swap comes from turning</text>
+  <text x="600" y="482" text-anchor="middle" font-size="20" fill="#1f2937">yourself round, not the glass.</text>
+</svg>

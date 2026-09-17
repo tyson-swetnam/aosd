@@ -1,219 +1,125 @@
+---
+title: "Section 5: Inferences, Hypotheses, Explanations"
+description: "The last six sessions of Winfree's schedule (25-30): from pooled data to theory, reading Chamberlin, Platt, Judson and Feynman while the class holds rival hypotheses, settles wagers and discovers the laws of a toy universe."
+type: Lesson
+tags: [course, student-facing, section-5, inference, hypotheses, explanation]
+status: stable
+generated:
+  by: "claude/opus-5"
+  at: "2026-09-16T00:00:00Z"
+sources:
+  - id: winfree-handout
+    resource: "https://web.archive.org/web/20070214070741/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm"
+    title: "The Art of Scientific Discovery (EEB 479): course handout, Web Archive capture of 2007-02-14"
+    author: "Arthur T. Winfree"
+  - id: aosd-syllabus
+    resource: "https://github.com/tyson-swetnam/aosd/blob/main/docs/assets/aosd_syllabus.pdf"
+    title: "The Art of Scientific Discovery: original course syllabus (PDF)"
+    author: "Arthur T. Winfree"
+---
+
 # Section 5: Inferences, Hypotheses, Explanations
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-*Six sessions of building theories and testing explanations*
+*Six sessions of building theories and trying to kill them*
 
 ## Overview
 
-The final section brings together all previous skills to focus on the ultimate goal of scientific thinking: constructing explanations that make sense of observations, patterns, and phenomena. You'll learn to distinguish between different types of explanations and develop skills in building, testing, and refining theoretical understanding.
+Section 4 collected regularities. Section 5 asks why they hold. The syllabus titles it "Inferences, Hypotheses, Explanations", and its readings run in a line: Chamberlin on multiple working hypotheses, Platt on strong inference, Judson on strong predictions, Feynman on the character of physical law, and Judson again on theory.
 
-## The Nature of Scientific Explanation
+The syllabus describes the course's exercises as practice "of cultivating multiple alternative solutions, of eliminating rejectable candidate solutions", and asks you to "generate several alternative guesses, and test them for workability". The problems here have that shape: several explanations fit, and the work is finding the observation that separates them.
 
-### What Makes a Good Explanation?
-- **Coherence** - fits together logically without contradictions
-- **Parsimony** - achieves maximum explanation with minimum assumptions
-- **Testability** - generates predictions that can be verified or falsified
-- **Scope** - explains a wide range of related phenomena
-- **Precision** - makes specific rather than vague predictions
+Three of the activities are group labs that begin with experiments and end with a theory: Stacked Cantilevers, LoShu and the toy universe. They depend on the class, since for some problems no one person can collect enough data, "but if we pool data, reality will come into focus".
 
-### Types of Scientific Explanations
-- **Mechanistic** - explains how something works step by step
-- **Mathematical** - describes relationships through equations and formulas
-- **Analogical** - explains unfamiliar phenomena in terms of familiar ones
-- **Historical** - explains current conditions through past events
-- **Functional** - explains why something exists in terms of what it accomplishes
+## The sessions
 
-## Key Learning Activities
+The syllabus gives little more than a name for each problem, so every problem page in this section is the editors' reconstruction of the exercise. For The Miracle of FujiYama and Antigen Invasions even the subject is a guess.
 
-### Multiple Working Hypotheses (Chamberlin Method)
-Learning to:
-- **Generate multiple explanations** for the same phenomenon
-- **Avoid premature attachment** to single theories
-- **Design tests** that can distinguish between alternatives
-- **Maintain objectivity** by considering competing hypotheses simultaneously
+### Session 25: Multiple working hypotheses
 
-### Stacked Cantilevers Laboratory
-A hands-on engineering challenge involving:
-- **Theoretical prediction** of optimal stacking arrangements
-- **Experimental testing** of theoretical predictions
-- **Theory refinement** based on empirical results
-- **Collaborative problem-solving** with betting and hypothesis competition
-- **Mathematical modeling** of physical phenomena
+**Readings due:** Chamberlin, *The Method of Multiple Working Hypotheses*.
 
-### LoShu (Magic Squares) Investigation
-Mathematical pattern investigation focusing on:
-- **Complete theoretical understanding** of mathematical structures
-- **Systematic exploration** of all possibilities
-- **Elegant explanation** of seemingly mysterious patterns
-- **Proof construction** and logical reasoning
+"Further collaborations on Stacked Cantilevers". The [Stacked Cantilevers Lab](problems/stacked-cantilevers-lab.md) began in session 24, the last session of [Section 4](section4.md), and closes in session 26. The class pools measurements of how far a pile of blocks can lean out over a table edge.
 
-### Laws of Toy Universe Discovery
-Collaborative laboratory exercise where the class discovers:
-- **Hidden rules** governing an artificial system
-- **Hypothesis formation** based on limited evidence
-- **Experimental design** for testing theories
-- **Theory building** through group collaboration
-- **Scientific consensus** formation
+### Session 26: Theory and wagers
 
-## The Process of Theory Building
+**Readings due:** listed in the schedule as TBA.
 
-### From Observation to Explanation
+"Theory of stacking cantilevers, resolution of wagers", closing the lab. Then [Summing a Series](problems/summing-a-series.md): the block theory produces 1 + 1/2 + 1/3 + ... + 1/n, and the question is whether it has a limit. Then [Stalactites](problems/stalactites.md): why dripping water leaves stone hanging from a cave ceiling, why it has that shape, and how old it is.
 
-1. **Careful observation** - documenting what actually happens
-2. **Pattern recognition** - identifying regularities and relationships
-3. **Question formulation** - asking why patterns exist
-4. **Hypothesis generation** - proposing possible explanations
-5. **Prediction derivation** - determining what the hypothesis predicts
-6. **Experimental testing** - checking predictions against reality
-7. **Theory refinement** - modifying explanations based on results
+### Session 27: Strong inference
 
-### Strong Inference (Platt Method)
-A systematic approach to theory testing:
-- **Devise alternative hypotheses** for the same phenomenon
-- **Design crucial experiments** that can eliminate hypotheses
-- **Carry out experiments** with clear outcomes
-- **Recycle the process** with remaining hypotheses
+**Readings due:** Platt, *Strong Inference*.
 
-## Advanced Problem-Solving Exercises
+"Start LoShu lab experiments in class". The [LoShu Lab](problems/loshu-lab.md) runs two experiments, a pick-three-to-make-15 card game and 3 x 3 magic squares, and asks for one theory that explains both.
 
-### The Miracle of FujiYama
-A complex puzzle requiring:
-- **Integration of multiple clues** and constraints
-- **Creative hypothesis** formation
-- **Systematic testing** of possibilities
-- **Collaborative reasoning** and debate
+The Thanksgiving break falls between this session and the next.
 
-### Antigen Invasions
-A biological modeling exercise involving:
-- **Dynamic system** analysis
-- **Prediction of system** behavior over time
-- **Mathematical description** of biological processes
-- **Testing theoretical** predictions against data
+### Session 28: Strong predictions
 
-### Martian DNA
-An astrobiology thought experiment requiring:
-- **Analogical reasoning** from terrestrial biology
-- **Creative hypothesis** about alternative biochemistries
-- **Logical consistency** in theoretical constructions
-- **Testable prediction** generation
+**Readings due:** Judson, Chapter 7: *Strong Predictions*.
 
-### Bacterial Hybrids
-A genetics problem involving:
-- **Model construction** for inheritance patterns
-- **Statistical analysis** of breeding data
-- **Theory testing** through prediction and verification
-- **Scientific reasoning** about unseen mechanisms
+Deal with [The Miracle of FujiYama](problems/miracle-of-fujiyama.md), reconstructed as a row of eight coupled reactors that stores three patterns: where must the row settle? Then "Finish complete theory of LoShu." Then "Start discovering laws of a toy universe in class": the [Laws of a Toy Universe](problems/laws-of-toy-universe.md) lab, which continues into session 29.
 
-## The Art of Scientific Reasoning
+### Session 29: The character of physical law
 
-### Types of Reasoning in Science
+**Readings due:** Feynman, *The Character of Physical Law*.
 
-**Deductive Reasoning:**
-- From general principles to specific predictions
-- Logically certain conclusions from true premises
-- Mathematical proof and logical demonstration
+Deal with [Antigen Invasions](problems/antigen-invasions.md), reconstructed as a record of repeated invasions by foreign substances, and [Martian DNA](problems/martian-dna.md), a picture captioned as Martian hereditary material. "Finish collaborative discovery of The Laws." The syllabus adds: "All GamesWorth books collected for inspection".
 
-**Inductive Reasoning:**
-- From specific observations to general principles
-- Probabilistic conclusions based on evidence
-- Pattern recognition and generalization
+### Session 30: Theory
 
-**Abductive Reasoning:**
-- Inference to the best explanation
-- Creative hypothesis formation
-- Choosing among alternative explanations
+**Readings due:** Judson, Chapter 9: *Theory*.
 
-### Avoiding Common Reasoning Errors
-- **Confirmation bias** - seeking only supporting evidence
-- **Post-hoc reasoning** - confusing correlation with causation
-- **Overgeneralization** - extending conclusions beyond valid scope
-- **False dichotomy** - considering only two alternatives when more exist
-- **Ad-hoc modification** - changing theories to save them from refutation
+Deal with [Bacterial Hybrids](problems/bacterial-hybrids.md): two strains that cannot grow alone give colonies when mixed. It is the last problem in the schedule. The final exam follows in exam week.
 
-## The Role of Prediction
+## Key ideas
 
-### Why Prediction Matters
-- **Tests understanding** - if you truly understand something, you can predict its behavior
-- **Distinguishes theories** - different theories often make different predictions
-- **Guides research** - predictions suggest new experiments and observations
-- **Builds confidence** - successful predictions increase theory credibility
+**Multiple working hypotheses.** Chamberlin, a geologist, traces how a favoured explanation hardens into a ruling theory that bends every new fact to fit. His remedy is to keep several hypotheses alive together, so that fondness for one cannot decide the question. Stalactites and Antigen Invasions both reward writing the whole list before choosing.
 
-### Types of Scientific Predictions
-- **Quantitative** - specific numerical outcomes
-- **Qualitative** - general directions or trends
-- **Existence** - prediction of new phenomena or entities
-- **Conditional** - what will happen under specific circumstances
+**Strong inference.** Platt turns Chamberlin's attitude into a routine: devise alternative hypotheses; devise a crucial experiment whose possible outcomes each exclude one or more of them; run it cleanly; then recycle with whatever survives. A card game or a toy universe is a cheap place to practise the cycle, because a test takes minutes.
 
-## GamesWorth Practice for Theory Building
+**Strong predictions and silent zones.** A useful theory names the outcome before the run, so one run can embarrass it. The FujiYama reconstruction adds the complement: find the cases where your theory predicts nothing, since those are where it cannot be tested.
 
-Focus your daily sessions on:
+**No finite data forces one law.** A class can agree on The Laws and still be wrong about a case its runs never visited, and a series can look settled for a thousand terms. This is session 04's "distinguishing things we know vs only imagine", now applied to theories.
 
-1. **Explanation generation** - practice creating multiple explanations for phenomena
-2. **Prediction derivation** - work out what your explanations predict
-3. **Critical evaluation** - assess strengths and weaknesses of explanations
-4. **Theory integration** - connect explanations to broader principles
-5. **Hypothesis testing** - design ways to test theoretical predictions
-6. **Reflection on reasoning** - analyze your own explanation-building process
+**Where the claim came from.** Martian DNA asks which conclusions came from the picture and which from its caption, the section's version of session 04's "facts before explanations of facts".
 
-## Skills Being Developed
+## GamesWorth focus for this section
 
-### Theoretical Skills
-- **Hypothesis construction** from limited evidence
-- **Logical reasoning** and argument evaluation
-- **Mathematical modeling** of natural phenomena
-- **Analogical thinking** and metaphor construction
+- Before the cantilever theory is worked out, write your wager and the reasoning behind it in the notebook, dated. After session 26, do a morning-after on why it won or lost.
+- For Stalactites, Antigen Invasions and Bacterial Hybrids, list every explanation you can before judging any, then write the one observation that would separate your top two.
+- In the LoShu and toy-universe labs, record each hunch as a testable rule, the test you ran, and whether the rule died.
+- For Summing a Series, note the point where your numbers stopped being evidence and you needed an argument.
+- For Martian DNA, split a page in two: what the picture shows, and what you took from the caption.
 
-### Critical Thinking Skills
-- **Multiple hypothesis** generation and maintenance
-- **Crucial experiment** design
-- **Evidence evaluation** and theory testing
-- **Bias recognition** and objectivity maintenance
+The syllabus explains that the name GamesWorth alludes to "how much thought it takes to play one game of serious chess". Winfree's own puzzles in that spirit are introduced in his [*Adventures in Discovery*](https://web.archive.org/web/20030114041921/http://eebweb.arizona.edu/faculty/winfree/SAS/asdIntro.html){target=_blank} 🔓 column.
 
-### Integration Skills
-- **Synthesis** of diverse observations into coherent explanations
-- **Connection building** between different areas of knowledge
-- **Theory comparison** and evaluation
-- **Collaborative reasoning** and consensus building
+## Readings for this section
 
-## Assessment Focus
+- **T. C. Chamberlin**, *The Method of Multiple Working Hypotheses* (1890; reprinted in *Science*, 1965) (session 25). [Reading list entry](readings.md#chamberlin); [PDF](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓
+- **John R. Platt**, *Strong Inference*, *Science* (1964) (session 27). [Reading list entry](readings.md#platt-strong-inference); [PDF](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓
+- **Horace Freeland Judson**, *The Search for Solutions*, Chapter 7: *Strong Predictions* (session 28). [Reading list entry](readings.md#judson); [Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*
+- **Richard P. Feynman**, *The Character of Physical Law* (1964 Messenger Lectures; MIT Press, 1965) (session 29). [Reading list entry](readings.md#feynman-character-of-physical-law); [lectures at the Internet Archive](https://archive.org/details/the-messenger-lectures){target=_blank} 🔓
+- **Horace Freeland Judson**, *The Search for Solutions*, Chapter 9: *Theory* (session 30). [Reading list entry](readings.md#judson); [Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*
 
-Your work will be evaluated on:
-- **Quality of explanations** you construct
-- **Sophistication of reasoning** in your GamesWorth notebook
-- **Ability to generate testable predictions** from your theories
-- **Effectiveness in collaborative** theory-building exercises
-- **Growth in explanatory power** and theoretical thinking
+## Problems in this section
 
-## Readings and Resources
+| Session | Problem | Kind | What it trains |
+| :-- | :-- | :-- | :-- |
+| 24-26 | [Stacked Cantilevers Lab](problems/stacked-cantilevers-lab.md) | lab | Pooling measurements, placing wagers, then building the theory that settles them |
+| 26 | [Summing a Series](problems/summing-a-series.md) | puzzle | Not trusting the first thousand terms; deciding by argument |
+| 26 | [Stalactites](problems/stalactites.md) | puzzle | Multiple working hypotheses; finding the hidden assumption in an age estimate |
+| 27-28 | [LoShu Lab](problems/loshu-lab.md) | lab | Experiments first, then one theory that explains two different games |
+| 28 | [The Miracle of FujiYama](problems/miracle-of-fujiyama.md) | puzzle | Making a strong prediction and finding where it goes silent (editors' reconstruction) |
+| 28-29 | [Laws of a Toy Universe](problems/laws-of-toy-universe.md) | lab | Inferring hidden laws and designing the experiment that could refute them |
+| 29 | [Antigen Invasions](problems/antigen-invasions.md) | puzzle | Stating rules from a record, inventing rival mechanisms, finding the deciding observation (editors' reconstruction) |
+| 29 | [Martian DNA](problems/martian-dna.md) | puzzle | Separating what the picture shows from what the caption suggests |
+| 30 | [Bacterial Hybrids](problems/bacterial-hybrids.md) | puzzle | Listing every explanation, reading linkage from counts, killing the rival |
 
-- **T.C. Chamberlin**, ["The Method of Multiple Working Hypotheses"](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓 — the classic paper on avoiding theoretical bias
-- **John R. Platt**, ["Strong Inference"](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓 — systematic approach to theory testing
-- **Horace Freeland Judson**, *The Search for Solutions* — Chapter 7 "Strong Predictions" and Chapter 9 "Theory" ([Internet Archive](https://archive.org/details/searchforsolutio00juds){target=_blank} 🔓 *(borrow)*)
-- **Richard P. Feynman**, ["The Character of Physical Law"](https://archive.org/details/the-messenger-lectures){target=_blank} 🔓 — insights into theoretical reasoning
-
-See the full [Recommended Readings](readings.md) for complete citations.
-
-## Culminating Experience
-
-This section concludes with comprehensive exercises that integrate all course skills:
-- **Complex problem-solving** requiring multiple approaches
-- **Theory construction** and testing
-- **Collaborative discovery** of fundamental principles
-- **Reflection on learning** and skill development throughout the course
-
-## Problem Sources
-
-- **Multiple Working Hypotheses (Chamberlin Method)** — T.C. Chamberlin, ["The Method of Multiple Working Hypotheses"](https://www.whoi.edu/cms/files/chamberlin65sci_72744.pdf){target=_blank} 🔓 (1890)
-- **Strong Inference (Platt Method)** — John R. Platt, ["Strong Inference"](https://www.whoi.edu/cms/files/platt64sci_72743.pdf){target=_blank} 🔓 (*Science*, 1964)
-- **Stacked Cantilevers Laboratory** — the block-stacking / maximum-overhang problem; Paterson, Peres, Thorup, Winkler & Zwick, ["Maximum Overhang"](https://arxiv.org/abs/0707.0093){target=_blank} 🔓 (2009)
-- **LoShu (Magic Squares)** — the [Lo Shu square](https://en.wikipedia.org/wiki/Luoshu_Square){target=_blank} 🔓, the unique order-3 magic square
-- **Laws of Toy Universe Discovery** — original Winfree inductive-discovery lab (no external source)
-- **The Miracle of FujiYama** — original course puzzle (no published external source identified)
-- **Antigen Invasions** — original Winfree dynamic-systems modeling exercise (no external source)
-- **Martian DNA** — original Winfree astrobiology thought experiment (no external source)
-- **Bacterial Hybrids** — original Winfree genetics inference problem (no external source)
+See the [problem index](problems/index.md) for every problem in the course.
 
 ---
 
-*The goal is to develop the ability to construct explanations that not only make sense of what you've observed, but also predict what you haven't yet seen - the hallmark of genuine scientific understanding.*
+*At the final exam you choose problems and "exhibit as many distinct approaches as you can, and as many cross-checking distinct solutions as you can."*

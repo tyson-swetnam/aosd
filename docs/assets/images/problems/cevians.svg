@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 500" width="820" height="500" role="img" aria-labelledby="t d">
+  <title id="t">Three cevians to the one-third points of a triangle</title>
+  <desc id="d">Triangle ABC with each side divided into thirds by tick marks. D is one-third of the way from B to C, E one-third of the way from C to A, F one-third of the way from A to B. The segments AD, BE and CF cross and enclose a small shaded central triangle.</desc>
+  <rect x="0" y="0" width="820" height="500" fill="#ffffff"/>
+
+  <!-- outer triangle A(60,440) B(740,440) C(260,50) -->
+  <polygon points="60,440 740,440 260,50" fill="#ffffff" stroke="#1f2937" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- central triangle enclosed by the cevians: P = AD x CF, Q = AD x BE, R = BE x CF -->
+  <polygon points="282.86,384.29 505.71,328.57 271.43,217.14" fill="#e5e7eb" stroke="none"/>
+
+  <!-- tick marks dividing each side into thirds -->
+  <g stroke="#1f2937" stroke-width="2.5" stroke-linecap="round">
+    <line x1="286.67" y1="430" x2="286.67" y2="450"/>
+    <line x1="513.33" y1="430" x2="513.33" y2="450"/>
+    <line x1="573.69" y1="317.76" x2="586.31" y2="302.24"/>
+    <line x1="413.69" y1="187.76" x2="426.31" y2="172.24"/>
+    <line x1="184.43" y1="175.44" x2="202.23" y2="184.56"/>
+    <line x1="117.77" y1="305.44" x2="135.57" y2="314.56"/>
+  </g>
+
+  <!-- cevians AD, BE, CF -->
+  <g stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round">
+    <line x1="60" y1="440" x2="580" y2="310"/>
+    <line x1="740" y1="440" x2="193.33" y2="180"/>
+    <line x1="260" y1="50" x2="286.67" y2="440"/>
+  </g>
+
+  <!-- the one-third points -->
+  <g fill="#b91c1c">
+    <circle cx="580" cy="310" r="6"/>
+    <circle cx="193.33" cy="180" r="6"/>
+    <circle cx="286.67" cy="440" r="6"/>
+  </g>
+
+  <!-- vertex labels -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#1f2937">
+    <text x="48" y="474" text-anchor="end">A</text>
+    <text x="752" y="474" text-anchor="start">B</text>
+    <text x="260" y="36" text-anchor="middle">C</text>
+  </g>
+  <!-- one-third point labels -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#b91c1c">
+    <text x="600" y="296" text-anchor="start">D</text>
+    <text x="172" y="168" text-anchor="end">E</text>
+    <text x="286.67" y="478" text-anchor="middle">F</text>
+  </g>
+  <!-- note on the marks -->
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">
+    <text x="560" y="120" text-anchor="middle">Ticks divide each side</text>
+    <text x="560" y="146" text-anchor="middle">into three equal parts</text>
+  </g>
+</svg>

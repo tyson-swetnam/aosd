@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440" role="img" aria-labelledby="t d">
+<title id="t">Three plates of bare medium</title>
+<desc id="d">Strain A alone: no growth. Strain B alone: no growth. A and B mixed: scattered colonies.</desc>
+<rect x="0" y="0" width="800" height="440" fill="#ffffff"/>
+<text x="400.0" y="48" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" fill="#4b5563">bare medium: neither strain alone can grow on it</text>
+<circle cx="150" cy="205" r="110" fill="#e5e7eb" stroke="#1f2937" stroke-width="3"/>
+<circle cx="150" cy="205" r="100" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+<text x="150" y="358" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">strain A alone</text>
+<text x="150" y="388" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">2 billion cells</text>
+<text x="150" y="415" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">nothing grows</text>
+<circle cx="400" cy="205" r="110" fill="#e5e7eb" stroke="#1f2937" stroke-width="3"/>
+<circle cx="400" cy="205" r="100" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+<text x="400" y="358" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">strain B alone</text>
+<text x="400" y="388" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">2 billion cells</text>
+<text x="400" y="415" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">nothing grows</text>
+<circle cx="650" cy="205" r="110" fill="#e5e7eb" stroke="#1f2937" stroke-width="3"/>
+<circle cx="650" cy="205" r="100" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+<circle cx="598" cy="157" r="6" fill="#b91c1c"/>
+<circle cx="642" cy="135" r="5" fill="#b91c1c"/>
+<circle cx="688" cy="164" r="7" fill="#b91c1c"/>
+<circle cx="714" cy="197" r="5" fill="#b91c1c"/>
+<circle cx="579" cy="211" r="5" fill="#b91c1c"/>
+<circle cx="620" cy="193" r="6" fill="#b91c1c"/>
+<circle cx="665" cy="217" r="5" fill="#b91c1c"/>
+<circle cx="700" cy="249" r="6" fill="#b91c1c"/>
+<circle cx="603" cy="255" r="7" fill="#b91c1c"/>
+<circle cx="652" cy="268" r="5" fill="#b91c1c"/>
+<circle cx="638" cy="237" r="4" fill="#b91c1c"/>
+<circle cx="674" cy="189" r="4" fill="#b91c1c"/>
+<circle cx="626" cy="147" r="4" fill="#b91c1c"/>
+<circle cx="720" cy="230" r="4" fill="#b91c1c"/>
+<text x="650" y="358" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">A and B mixed</text>
+<text x="650" y="388" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2937">2 billion of each</text>
+<text x="650" y="415" text-anchor="middle" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#b91c1c">312 colonies</text>
+</svg>

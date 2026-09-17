@@ -1,145 +1,129 @@
+---
+title: "Section 2: Creative Blocks"
+description: "Sessions 7 to 12 of Winfree's course: Adams's perceptual, emotional, cultural and intellectual blocks and his blockbusters, practised on trap puzzles, a cross-checking exercise and the start of an outdoor lab, with the readings each session assigns."
+type: Lesson
+tags: [course, student-facing, section-2, creative-blocks, conceptual-blockbusting]
+status: stable
+generated:
+  by: "claude/opus-5"
+  at: "2026-09-16T00:00:00Z"
+sources:
+  - id: winfree-handout
+    resource: "https://web.archive.org/web/20070214070741/http://eebweb.arizona.edu/faculty/winfree/Handout_479.htm"
+    title: "The Art of Scientific Discovery (EEB 479): course handout, Web Archive capture of 2007-02-14"
+    author: "Arthur T. Winfree"
+  - id: aosd-syllabus
+    resource: "https://github.com/tyson-swetnam/aosd/blob/main/docs/assets/aosd_syllabus.pdf"
+    title: "The Art of Scientific Discovery: original course syllabus (PDF)"
+    author: "Arthur T. Winfree"
+---
+
 # Section 2: Creative Blocks
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-*Six sessions of identifying and overcoming barriers to creative thinking*
+*Six sessions on the blocks that stop ideas before they start*
 
 ## Overview
 
-This section explores the various mental barriers that prevent us from solving problems creatively. Drawing heavily from James Adams' work on "Conceptual Blockbusting," you'll learn to identify and overcome the blocks that limit your problem-solving effectiveness.
+Section 2, which the [syllabus](syllabus.md) calls simply "Creative Blocks", asks why good ideas fail to arrive at all. Its backbone is James Adams's *Conceptual Blockbusting*, one of the course's two required books. Sessions 7 to 10 take his chapters on perceptual, emotional, cultural and intellectual blocks in turn; session 11 takes his chapter on blockbusters.
 
-## The Four Types of Creative Blocks
+Some people suppose problem-solving cannot be taught: you are born with the ability or you are not. Winfree disagreed: "I think we are all born with it and mostly lose it during and because of schooling and the general intimidation that comes with any competitive society." A block is one form that loss takes.
 
-### 1. Perceptual Blocks
-**What they are:** Obstacles that prevent you from clearly perceiving the problem or information needed to solve it.
+Several puzzles here are traps whose obstacle is a rule you added yourself. Getting stuck is part of the design: the course aims for a feeling of "disorientation and hopeless lost-ness", Winfree wrote, so that you "learn not to despair in paralysis but instead focus on method, generate several alternative guesses, and test them for workability." The section ends with an exercise in cross-checking and the start of an outdoor lab that leads into Section 3.
 
-**Examples:**
-- Difficulty isolating the problem
-- Inability to see the problem from various viewpoints
-- Stereotyping and labeling that limits perception
-- Saturation or information overload
+## The sessions
 
-**Practice exercises:**
-- Weird Organism problem
-- Rearranged Triangle challenge
+### Session 07: Perceptual blocks
 
-### 2. Emotional Blocks
-**What they are:** Feelings and attitudes that interfere with your ability to solve problems.
+**Readings due:** Adams Chapter 2: Perceptual blocks.
 
-**Examples:**
-- Fear of taking risks or making mistakes
-- Inability to tolerate ambiguity
-- Preference for judging rather than generating ideas
-- Lack of appetite for chaos during problem-solving
+Discuss [Weird Organism](problems/weird-organism.md), reconstructed as a familiar organism described so plainly that a stereotype hides it. Discuss [Rearranged Triangle](problems/rearranged-triangle.md): the same four pieces fill a triangle, then leave one square over. Start the [Dominoes (group lab)](problems/dominoes-lab.md), reconstructed as the cut-chessboard puzzle done with plain blocks.
 
-**Key insight:** Learning to be comfortable with not knowing the answer immediately.
+### Session 08: Emotional blocks
 
-### 3. Cultural Blocks
-**What they are:** Social and cultural constraints that limit the range of solutions you consider.
+**Readings due:** [The Barometer Story](problems/barometer-story.md) (Calandra) and Adams Chapter 3: Emotional blocks.
 
-**Examples:**
-- Taboos against questioning certain assumptions
-- Fantasy and reflection are a waste of time
-- Reason and logic are good; intuition and feelings are bad
-- Tradition is preferable to change
+Discuss [Telltale Number](problems/telltale-number.md), a ten-digit number that describes itself. Then "About assumptions and [Tying Knots](problems/tying-knots.md)". The puzzle as reconstructed: tie a knot in a rope while holding one end in each hand, without letting go.
 
-**Practice focus:** Breaking free from "that's not how we do things" thinking.
+### Session 09: Cultural blocks
 
-### 4. Intellectual Blocks
-**What they are:** Limitations in your thinking strategies and problem-solving approaches.
+**Readings due:** Adams Chapter 4: Cultural blocks; Platt, *Diversity*.
 
-**Examples:**
-- Lack of intellectual flexibility
-- Poor use of problem-solving strategies
-- Inadequate information or incorrect use of information
-- Inflexible use of intellectual problem-solving strategies
+Discuss [Mercury's Mysterious Hidden Hemisphere](problems/mercurys-hidden-hemisphere.md): a "fact" repeated in textbooks for 75 years until radar tested it in 1965.
 
-## Key Learning Activities
+### Session 10: Intellectual blocks
 
-### The Barometer Story
-A classic example demonstrating multiple creative solutions to a single problem, showing how breaking free from conventional thinking opens up numerous possibilities.
+**Readings due:** Adams Chapter 5: Intellectual blocks.
 
-### Group Laboratory Exercises
-- **Dominoes Lab:** Collaborative problem-solving requiring diverse approaches
-- **Collective Reproduction:** Large-group data collection and pattern recognition
+[Taboo Questions](problems/taboo-questions.md): the questions a scientist is not supposed to ask. [Paths Through Mazes](problems/paths-through-mazes.md): count the ways to read ABRACADABRA down a diamond of letters, then check the count another way.
 
-### Individual Challenges
-- **Telltale Number:** Practice in questioning assumptions
-- **Mercury's Hidden Hemisphere:** Breaking through perceptual limitations
-- **Walking Through Walls:** Metaphorical thinking and creative reframing
+### Session 11: Blockbusters
 
-## The Blockbusting Toolkit
+**Readings due:** Adams Chapter 7: Blockbusters.
 
-### Techniques for Breaking Perceptual Blocks
-- Change your viewpoint
-- Question boundaries and constraints
-- Use all your senses
-- Look for patterns and relationships
+[Walking Through Walls](problems/walking-through-walls.md), the only problem listed that day: a drill in restating the problem before solving it.
 
-### Techniques for Breaking Emotional Blocks
-- Cultivate a playful attitude
-- Practice tolerance for ambiguity
-- Separate idea generation from idea evaluation
-- Build confidence through small successes
+### Session 12: Cross-checks and unfashionable pursuits
 
-### Techniques for Breaking Cultural Blocks
-- Question "obvious" assumptions
-- Seek input from diverse perspectives
-- Challenge traditional approaches
-- Practice thinking like an outsider
+**Readings due:** Dyson, *Unfashionable Pursuits*; a one-page biography of Mario Capecchi; Narlikar on venture funding.
 
-### Techniques for Breaking Intellectual Blocks
-- Learn multiple problem-solving strategies
-- Practice switching between approaches
-- Seek sufficient information before concluding
-- Develop intellectual flexibility
+[Sums of Integers](problems/sums-of-integers.md): "like a jig-saw puzzle of cross-checks". Find the formula for 1 + 2 + ... + *n* by as many independent routes as you can. Then the [Pedestrian Crosswalk Mystery](problems/pedestrian-crosswalk-mystery.md) (lab), reconstructed as a group log of a real street crossing. It begins here and continues in session 13, the first of [Section 3](section3.md), where the class discusses its "observations outdoors"; it is listed with that section's problems.
 
-## The Role of Collaboration
+## Key ideas
 
-This section emphasizes that creative thinking benefits from:
+### Adams's four kinds of block
 
-- **Diverse perspectives** from classmates with different backgrounds
-- **Safe environments** for sharing "wild" ideas
-- **Constructive criticism** that builds rather than destroys
-- **Group brainstorming** sessions with specific rules and structures
+- **Perceptual blocks** stop you seeing the problem, or the information that would solve it: seeing what you expect (stereotyping), drawing the problem's boundaries too tightly, never changing viewpoint. Rearranged Triangle and Weird Organism are built to be misperceived.
+- **Emotional blocks** include fear of looking foolish, dislike of ambiguity, and judging ideas before you have finished producing them. The syllabus asks for the opposite in class: "braving social opprobrium by blurting out nutty ideas, and risking devastating counter-attack by publicly objecting to nonsense blurted by others."
+- **Cultural blocks** come from the society around you: taboos, the belief that play wastes time, the belief that tradition beats change. A claim every textbook repeats, like Mercury's frozen hemisphere, is hard to question.
+- **Intellectual blocks** are about your tools: thinking in words when the problem needs a sketch or a count, reusing the same few strategies, working with missing or wrong information. Paths Through Mazes rewards whoever stops listing paths one by one.
 
-## GamesWorth Practice for This Section
+### Hidden rules and restated problems
 
-Focus your daily practice sessions on:
+Several of these puzzles cannot be solved until you notice a rule you invented. Tying Knots seems impossible because of how you pick up the rope. Telltale Number collapses once you notice a fact the puzzle never states. In The Barometer Story, an instructor wanted to give zero to a correct answer that was not the one he had in mind. Each time, list the rules you are obeying and check which were actually given. Walking Through Walls, set for the blockbusters session and built on Adams's door example, attacks the same trap from the other side: ask for "a better door" and you get a better slab on hinges; ask for a better way through a wall and the answers multiply.
 
-1. **Identifying your personal blocks** through self-observation
-2. **Experimenting with unfamiliar approaches** to familiar problems
-3. **Practicing idea generation** separate from idea evaluation
-4. **Documenting breakthrough moments** when blocks are overcome
-5. **Building tolerance** for confusion and ambiguity
+### Cross-checks and unusual routes
 
-## Assessment and Reflection
+One derivation is only a claim; several independent routes that agree, "like a jig-saw puzzle of cross-checks", are evidence. The final exam asks for exactly this: "exhibit as many distinct approaches as you can, and as many cross-checking distinct solutions as you can." The session 12 readings push from another direction: Dyson on unfashionable pursuits and Narlikar on venture funding both concern the value of a route few others are taking.
 
-Your work will be evaluated on:
+## GamesWorth focus for this section
 
-- **Recognition of your own blocking patterns**
-- **Willingness to try unconventional approaches**
-- **Quality of collaborative contributions**
-- **Documentation of creative breakthroughs**
-- **Growth in flexibility and openness**
+- Before you try Tying Knots, Telltale Number or Rearranged Triangle, write down every rule you think you must obey. Afterwards, mark which rules were really stated.
+- When stuck, name the block: perceptual, emotional, cultural or intellectual. Tally which one catches you most often.
+- Solve Paths Through Mazes and Sums of Integers at least two independent ways, and record where the routes agree or expose a mistake.
+- For Walking Through Walls, write three ever-broader restatements of the problem, and list every idea for each before judging any of them.
+- In a morning-after entry on a left-hand page, ask which block slowed you down on a Section 1 problem you struggled with.
+- At the crosswalk, write down what happens before you try to explain it.
 
-## Resources and Readings
+Winfree's later *Adventures in Discovery* columns ([introduction, archived](https://web.archive.org/web/20030114041921/http://eebweb.arizona.edu/faculty/winfree/SAS/asdIntro.html){target=_blank} 🔓) collect puzzles he worked through as his own daily GamesWorths. See also the [GamesWorth page](gamesworth.md).
 
-- **James L. Adams**, *Conceptual Blockbusting* — Chapters 2–5 (Perceptual, Emotional, Cultural, Intellectual blocks) and Chapter 7 (Blockbusters) ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
-- **John R. Platt**, ["Diversity"](https://doi.org/10.1126/science.154.3753.1132){target=_blank} 🔒 — the value of multiple approaches
+## Readings for this section
 
-See the full [Recommended Readings](readings.md) for complete citations.
+- **James L. Adams**, *Conceptual Blockbusting: A Guide to Better Ideas*, Chapter 2: Perceptual blocks (session 7), Chapter 3: Emotional blocks (session 8), Chapter 4: Cultural blocks (session 9), Chapter 5: Intellectual blocks (session 10) and Chapter 7: Blockbusters (session 11). [Reading list entry](readings.md#adams); [publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒; 1980 second edition at the [Internet Archive](https://archive.org/details/conceptualblockb0000adam){target=_blank} 🔓 *(borrow)*. Chapter numbers may differ slightly between editions.
+- **Alexander Calandra**, *The Barometer Story* ("Angels on the Head of a Pin"), *Saturday Review*, 21 December 1968 (session 8). [Reading list entry](readings.md#barometer-story); [text](https://www.stephenhicks.org/2022/07/10/angels-on-the-head-of-a-pin-by-alexander-calandra/){target=_blank} 🔓
+- **John R. Platt**, *Diversity*, *Science* 154, 1132-1139 (1966) (session 9). [Reading list entry](readings.md#platt-diversity); [Science](https://doi.org/10.1126/science.154.3753.1132){target=_blank} 🔒
+- **Freeman Dyson**, *Unfashionable Pursuits*, *The Mathematical Intelligencer* 5(3), 47-54 (1983) (session 12). [Reading list entry](readings.md#dyson); [journal](https://doi.org/10.1007/BF03026573){target=_blank} 🔒
+- **Capecchi one-page biography** (session 12). The syllabus does not say which one. [Reading list entry](readings.md#capecchi); Capecchi's later [Nobel Prize autobiography](https://www.nobelprize.org/prizes/medicine/2007/capecchi/biographical/){target=_blank} 🔓 (2007) is a free account of his life.
+- **Jayant V. Narlikar**, *Venture funding for new ideas*, *Nature* 404, 707 (2000) (session 12). [Reading list entry](readings.md#narlikar); [Nature](https://doi.org/10.1038/35008158){target=_blank} 🔒
 
-## Problem Sources
+## Problems in this section
 
-- **Weird Organism** — a perceptual-block exercise in the spirit of Adams' *Conceptual Blockbusting* ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
-- **Rearranged Triangle** — the [missing-square paradox](https://en.wikipedia.org/wiki/Missing_square_puzzle){target=_blank} 🔓 (Martin Gardner, *Mathematics, Magic and Mystery*, 1956)
-- **The Barometer Story** — Alexander Calandra, ["Angels on the Head of a Pin"](https://www.stephenhicks.org/2022/07/10/angels-on-the-head-of-a-pin-by-alexander-calandra/){target=_blank} 🔓 (*Saturday Review*, 1968)
-- **Dominoes Lab** — the mutilated-chessboard problem; Max Black, [*Critical Thinking*](https://archive.org/details/criticalthinking0000maxb){target=_blank} 🔓 *(borrow)* (1946)
-- **Collective Reproduction** — original Winfree group lab (no external source)
-- **Telltale Number** — an assumption-questioning exercise from Adams' *Conceptual Blockbusting* ([publisher](https://www.hachettebookgroup.com/titles/james-l-adams/conceptual-blockbusting/9781541674059/?lens=basic-books){target=_blank} 🔒)
-- **Mercury's Hidden Hemisphere** — the pre-1965 belief that Mercury kept one face to the Sun, overturned by radar; see [Mercury (planet)](https://en.wikipedia.org/wiki/Mercury_%28planet%29){target=_blank} 🔓 (Pettengill & Dyce, *Nature* 206, 1240, 1965 🔒)
-- **Walking Through Walls** — original Winfree creative-reframing exercise (no external source)
+| Session | Problem | Kind | What it trains |
+| :-- | :-- | :-- | :-- |
+| 07 | [Weird Organism](problems/weird-organism.md) | puzzle | Seeing past a stereotype (editors' reconstruction) |
+| 07 | [Rearranged Triangle](problems/rearranged-triangle.md) | puzzle | Distrusting what the eye reports |
+| 07 | [Dominoes (group lab)](problems/dominoes-lab.md) | lab | Pooling failed attempts until the reason for failure shows (editors' reconstruction) |
+| 08 | [The Barometer Story](problems/barometer-story.md) | case study | Noticing the unstated expectation behind a question |
+| 08 | [Telltale Number](problems/telltale-number.md) | puzzle | Finding the fact a puzzle never states |
+| 08 | [Tying Knots](problems/tying-knots.md) | puzzle | Separating the rules given from the rules assumed |
+| 09 | [Mercury's Mysterious Hidden Hemisphere](problems/mercurys-hidden-hemisphere.md) | case study | Questioning what every textbook repeats |
+| 10 | [Taboo Questions](problems/taboo-questions.md) | discussion | Asking the question you were not supposed to ask |
+| 10 | [Paths Through Mazes](problems/paths-through-mazes.md) | puzzle | Changing strategy, and checking a count a second way |
+| 11 | [Walking Through Walls](problems/walking-through-walls.md) | thought experiment | Restating the problem before solving it |
+| 12 | [Sums of Integers](problems/sums-of-integers.md) | puzzle | Independent derivations that check one another |
+
+See the [problem index](problems/index.md) for every problem in the course.
 
 ---
 

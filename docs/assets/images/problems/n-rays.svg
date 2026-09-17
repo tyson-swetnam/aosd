@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-labelledby="title desc">
+  <title id="title">Blondlot's N-ray spectroscope</title>
+  <desc id="desc">Top view, left to right: a Nernst lamp in an iron box with an aluminium window sends invisible rays through a slit in wet cardboard to an aluminium prism, drawn dashed in red because Wood secretly removed it, and on to a card with a phosphorescent line that moves on a graduated screw, read by an observer in a dark room.</desc>
+  <rect x="0" y="0" width="900" height="440" fill="#ffffff"/>
+  <g font-family="Montserrat, Helvetica, Arial, sans-serif" fill="#1f2937">
+
+    <!-- 1. Lamp in iron box -->
+    <rect x="40" y="130" width="110" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="3"/>
+    <!-- aluminium window: a gap in the right wall -->
+    <rect x="146" y="163" width="8" height="34" fill="#ffffff" stroke="none"/>
+    <line x1="150" y1="163" x2="150" y2="197" stroke="#9ca3af" stroke-width="2"/>
+    <!-- Nernst lamp filament -->
+    <circle cx="95" cy="180" r="9" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+    <line x1="88" y1="180" x2="102" y2="180" stroke="#1f2937" stroke-width="2"/>
+    <text x="95" y="262" font-size="20" text-anchor="middle">Nernst lamp</text>
+    <text x="95" y="286" font-size="20" text-anchor="middle">in iron box</text>
+    <text x="150" y="118" font-size="20" text-anchor="middle">Al window</text>
+
+    <!-- 2. Invisible ray bundle -->
+    <g stroke="#1f2937" stroke-width="2" stroke-dasharray="8 6">
+      <line x1="154" y1="170" x2="326" y2="170"/>
+      <line x1="154" y1="180" x2="326" y2="180"/>
+      <line x1="154" y1="190" x2="326" y2="190"/>
+    </g>
+    <text x="240" y="152" font-size="20" text-anchor="middle">invisible rays</text>
+
+    <!-- 3. Slit in wet cardboard -->
+    <rect x="325" y="110" width="10" height="58" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <rect x="325" y="192" width="10" height="58" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <text x="330" y="52" font-size="20" text-anchor="middle">slit in wet cardboard</text>
+    <text x="330" y="76" font-size="20" text-anchor="middle">(2–3 mm wide)</text>
+
+    <!-- rays from slit to prism -->
+    <g stroke="#1f2937" stroke-width="2" stroke-dasharray="8 6">
+      <line x1="335" y1="170" x2="417" y2="170"/>
+      <line x1="335" y1="180" x2="411" y2="180"/>
+      <line x1="335" y1="190" x2="405" y2="190"/>
+      <!-- inside the prism -->
+      <line x1="417" y1="170" x2="452" y2="185"/>
+      <line x1="411" y1="180" x2="458" y2="195"/>
+      <line x1="405" y1="190" x2="464" y2="205"/>
+      <!-- deviated bundle fanning to the card -->
+      <line x1="452" y1="185" x2="648" y2="205"/>
+      <line x1="458" y1="195" x2="648" y2="228"/>
+      <line x1="464" y1="205" x2="648" y2="251"/>
+    </g>
+
+    <!-- 4. Aluminium prism, dashed accent: removed by Wood -->
+    <polygon points="430,147 475,225 385,225" fill="none" stroke="#b91c1c" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="430" y="130" font-size="20" text-anchor="middle">aluminium prism</text>
+    <text x="430" y="272" font-size="20" text-anchor="middle" fill="#b91c1c">removed by Wood in the dark:</text>
+    <text x="430" y="296" font-size="20" text-anchor="middle" fill="#b91c1c">readings unchanged</text>
+
+    <!-- 6. Card with phosphorescent line on a vertical screw -->
+    <line x1="655" y1="150" x2="655" y2="304" stroke="#1f2937" stroke-width="2"/>
+    <g stroke="#1f2937" stroke-width="2">
+      <line x1="650" y1="158" x2="660" y2="162"/>
+      <line x1="650" y1="170" x2="660" y2="174"/>
+      <line x1="650" y1="182" x2="660" y2="186"/>
+      <line x1="650" y1="278" x2="660" y2="282"/>
+      <line x1="650" y1="290" x2="660" y2="294"/>
+    </g>
+    <rect x="648" y="192" width="14" height="76" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+    <line x1="650" y1="228" x2="660" y2="228" stroke="#1f2937" stroke-width="3"/>
+    <circle cx="655" cy="318" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <line x1="655" y1="304" x2="655" y2="332" stroke="#1f2937" stroke-width="2"/>
+    <line x1="641" y1="318" x2="669" y2="318" stroke="#1f2937" stroke-width="2"/>
+    <text x="655" y="110" font-size="20" text-anchor="middle">card with phosphorescent</text>
+    <text x="655" y="134" font-size="20" text-anchor="middle">line (0.5 mm)</text>
+    <text x="655" y="362" font-size="20" text-anchor="middle">graduated screw wheel:</text>
+    <text x="655" y="386" font-size="20" text-anchor="middle">claimed sensitivity 0.1 mm</text>
+
+    <!-- 7. Observer eye -->
+    <path d="M 770 228 Q 800 200 830 228 Q 800 256 770 228 Z" fill="#ffffff" stroke="#1f2937" stroke-width="2.5"/>
+    <circle cx="800" cy="228" r="9" fill="#1f2937"/>
+    <circle cx="800" cy="228" r="3" fill="#ffffff"/>
+    <text x="800" y="286" font-size="20" text-anchor="middle">observer</text>
+    <text x="800" y="310" font-size="20" text-anchor="middle">(dark room)</text>
+
+    <!-- footer -->
+    <text x="450" y="424" font-size="20" text-anchor="middle">After Blondlot (1905) and R. W. Wood (Nature, 1904)</text>
+  </g>
+</svg>

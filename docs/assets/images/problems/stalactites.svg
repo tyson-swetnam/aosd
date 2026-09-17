@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="Montserrat, Helvetica, Arial, sans-serif">
+<title>Cross-section of a stalactite, the drip, and the stalagmite beneath it, with an inset of the young soda-straw stage</title>
+<rect x="0" y="0" width="800" height="600" fill="#ffffff"/>
+<defs><pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="#e5e7eb"/><line x1="0" y1="0" x2="0" y2="14" stroke="#9ca3af" stroke-width="2"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b91c1c"/></marker></defs>
+<rect x="0" y="0" width="800" height="60" fill="url(#hatch)"/><line x1="0" y1="60" x2="800" y2="60" stroke="#1f2937" stroke-width="3"/>
+<rect x="0" y="540" width="800" height="60" fill="url(#hatch)"/><line x1="0" y1="540" x2="800" y2="540" stroke="#1f2937" stroke-width="3"/>
+<rect x="628" y="16" width="160" height="34" rx="4" fill="#ffffff" opacity="0.9"/><text x="708" y="41" text-anchor="middle" font-size="22" fill="#1f2937">cave ceiling</text>
+<rect x="642" y="552" width="146" height="34" rx="4" fill="#ffffff" opacity="0.9"/><text x="715" y="577" text-anchor="middle" font-size="22" fill="#1f2937">cave floor</text>
+<path d="M340,60 L394,60 L394,300 L391,300 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M460,60 L406,60 L406,300 L409,300 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="350.8" y1="60" x2="393" y2="288" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="449.2" y1="60" x2="407" y2="288" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="361.6" y1="60" x2="393" y2="276" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="438.4" y1="60" x2="407" y2="276" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="372.4" y1="60" x2="393" y2="264" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="427.6" y1="60" x2="407" y2="264" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="383.2" y1="60" x2="393" y2="252" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="416.8" y1="60" x2="407" y2="252" stroke="#6b7280" stroke-width="1.5"/>
+<path d="M391,300 C378,314 380,338 400,338 C420,338 422,314 409,300 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="415" y1="310" x2="436" y2="296" stroke="#b91c1c" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="420" y1="324" x2="442" y2="324" stroke="#b91c1c" stroke-width="3" marker-end="url(#ah)"/>
+<line x1="384" y1="312" x2="362" y2="298" stroke="#b91c1c" stroke-width="3" marker-end="url(#ah)"/>
+<text x="450" y="332" font-size="22" font-weight="700" fill="#b91c1c">CO<tspan font-size="15" dy="5">2</tspan><tspan dy="-5"> escapes</tspan></text>
+<line x1="400" y1="350" x2="400" y2="472" stroke="#1f2937" stroke-width="2" stroke-dasharray="6 6"/>
+<path d="M400,380 C404,388 407,392 407,395 A7,7 0 0 1 393,395 C393,392 396,388 400,380 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<path d="M400,424 C404,432 407,436 407,439 A7,7 0 0 1 393,439 C393,436 396,432 400,424 Z" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<text x="416" y="422" font-size="22" fill="#1f2937">drip</text>
+<path d="M320,540 C330,500 370,480 400,480 C430,480 470,500 480,540 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M334.0,540 C342.2,506.7 375.2,490 400,490 C424.8,490 457.8,506.7 466.0,540" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+<path d="M348.0,540 C354.5,513.3 380.5,500 400,500 C419.5,500 445.5,513.3 452.0,540" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+<path d="M362.0,540 C366.8,520.0 385.8,510 400,510 C414.2,510 433.2,520.0 438.0,540" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+<path d="M376.0,540 C379.0,526.7 391.0,520 400,520 C409.0,520 421.0,526.7 424.0,540" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+<line x1="506" y1="146" x2="436" y2="146" stroke="#1f2937" stroke-width="2"/>
+<circle cx="436" cy="146" r="4" fill="#1f2937"/>
+<text x="512" y="142" font-size="24" font-weight="700" fill="#1f2937">stalactite</text>
+<text x="512" y="170" font-size="22" fill="#1f2937">cone tapering to a tip</text>
+<line x1="506" y1="478" x2="446" y2="514" stroke="#1f2937" stroke-width="2"/>
+<circle cx="446" cy="514" r="4" fill="#1f2937"/>
+<text x="512" y="474" font-size="24" font-weight="700" fill="#1f2937">stalagmite</text>
+<text x="512" y="502" font-size="22" fill="#1f2937">no canal, rounded top</text>
+<line x1="316" y1="112" x2="366" y2="112" stroke="#1f2937" stroke-width="2"/>
+<circle cx="366" cy="112" r="4" fill="#1f2937"/>
+<text x="308" y="119" text-anchor="end" font-size="22" fill="#1f2937">growth layers</text>
+<line x1="316" y1="210" x2="400" y2="210" stroke="#1f2937" stroke-width="2"/>
+<circle cx="400" cy="210" r="4" fill="#1f2937"/>
+<text x="308" y="217" text-anchor="end" font-size="22" fill="#1f2937">hollow canal</text>
+<rect x="30" y="290" width="240" height="236" rx="8" fill="#f3f4f6" stroke="#1f2937" stroke-width="2"/>
+<text x="150" y="318" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">young: soda straw</text>
+<rect x="50" y="332" width="200" height="10" fill="url(#hatch)"/><line x1="50" y1="342" x2="250" y2="342" stroke="#1f2937" stroke-width="2.5"/>
+<rect x="139" y="342" width="6" height="80" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+<rect x="155" y="342" width="6" height="80" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+<path d="M139,424 C134,434 136,452 150,452 C164,452 166,434 161,424 Z" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+<ellipse cx="150" cy="423" rx="13" ry="4" fill="none" stroke="#b91c1c" stroke-width="3.5"/>
+<line x1="196" y1="410" x2="168" y2="421" stroke="#b91c1c" stroke-width="3" marker-end="url(#ah)"/>
+<text x="202" y="410" font-size="20" font-weight="700" fill="#b91c1c">ring</text>
+<text x="150" y="484" text-anchor="middle" font-size="20" fill="#1f2937">each drop leaves</text>
+<text x="150" y="508" text-anchor="middle" font-size="20" fill="#1f2937">a ring at its rim</text>
+</svg>

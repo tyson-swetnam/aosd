@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img">
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+  <text x="50" y="58" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2937">The cut board</text>
+  <text x="450" y="58" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2937">One plain block</text>
+  <g>
+    <rect x="90" y="96" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="96" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="96" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="96" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="96" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="96" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="96" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="136" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="136" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="136" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="136" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="136" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="136" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="136" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="136" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="176" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="176" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="176" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="176" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="176" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="176" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="176" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="176" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="216" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="216" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="216" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="216" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="216" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="216" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="216" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="216" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="256" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="256" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="256" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="256" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="256" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="256" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="256" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="256" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="296" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="296" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="296" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="296" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="296" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="296" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="296" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="296" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="336" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="336" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="336" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="336" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="336" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="336" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="336" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="330" y="336" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="376" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="90" y="376" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="130" y="376" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="170" y="376" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="376" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="376" width="40" height="40" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="290" y="376" width="40" height="40" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+  <rect x="50" y="96" width="320" height="320" fill="none" stroke="#1f2937" stroke-width="3"/>
+    <rect x="50" y="96" width="40" height="40" fill="#ffffff" stroke="#b91c1c" stroke-width="3" stroke-dasharray="6 5"/>
+    <rect x="330" y="376" width="40" height="40" fill="#ffffff" stroke="#b91c1c" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="50" y="452" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">8 x 8 board, two opposite</text>
+  <text x="50" y="478" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">corners cut away (dashed).</text>
+  <rect x="470" y="152" width="80" height="40" rx="4" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <text x="450" y="262" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">A block covers two squares</text>
+  <text x="450" y="288" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">that sit side by side.</text>
+  <text x="450" y="348" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#b91c1c">31 blocks, 62 squares.</text>
+  <text x="450" y="384" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">Can every square be covered,</text>
+  <text x="450" y="410" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">with no overlap and nothing</text>
+  <text x="450" y="436" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="21" fill="#1f2937">hanging off the edge?</text>
+</svg>
