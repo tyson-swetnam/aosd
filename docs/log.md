@@ -49,6 +49,10 @@ Removal**.
   checked against the PDF, and an Internet Archive copy of Ehrlich's book is
   marked as available to print-disabled readers only.
 
+- **Update**: the header logo is now the University of New Mexico wordmark
+  (`assets/unm.png`), replacing the University of Arizona logo, to match the
+  favicon and the other UNM course sites. Winfree's course was taught at the
+  University of Arizona; that credit stays in the page text.
 - **Update**: CI follows [UNM-CARC/docs](https://github.com/UNM-CARC/docs).
   `.github/workflows/docs.yml` has the same `okf-conformance` job (the
   reference OKF validator, shared with idss-mesa.github.io, plus the
