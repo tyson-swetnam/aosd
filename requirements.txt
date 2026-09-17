@@ -1,3 +1,4 @@
-# Build/CI dependencies
-mkdocs-material>=9.7,<10
+# Local build dependencies; CI installs the same two packages
+# (`pip install zensical pyyaml`), as UNM-CARC/docs does.
+zensical
 pyyaml>=6.0

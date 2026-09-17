@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Post-build step: make the rendered site consumable by AI agents.
 
-Run AFTER `mkdocs build`. It:
+Run AFTER `zensical build`. It:
 
 1. Mirrors every source Markdown file — OKF v0.2 frontmatter intact — into
    the built site at each page's pretty URL:
@@ -331,7 +331,7 @@ def dest_for(rel: Path, site: Path) -> Path:
 def main():
     site = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "site"
     if not site.is_dir():
-        print(f"error: {site} not found — run `mkdocs build` first", file=sys.stderr)
+        print(f"error: {site} not found — run `zensical build` first", file=sys.stderr)
         sys.exit(2)
     base = site_url()
 

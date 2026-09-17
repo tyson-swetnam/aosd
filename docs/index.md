@@ -2,7 +2,6 @@
 okf_version: "0.2"
 title: "The Art of Scientific Discovery"
 description: "Professor Arthur T. Winfree's University of Arizona course in problem-solving strategy and creative thinking: five sections, the daily GamesWorth notebook, 55 problem pages, the reading list, and his original syllabus, republished under CC BY 4.0."
-license: "CC-BY-4.0"
 ---
 
 # The Art of Scientific Discovery

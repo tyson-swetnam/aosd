@@ -17,7 +17,7 @@ This site is published for people and for AI agents. `docs/` is an [Open Knowled
 ```bash
 uv venv --python 3.12 .venv
 uv pip install --python .venv/bin/python -r requirements.txt
-.venv/bin/mkdocs serve
+.venv/bin/zensical serve
 ```
 
-CI (`.github/workflows/main.yml`) validates the bundle, builds with `mkdocs build --strict`, runs `scripts/postbuild_agent_surface.py` and `scripts/check_site.py`, and deploys to GitHub Pages.
+CI (`.github/workflows/docs.yml`) follows [UNM-CARC/docs](https://github.com/UNM-CARC/docs): an `okf-conformance` job validates the OKF bundle and fails if `llms.txt`, `llms-full.txt` or the problem index are out of date, then a `deploy` job builds with Zensical (`zensical build --clean --strict`), runs `scripts/postbuild_agent_surface.py` and `scripts/check_site.py`, and deploys to GitHub Pages from `main`. Pull requests get the conformance checks and a trial build.

@@ -3,14 +3,14 @@
 This repository is the course site for **The Art of Scientific Discovery**,
 the late Professor Arthur T. Winfree's University of Arizona seminar in
 problem-solving strategy and creative thinking, republished under CC BY 4.0.
-It is built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-and deployed to <https://tyson-swetnam.github.io/aosd/>. The `docs/` tree is
+It is built with [Zensical](https://zensical.org/) (which reads `mkdocs.yml` and
+renders the Material theme) and deployed to <https://tyson-swetnam.github.io/aosd/>. The `docs/` tree is
 an **Open Knowledge Format (OKF) v0.2 knowledge bundle**
 ([spec](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)):
 every content page carries YAML frontmatter with `type`, `description`,
 `tags`, provenance (`generated`, `sources`) and lifecycle (`status`,
 `stale_after`, `superseded_by`) fields. `docs/index.md` is the bundle root
-(`okf_version`, `title`, `description`, `license`) and `docs/log.md` is the
+(`okf_version`, `title`, `description`) and `docs/log.md` is the
 OKF §9 dated change log.
 
 The agent surface (robots.txt, llms.txt, llms-full.txt, per-page Markdown
@@ -46,10 +46,10 @@ the scripts were adapted from the former.
 ```bash
 uv venv --python 3.12 .venv                                   # system Python is too old
 uv pip install --python .venv/bin/python -r requirements.txt
-.venv/bin/mkdocs serve                                        # live preview at http://localhost:8000
+.venv/bin/zensical serve                                      # live preview at http://localhost:8000
 .venv/bin/python scripts/okf_validate.py docs                 # OKF conformance (CI-enforced)
 .venv/bin/python scripts/gen_llms_txt.py                      # regenerate llms.txt indexes (CI checks drift)
-.venv/bin/mkdocs build --clean --strict                       # static site -> site/
+.venv/bin/zensical build --clean --strict                     # static site -> site/
 .venv/bin/python scripts/postbuild_agent_surface.py site      # after build: md mirror + okf meta + robots.txt
 .venv/bin/python scripts/check_site.py site                   # post-build assertions on site/ (CI-enforced)
 ```
@@ -109,7 +109,7 @@ uv pip install --python .venv/bin/python -r requirements.txt
    Update / Deprecation / Removal**.
 
 6. **Before committing**: `okf_validate.py`, `gen_llms_txt.py` (commit the
-   regenerated `llms*.txt`), then `mkdocs build --clean --strict`,
+   regenerated `llms*.txt`), then `zensical build --clean --strict`,
    `postbuild_agent_surface.py site` and `check_site.py site`. CI runs all
    of them and fails on any error or on llms drift.
 

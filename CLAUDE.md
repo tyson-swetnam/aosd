@@ -11,10 +11,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ```bash
 uv venv --python 3.12 .venv                                   # system Python is too old
 uv pip install --python .venv/bin/python -r requirements.txt
-.venv/bin/mkdocs serve                                        # live preview at http://localhost:8000
+.venv/bin/zensical serve                                      # live preview at http://localhost:8000
 .venv/bin/python scripts/okf_validate.py docs                 # OKF conformance (CI)
 .venv/bin/python scripts/gen_llms_txt.py                      # regenerate llms.txt indexes (CI checks drift)
-.venv/bin/mkdocs build --clean --strict                       # static site -> site/
+.venv/bin/zensical build --clean --strict                     # static site -> site/
 .venv/bin/python scripts/postbuild_agent_surface.py site      # after build: md mirror + okf meta + robots.txt
 .venv/bin/python scripts/check_site.py site                   # post-build assertions (CI)
 ```

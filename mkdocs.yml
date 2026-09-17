@@ -141,9 +141,11 @@ theme:
     - content.code.copy
     - content.code.prettify
     - content.tooltips
-  # University of New Mexico favicon (same file as the AI Automation and Agents course site).
+  # University of New Mexico favicon and header wordmark (the same files as the
+  # AI Automation and Agents course site). Winfree's course was taught at the
+  # University of Arizona; that credit stays in the page text, not the header.
   favicon: 'assets/unm.ico'
-  logo: 'assets/ua.png'
+  logo: 'assets/unm.png'
 
 # Options
 extra:

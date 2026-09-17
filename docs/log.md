@@ -49,6 +49,21 @@ Removal**.
   checked against the PDF, and an Internet Archive copy of Ehrlich's book is
   marked as available to print-disabled readers only.
 
+- **Update**: the header logo is now the University of New Mexico wordmark
+  (`assets/unm.png`), replacing the University of Arizona logo, to match the
+  favicon and the other UNM course sites. Winfree's course was taught at the
+  University of Arizona; that credit stays in the page text.
+- **Update**: CI follows [UNM-CARC/docs](https://github.com/UNM-CARC/docs).
+  `.github/workflows/docs.yml` has the same `okf-conformance` job (the
+  reference OKF validator, shared with idss-mesa.github.io, plus the
+  `llms.txt` drift check) and the same `deploy` job (Zensical build, agent
+  surface, `actions/deploy-pages`). This site adds a problem-index drift
+  check, a trial build on pull requests, `--strict` and `check_site.py`.
+  The site now builds with Zensical, which reads `mkdocs.yml`; the root
+  `index.md` no longer carries a `license` key, which the reference
+  validator does not expect (the licence stays in the page badge and the
+  JSON-LD).
+
 ## 2026-09-16
 
 - **Initialization**: made the site an Open Knowledge Format (OKF v0.2)
